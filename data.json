@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T06:45:00-04:00",
+  "updated": "2026-09-01T06:50:00-04:00",
   "kids": [
     {
       "id": "isaac",
@@ -66,6 +66,13 @@
       "note": "All day, all NPS schools (Monday after Labor Day)",
       "source": "NPS district and Hillside calendars",
       "url": "https://www.northvilleschools.org/about/calendar"
+    },
+    {
+      "title": "2026 Hillside Cross Country: Section 1",
+      "kid": "isaac",
+      "note": "Schoology course on Isaac's parent view. Desmond not listed in parent groups. Meet dates are on this tab from the Hillside calendar. No practice times posted.",
+      "source": "Schoology",
+      "url": "https://app.schoology.com/course/8401217408"
     },
     {
       "title": "Cross Country (Coed MS) @ Meads Mill",
