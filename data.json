@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T21:42:00-04:00",
+  "updated": "2026-09-01T06:35:58-04:00",
   "kids": [
     {
       "id": "isaac",
@@ -57,8 +57,25 @@
       "title": "Labor Day Recess - No School",
       "when": "2026-09-04",
       "note": "All day, all NPS schools",
-      "source": "Hillside and Moraine calendars",
+      "source": "NPS district calendar",
       "url": "https://www.northvilleschools.org/about/calendar"
+    },
+    {
+      "title": "Labor Day Recess - No School",
+      "when": "2026-09-07",
+      "note": "All day, all NPS schools (Monday after Labor Day)",
+      "source": "NPS district calendar",
+      "url": "https://www.northvilleschools.org/about/calendar"
+    },
+    {
+      "title": "Moraine Elementary Open House",
+      "when": "2026-09-16T17:30:00-04:00",
+      "end": "2026-09-16T19:00:00-04:00",
+      "note": "Rescheduled due to construction; principals email specifics. Virtual new-family orientation was Aug 26.",
+      "where": "Moraine Elementary",
+      "kid": "dax",
+      "source": "NPS Back to School Hub",
+      "url": "https://www.northvilleschools.org/family-resources/back-to-school-hub"
     }
   ]
 }
