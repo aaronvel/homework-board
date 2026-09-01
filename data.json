@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T06:50:00-04:00",
+  "updated": "2026-09-01T15:45:00-04:00",
   "kids": [
     {
       "id": "isaac",
@@ -141,6 +141,13 @@
       "kid": "both",
       "note": "Isaac and Desmond XC",
       "source": "Hillside calendar",
+      "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
+      "title": "Teacher Professional Day - No School",
+      "when": "2026-10-05",
+      "note": "No school for students (Hillside and Moraine)",
+      "source": "Hillside and Moraine calendars",
       "url": "https://hillside.northvilleschools.org/our-school/calendar"
     }
   ]
