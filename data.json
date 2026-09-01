@@ -1,0 +1,29 @@
+{
+  "updated": "2026-08-31T21:06:00-04:00",
+  "kids": [
+    {
+      "id": "isaac",
+      "name": "Isaac",
+      "grade": "6th",
+      "school": "Hillside Middle School",
+      "pickup": "3:03pm"
+    },
+    {
+      "id": "desmond",
+      "name": "Desmond",
+      "grade": "6th",
+      "school": "Hillside Middle School",
+      "pickup": "3:03pm"
+    },
+    {
+      "id": "dax",
+      "name": "Dax",
+      "grade": "3rd",
+      "school": "Moraine Elementary",
+      "pickup": "3:45pm",
+      "pickupHalfDay": "12:15pm"
+    }
+  ],
+  "assignments": [],
+  "activities": []
+}
