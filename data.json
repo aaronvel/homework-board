@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T06:37:30-04:00",
+  "updated": "2026-09-01T06:45:00-04:00",
   "kids": [
     {
       "id": "isaac",
@@ -73,7 +73,17 @@
       "end": "2026-09-09T17:00:00-04:00",
       "where": "Meads Mill Middle School",
       "kid": "both",
-      "note": "Isaac and Desmond XC; times from Hillside athletics calendar",
+      "note": "Isaac and Desmond XC",
+      "source": "Hillside calendar",
+      "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
+      "title": "CANCELED - Cross Country (Coed MS) @ Centennial",
+      "when": "2026-09-09T16:00:00-04:00",
+      "end": "2026-09-09T17:00:00-04:00",
+      "where": "Centennial Middle School",
+      "kid": "both",
+      "note": "Listed canceled on Hillside calendar. Same window as the Meads Mill meet.",
       "source": "Hillside calendar",
       "url": "https://hillside.northvilleschools.org/our-school/calendar"
     },
@@ -87,6 +97,16 @@
       "url": "https://hillside.northvilleschools.org/our-school/calendar"
     },
     {
+      "title": "Cross Country (Coed MS) vs Millennium",
+      "when": "2026-09-16T16:00:00-04:00",
+      "end": "2026-09-16T17:00:00-04:00",
+      "where": "Hillside Middle School",
+      "kid": "both",
+      "note": "Isaac and Desmond XC",
+      "source": "Hillside calendar",
+      "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
       "title": "Moraine Elementary Open House",
       "when": "2026-09-16T17:30:00-04:00",
       "end": "2026-09-16T19:00:00-04:00",
@@ -95,6 +115,26 @@
       "kid": "dax",
       "source": "NPS Back to School Hub",
       "url": "https://www.northvilleschools.org/family-resources/back-to-school-hub"
+    },
+    {
+      "title": "Cross Country (Coed MS) @ Scranton",
+      "when": "2026-09-23T16:00:00-04:00",
+      "end": "2026-09-23T17:00:00-04:00",
+      "where": "Scranton Middle School",
+      "kid": "both",
+      "note": "Isaac and Desmond XC",
+      "source": "Hillside calendar",
+      "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
+      "title": "Cross Country (Coed MS) vs Meads Mill",
+      "when": "2026-09-30T16:00:00-04:00",
+      "end": "2026-09-30T17:00:00-04:00",
+      "where": "Hillside Middle School",
+      "kid": "both",
+      "note": "Isaac and Desmond XC",
+      "source": "Hillside calendar",
+      "url": "https://hillside.northvilleschools.org/our-school/calendar"
     }
   ]
 }
