@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T17:10:00-04:00",
+  "updated": "2026-09-01T20:38:00-04:00",
   "kids": [
     {
       "id": "isaac",
@@ -149,6 +149,12 @@
       "note": "No school for students (Hillside and Moraine)",
       "source": "Hillside and Moraine calendars",
       "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
+      "title": "Hillside band: 2 school-owned baritones",
+      "note": "Locked in. Mouthpiece and pencil case still needed. Which 6th grader (Isaac or Desmond) is not set yet.",
+      "where": "Hillside Middle School",
+      "source": "Aaron"
     }
   ]
 }
