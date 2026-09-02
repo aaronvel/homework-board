@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T20:38:00-04:00",
+  "updated": "2026-09-02T06:45:00-04:00",
   "kids": [
     {
       "id": "isaac",
@@ -34,7 +34,7 @@
       "status": "completed",
       "score": "1/1",
       "url": "https://app.schoology.com/assignment/8538834462/info",
-      "note": "Submitted on time Aug 31. Confirmed submitted on assignment page Sep 1 afternoon re-pull."
+      "note": "Submitted on time Aug 31. Still completed 1/1 on Sep 2 morning pull."
     }
   ],
   "activities": [
@@ -48,7 +48,7 @@
       "title": "Washington D.C. Trip Informational Meeting",
       "when": "2026-09-02T18:00:00-04:00",
       "end": "2026-09-02T19:00:00-04:00",
-      "note": "Trip itself May 5-7. Meeting covers register, cost, what is needed. Grade not specified on calendar.",
+      "note": "Trip itself May 5-7 2027. Meeting covers register, cost, what is needed. Grade not specified on calendar (often geared to 8th).",
       "where": "Hillside Cafeteria",
       "source": "Hillside calendar",
       "url": "https://hillside.northvilleschools.org/our-school/calendar"
@@ -70,7 +70,7 @@
     {
       "title": "2026 Hillside Cross Country: Section 1",
       "kid": "isaac",
-      "note": "Schoology course on Isaac's parent view. Desmond not listed in parent groups. Meet dates are on this tab from the Hillside calendar. No practice times posted.",
+      "note": "Schoology course previously on Isaac's parent view (course 8401217408). Not shown in Courses/Groups menus on Sep 2 morning pull. Desmond still not listed. Meet dates stay on this tab from the Hillside calendar. No practice times posted.",
       "source": "Schoology",
       "url": "https://app.schoology.com/course/8401217408"
     },
