@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T06:45:00-04:00",
+  "updated": "2026-09-02T15:45:00-04:00",
   "kids": [
     {
       "id": "isaac",
@@ -26,6 +26,16 @@
   ],
   "assignments": [
     {
+      "id": "desmond-8514861949",
+      "title": "Time Capsule (Day 2) ----- Practice It",
+      "kid": "desmond",
+      "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
+      "due": "2026-09-03T15:00:00-04:00",
+      "status": "todo",
+      "url": "https://app.schoology.com/assignment/8514861949/info",
+      "note": "New on Sep 2 afternoon pull. Unsubmitted; score not posted (/1)."
+    },
+    {
       "id": "desmond-8538834462",
       "title": "What's Your Name?",
       "kid": "desmond",
@@ -34,7 +44,7 @@
       "status": "completed",
       "score": "1/1",
       "url": "https://app.schoology.com/assignment/8538834462/info",
-      "note": "Submitted on time Aug 31. Still completed 1/1 on Sep 2 morning pull."
+      "note": "Submitted on time Aug 31. Still completed 1/1 on Sep 2 afternoon pull."
     }
   ],
   "activities": [
@@ -70,7 +80,7 @@
     {
       "title": "2026 Hillside Cross Country: Section 1",
       "kid": "isaac",
-      "note": "Schoology course previously on Isaac's parent view (course 8401217408). Not shown in Courses/Groups menus on Sep 2 morning pull. Desmond still not listed. Meet dates stay on this tab from the Hillside calendar. No practice times posted.",
+      "note": "Schoology course previously on Isaac's parent view (course 8401217408). Still not shown in Courses/Groups on Sep 2 afternoon pull. Desmond still not listed. Meet dates stay on this tab from the Hillside calendar. No practice times posted.",
       "source": "Schoology",
       "url": "https://app.schoology.com/course/8401217408"
     },
@@ -117,7 +127,7 @@
       "title": "Moraine Elementary Open House",
       "when": "2026-09-16T17:30:00-04:00",
       "end": "2026-09-16T19:00:00-04:00",
-      "note": "Rescheduled due to construction; principals email specifics.",
+      "note": "Rescheduled due to construction; principals email specifics. Confirmed on Back to School Hub; not on Moraine calendar grid.",
       "where": "Moraine Elementary",
       "kid": "dax",
       "source": "NPS Back to School Hub",
@@ -148,6 +158,16 @@
       "when": "2026-10-05",
       "note": "No school for students (Hillside and Moraine)",
       "source": "Hillside and Moraine calendars",
+      "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
+      "title": "6th grade Camp Copneconic",
+      "when": "2026-10-21",
+      "end": "2026-10-23",
+      "where": "Camp Copneconic",
+      "kid": "both",
+      "note": "Hillside 6th grade trip Oct 21-23. Follow-on to Virtual 6th Grade Camp Meeting Sep 10. Added Sep 2 afternoon pull from Hillside Upcoming Events.",
+      "source": "Hillside calendar",
       "url": "https://hillside.northvilleschools.org/our-school/calendar"
     },
     {
