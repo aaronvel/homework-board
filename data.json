@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T06:40:00-04:00",
+  "updated": "2026-09-03T15:58:00-04:00",
   "kids": [
     {
       "id": "isaac",
@@ -26,6 +26,36 @@
   ],
   "assignments": [
     {
+      "id": "isaac-8518982370",
+      "title": "Band Handbook 26-27 LOCKS 9/25 @11:59 PM",
+      "kid": "isaac",
+      "course": "ARTS-BAND 6: 5th Hour",
+      "due": "2026-09-11T23:59:00-04:00",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/assignment/8518982370",
+      "note": "New on Sep 3 afternoon pull. Title also references LOCKS 9/25. Upcoming To-Do."
+    },
+    {
+      "id": "desmond-8518982379",
+      "title": "Band Handbook 26-27 LOCKS 9/25 @11:59 PM",
+      "kid": "desmond",
+      "course": "ARTS-BAND 6: 7th Hour",
+      "due": "2026-09-11T23:59:00-04:00",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/assignment/8518982379",
+      "note": "New on Sep 3 afternoon pull. Title also references LOCKS 9/25; listed due Fri Sep 11 11:59pm. Upcoming To-Do."
+    },
+    {
+      "id": "isaac-task-card-chart-20260903",
+      "title": "Task Card Chart - 9/3",
+      "kid": "isaac",
+      "course": "LANGUAGE AND LITERATURE 6",
+      "due": "2026-09-03",
+      "status": "completed",
+      "score": "Absent",
+      "note": "In Recently Completed on Sep 3 afternoon pull with grade mark Absent. No assignment page in Schoology (material not available). Flag for teacher check — may mean missed class/work today."
+    },
+    {
       "id": "desmond-8514863180",
       "title": "Obtain 1st Q Book (Due 9/10) ----- Learn About It, Practice It",
       "kid": "desmond",
@@ -33,7 +63,7 @@
       "due": "2026-09-10T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8514863180",
-      "note": "New on Sep 3 morning pull. On To-Do as Upcoming."
+      "note": "Still upcoming on Sep 3 afternoon pull."
     },
     {
       "id": "desmond-8514862145",
@@ -43,7 +73,7 @@
       "due": "2026-09-30T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8514862145",
-      "note": "New on Sep 3 morning pull. On To-Do as Upcoming."
+      "note": "Still upcoming on Sep 3 afternoon pull."
     },
     {
       "id": "desmond-8514861949",
@@ -54,7 +84,7 @@
       "status": "completed",
       "score": "1",
       "url": "https://app.schoology.com/assignment/8514861949/info",
-      "note": "Completed with score 1 on Sep 3 morning pull (moved off To-Do into Recently Completed)."
+      "note": "Still completed score 1 on Sep 3 afternoon pull."
     },
     {
       "id": "desmond-8538834462",
@@ -65,7 +95,7 @@
       "status": "completed",
       "score": "1/1",
       "url": "https://app.schoology.com/assignment/8538834462/info",
-      "note": "Submitted Aug 31. Still completed 1/1 on Sep 3 morning pull."
+      "note": "Still completed 1/1 on Sep 3 afternoon pull (due tonight)."
     }
   ],
   "activities": [
@@ -85,9 +115,18 @@
       "url": "https://hillside.northvilleschools.org/our-school/calendar"
     },
     {
+      "title": "Virtual Cedar Point Meeting for 7th grade",
+      "when": "2026-09-03T18:30:00-04:00",
+      "end": "2026-09-03T19:30:00-04:00",
+      "where": "Virtual",
+      "note": "Today on Hillside calendar. Kids are 6th — lower priority / not for Isaac or Desmond.",
+      "source": "Hillside calendar",
+      "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
       "title": "Labor Day Recess - No School",
       "when": "2026-09-04",
-      "note": "All day, all NPS schools",
+      "note": "All day, all NPS schools. Starts tomorrow.",
       "source": "NPS district and Hillside calendars",
       "url": "https://www.northvilleschools.org/about/calendar"
     },
@@ -101,9 +140,18 @@
     {
       "title": "2026 Hillside Cross Country: Section 1",
       "kid": "isaac",
-      "note": "Schoology course previously on Isaac's parent view (course 8401217408). Still not shown in Courses/Groups on Sep 3 morning pull. Desmond still not listed. Meet dates stay on this tab from the Hillside calendar. No practice times posted.",
+      "note": "Schoology course previously on Isaac's parent view (course 8401217408). Still not shown in Courses/Groups on Sep 3 afternoon pull. Desmond still not listed. Meet dates stay on this tab from the Hillside calendar. No practice times posted.",
       "source": "Schoology",
       "url": "https://app.schoology.com/course/8401217408"
+    },
+    {
+      "title": "Band Instrument Rental Night",
+      "when": "2026-09-09T18:00:00-04:00",
+      "where": "Hillside Middle School",
+      "kid": "both",
+      "note": "From Desmond/Isaac Schoology upcoming. Flag with Band Handbook due Sep 11.",
+      "source": "Schoology ARTS-BAND 6",
+      "url": "https://app.schoology.com/assignment/8518982370"
     },
     {
       "title": "Cross Country (Coed MS) @ Meads Mill",
@@ -124,6 +172,28 @@
       "note": "Listed canceled on Hillside calendar. Same window as the Meads Mill meet.",
       "source": "Hillside calendar",
       "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
+      "title": "All 6th Grade Meet with Administration",
+      "when": "2026-09-10",
+      "kid": "both",
+      "note": "From Desmond Schoology upcoming events. Time not posted in parent view.",
+      "source": "Schoology",
+      "url": "https://app.schoology.com/parent/home"
+    },
+    {
+      "title": "Bring Instruments to Class",
+      "when": "2026-09-10",
+      "kid": "isaac",
+      "note": "Isaac Schoology upcoming: Bring Instruments to Class Sep 10. Desmond list showed Sep 11.",
+      "source": "Schoology ARTS-BAND 6"
+    },
+    {
+      "title": "Bring Instruments to Class",
+      "when": "2026-09-11",
+      "kid": "desmond",
+      "note": "Desmond Schoology upcoming: Bring Instruments to Class Sep 11. Band Handbook also due Sep 11 11:59pm.",
+      "source": "Schoology ARTS-BAND 6"
     },
     {
       "title": "Virtual 6th Grade Camp Meeting",
@@ -193,7 +263,7 @@
     },
     {
       "title": "Hillside band: 2 school-owned baritones",
-      "note": "Locked in. Mouthpiece and pencil case still needed. Which 6th grader (Isaac or Desmond) is not set yet.",
+      "note": "Locked in. Mouthpiece and pencil case still needed. Which 6th grader (Isaac or Desmond) is not set yet. Band Handbook due Sep 11; rental night Sep 9.",
       "where": "Hillside Middle School",
       "source": "Aaron"
     }
