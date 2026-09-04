@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T06:45:00-04:00",
+  "updated": "2026-09-04T15:45:00-04:00",
   "kids": [
     {
       "id": "isaac",
@@ -32,8 +32,8 @@
       "course": "ARTS-BAND 6: 5th Hour",
       "due": "2026-09-11T23:59:00-04:00",
       "status": "upcoming",
-      "url": "https://app.schoology.com/assignment/8518982370",
-      "note": "Still upcoming on Sep 4 morning pull. Title also references LOCKS 9/25."
+      "url": "https://app.schoology.com/assignment/8518982370/info",
+      "note": "Still upcoming on Sep 4 afternoon pull. Title also references LOCKS 9/25."
     },
     {
       "id": "desmond-8518982379",
@@ -42,8 +42,8 @@
       "course": "ARTS-BAND 6: 7th Hour",
       "due": "2026-09-11T23:59:00-04:00",
       "status": "upcoming",
-      "url": "https://app.schoology.com/assignment/8518982379",
-      "note": "Still upcoming on Sep 4 morning pull. Due Fri Sep 11 11:59pm; LOCKS 9/25 in title."
+      "url": "https://app.schoology.com/assignment/8518982379/info",
+      "note": "Still upcoming on Sep 4 afternoon pull. Due Fri Sep 11 11:59pm; LOCKS 9/25 in title."
     },
     {
       "id": "isaac-task-card-chart-20260903",
@@ -52,7 +52,7 @@
       "course": "LANGUAGE AND LITERATURE 6",
       "due": "2026-09-03",
       "status": "submitted",
-      "note": "Sep 4 morning: Recently Completed with no score → Submitted. Prior Sep 3 pull showed Absent. No assignment URL. Soft watch — may still need teacher check."
+      "note": "Sep 4 afternoon: still Recently Completed with no score → Submitted. Prior Sep 3 pull showed Absent. No assignment URL. Soft watch — may still need teacher check."
     },
     {
       "id": "desmond-8514863180",
@@ -61,8 +61,8 @@
       "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
       "due": "2026-09-10T23:59:00-04:00",
       "status": "upcoming",
-      "url": "https://app.schoology.com/assignment/8514863180",
-      "note": "Still upcoming on Sep 4 morning pull."
+      "url": "https://app.schoology.com/assignment/8514863180/info",
+      "note": "Still upcoming on Sep 4 afternoon pull."
     },
     {
       "id": "desmond-8514862145",
@@ -71,8 +71,8 @@
       "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
       "due": "2026-09-30T23:59:00-04:00",
       "status": "upcoming",
-      "url": "https://app.schoology.com/assignment/8514862145",
-      "note": "Still upcoming on Sep 4 morning pull."
+      "url": "https://app.schoology.com/assignment/8514862145/info",
+      "note": "Still upcoming on Sep 4 afternoon pull."
     },
     {
       "id": "desmond-8514861949",
@@ -83,7 +83,7 @@
       "status": "completed",
       "score": "1",
       "url": "https://app.schoology.com/assignment/8514861949/info",
-      "note": "Still completed score 1 on Sep 4 morning pull."
+      "note": "Still completed score 1 on Sep 4 afternoon pull."
     },
     {
       "id": "desmond-8538834462",
@@ -94,7 +94,7 @@
       "status": "completed",
       "score": "1",
       "url": "https://app.schoology.com/assignment/8538834462/info",
-      "note": "Still completed score 1 on Sep 4 morning pull."
+      "note": "Still completed score 1 on Sep 4 afternoon pull. Assignment page confirms submitted on time."
     }
   ],
   "activities": [
@@ -125,7 +125,7 @@
     {
       "title": "Labor Day Recess - No School",
       "when": "2026-09-04",
-      "note": "All day, all NPS schools. Today (Fri Sep 4). Recess continues through Mon Sep 7.",
+      "note": "All day, all NPS schools. Today (Fri Sep 4). Recess continues through Mon Sep 7. Confirmed afternoon pull.",
       "source": "NPS district and Hillside calendars",
       "url": "https://www.northvilleschools.org/about/calendar"
     },
@@ -139,7 +139,7 @@
     {
       "title": "2026 Hillside Cross Country: Section 1",
       "kid": "isaac",
-      "note": "Schoology course previously on Isaac's parent view (course 8401217408). Still not shown in Courses/Groups on Sep 4 morning pull. Desmond still not listed. Meet dates stay on this tab from the Hillside calendar. No practice times posted.",
+      "note": "Schoology course previously on Isaac's parent view (course 8401217408). Still not shown in Courses/Groups on Sep 4 afternoon pull. Desmond still not listed. Meet dates stay on this tab from the Hillside calendar. No practice times posted.",
       "source": "Schoology",
       "url": "https://app.schoology.com/course/8401217408"
     },
