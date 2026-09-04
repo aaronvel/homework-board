@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T15:58:00-04:00",
+  "updated": "2026-09-04T06:45:00-04:00",
   "kids": [
     {
       "id": "isaac",
@@ -33,7 +33,7 @@
       "due": "2026-09-11T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8518982370",
-      "note": "New on Sep 3 afternoon pull. Title also references LOCKS 9/25. Upcoming To-Do."
+      "note": "Still upcoming on Sep 4 morning pull. Title also references LOCKS 9/25."
     },
     {
       "id": "desmond-8518982379",
@@ -43,7 +43,7 @@
       "due": "2026-09-11T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8518982379",
-      "note": "New on Sep 3 afternoon pull. Title also references LOCKS 9/25; listed due Fri Sep 11 11:59pm. Upcoming To-Do."
+      "note": "Still upcoming on Sep 4 morning pull. Due Fri Sep 11 11:59pm; LOCKS 9/25 in title."
     },
     {
       "id": "isaac-task-card-chart-20260903",
@@ -51,9 +51,8 @@
       "kid": "isaac",
       "course": "LANGUAGE AND LITERATURE 6",
       "due": "2026-09-03",
-      "status": "completed",
-      "score": "Absent",
-      "note": "In Recently Completed on Sep 3 afternoon pull with grade mark Absent. No assignment page in Schoology (material not available). Flag for teacher check — may mean missed class/work today."
+      "status": "submitted",
+      "note": "Sep 4 morning: Recently Completed with no score → Submitted. Prior Sep 3 pull showed Absent. No assignment URL. Soft watch — may still need teacher check."
     },
     {
       "id": "desmond-8514863180",
@@ -63,7 +62,7 @@
       "due": "2026-09-10T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8514863180",
-      "note": "Still upcoming on Sep 3 afternoon pull."
+      "note": "Still upcoming on Sep 4 morning pull."
     },
     {
       "id": "desmond-8514862145",
@@ -73,7 +72,7 @@
       "due": "2026-09-30T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8514862145",
-      "note": "Still upcoming on Sep 3 afternoon pull."
+      "note": "Still upcoming on Sep 4 morning pull."
     },
     {
       "id": "desmond-8514861949",
@@ -84,7 +83,7 @@
       "status": "completed",
       "score": "1",
       "url": "https://app.schoology.com/assignment/8514861949/info",
-      "note": "Still completed score 1 on Sep 3 afternoon pull."
+      "note": "Still completed score 1 on Sep 4 morning pull."
     },
     {
       "id": "desmond-8538834462",
@@ -93,9 +92,9 @@
       "course": "SCIENCES 6: 2nd Hour",
       "due": "2026-09-03T23:59:00-04:00",
       "status": "completed",
-      "score": "1/1",
+      "score": "1",
       "url": "https://app.schoology.com/assignment/8538834462/info",
-      "note": "Still completed 1/1 on Sep 3 afternoon pull (due tonight)."
+      "note": "Still completed score 1 on Sep 4 morning pull."
     }
   ],
   "activities": [
@@ -126,7 +125,7 @@
     {
       "title": "Labor Day Recess - No School",
       "when": "2026-09-04",
-      "note": "All day, all NPS schools. Starts tomorrow.",
+      "note": "All day, all NPS schools. Today (Fri Sep 4). Recess continues through Mon Sep 7.",
       "source": "NPS district and Hillside calendars",
       "url": "https://www.northvilleschools.org/about/calendar"
     },
@@ -140,7 +139,7 @@
     {
       "title": "2026 Hillside Cross Country: Section 1",
       "kid": "isaac",
-      "note": "Schoology course previously on Isaac's parent view (course 8401217408). Still not shown in Courses/Groups on Sep 3 afternoon pull. Desmond still not listed. Meet dates stay on this tab from the Hillside calendar. No practice times posted.",
+      "note": "Schoology course previously on Isaac's parent view (course 8401217408). Still not shown in Courses/Groups on Sep 4 morning pull. Desmond still not listed. Meet dates stay on this tab from the Hillside calendar. No practice times posted.",
       "source": "Schoology",
       "url": "https://app.schoology.com/course/8401217408"
     },
@@ -177,7 +176,7 @@
       "title": "All 6th Grade Meet with Administration",
       "when": "2026-09-10",
       "kid": "both",
-      "note": "From Desmond Schoology upcoming events. Time not posted in parent view.",
+      "note": "Desmond Schoology: All 6th Grade Meet with Administration During 7th hour (Sep 10).",
       "source": "Schoology",
       "url": "https://app.schoology.com/parent/home"
     },
