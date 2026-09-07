@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T06:45:00-04:00",
+  "updated": "2026-09-07T16:05:00-04:00",
   "kids": [
     {
       "id": "isaac",
@@ -33,7 +33,7 @@
       "due": "2026-09-11T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8518982370/info",
-      "note": "Still upcoming on last confirmed Sep 4 afternoon; Sep 7 morning Schoology login wall — not reconfirmed. Title also references LOCKS 9/25."
+      "note": "Still upcoming on last confirmed Sep 4 afternoon; Sep 7 morning + afternoon Schoology login walls — not reconfirmed. Title also references LOCKS 9/25."
     },
     {
       "id": "desmond-8518982379",
@@ -43,7 +43,7 @@
       "due": "2026-09-11T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8518982379/info",
-      "note": "Still upcoming on last confirmed Sep 4 afternoon; Sep 7 morning Schoology login wall — not reconfirmed. Due Fri Sep 11 11:59pm; LOCKS 9/25 in title."
+      "note": "Still upcoming on last confirmed Sep 4 afternoon; Sep 7 morning + afternoon Schoology login walls — not reconfirmed. Due Fri Sep 11 11:59pm; LOCKS 9/25 in title."
     },
     {
       "id": "isaac-task-card-chart-20260903",
@@ -52,7 +52,7 @@
       "course": "LANGUAGE AND LITERATURE 6",
       "due": "2026-09-03",
       "status": "submitted",
-      "note": "Last confirmed Sep 4 afternoon: Submitted (no score). Sep 7 morning Schoology login wall — not reconfirmed. Soft watch."
+      "note": "Last confirmed Sep 4 afternoon: Submitted (no score). Sep 7 morning + afternoon Schoology login walls — not reconfirmed. Soft watch."
     },
     {
       "id": "desmond-8514863180",
@@ -62,7 +62,7 @@
       "due": "2026-09-10T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8514863180/info",
-      "note": "Still upcoming on last confirmed Sep 4 afternoon; Sep 7 morning Schoology login wall — not reconfirmed."
+      "note": "Still upcoming on last confirmed Sep 4 afternoon; Sep 7 morning + afternoon Schoology login walls — not reconfirmed."
     },
     {
       "id": "desmond-8514862145",
@@ -72,7 +72,7 @@
       "due": "2026-09-30T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8514862145/info",
-      "note": "Still upcoming on last confirmed Sep 4 afternoon; Sep 7 morning Schoology login wall — not reconfirmed."
+      "note": "Still upcoming on last confirmed Sep 4 afternoon; Sep 7 morning + afternoon Schoology login walls — not reconfirmed."
     },
     {
       "id": "desmond-8514861949",
@@ -83,7 +83,7 @@
       "status": "completed",
       "score": "1",
       "url": "https://app.schoology.com/assignment/8514861949/info",
-      "note": "Still completed score 1 on last confirmed Sep 4 afternoon; Sep 7 morning Schoology login wall — not reconfirmed."
+      "note": "Still completed score 1 on last confirmed Sep 4 afternoon; Sep 7 morning + afternoon Schoology login walls — not reconfirmed."
     },
     {
       "id": "desmond-8538834462",
@@ -94,7 +94,7 @@
       "status": "completed",
       "score": "1",
       "url": "https://app.schoology.com/assignment/8538834462/info",
-      "note": "Still completed score 1 on last confirmed Sep 4 afternoon; Sep 7 morning Schoology login wall — not reconfirmed. Assignment page confirms submitted on time."
+      "note": "Still completed score 1 on last confirmed Sep 4 afternoon; Sep 7 morning + afternoon Schoology login walls — not reconfirmed. Assignment page confirms submitted on time."
     }
   ],
   "activities": [
@@ -132,14 +132,14 @@
     {
       "title": "Labor Day Recess - No School",
       "when": "2026-09-07",
-      "note": "All day, all NPS schools. Today (Mon Sep 7 Labor Day recess). Classes resume Tue Sep 8. Confirmed Moraine + district calendars.",
+      "note": "All day, all NPS schools. Today (Mon Sep 7 Labor Day recess — last day). Classes resume Tue Sep 8. Reconfirmed afternoon on Hillside, Moraine, and district calendars. Schoology + ClassDojo both login walls this afternoon.",
       "source": "NPS district and Hillside calendars",
       "url": "https://www.northvilleschools.org/about/calendar"
     },
     {
       "title": "2026 Hillside Cross Country: Section 1",
       "kid": "isaac",
-      "note": "Schoology course previously on Isaac's parent view (course 8401217408). Sep 7 morning: Schoology login wall — could not recheck Courses/Groups. Meet dates stay from Hillside calendar. No practice times posted.",
+      "note": "Schoology course previously on Isaac's parent view (course 8401217408). Sep 7 morning + afternoon: Schoology login wall — could not recheck Courses/Groups. Meet dates stay from Hillside calendar. No practice times posted.",
       "source": "Schoology",
       "url": "https://app.schoology.com/course/8401217408"
     },
