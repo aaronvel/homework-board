@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T06:58:00-04:00",
+  "updated": "2026-09-08T16:05:00-04:00",
   "kids": [
     {
       "id": "isaac",
@@ -26,26 +26,42 @@
   ],
   "assignments": [
     {
+      "id": "isaac-u1141-submit-first",
+      "title": "U.1.1.4.1 - Practice Mastery Check - Submitting your first assignment",
+      "kid": "isaac",
+      "course": "INDIVIDUALS AND SOCIETIES 6",
+      "due": "2026-09-08T23:59:00-04:00",
+      "status": "submitted",
+      "note": "Confirmed Tue Sep 8 afternoon: Recently Completed overrides To-Do; Submitted, no score."
+    },
+    {
+      "id": "desmond-u1141-submit-first",
+      "title": "U.1.1.4.1 - Practice Mastery Check - Submitting your first assignment",
+      "kid": "desmond",
+      "course": "INDIVIDUALS AND SOCIETIES 6",
+      "due": "2026-09-08T23:59:00-04:00",
+      "status": "submitted",
+      "note": "Confirmed Tue Sep 8 afternoon: Recently Completed overrides To-Do; Submitted, no score."
+    },
+    {
       "id": "isaac-8550730024",
       "title": "U.1.1.4.2 - Practice Mastery Check - Getting to know you Survey",
       "kid": "isaac",
       "course": "INDIVIDUALS AND SOCIETIES 6",
-      "due": "2026-09-08T23:59:00-04:00",
+      "due": "2026-09-10T23:59:00-04:00",
       "status": "upcoming",
-      "score": "-/2",
       "url": "https://app.schoology.com/course/8505187173/assessments/8550730024",
-      "note": "Confirmed Tue Sep 8 morning re-pull after re-auth."
+      "note": "Confirmed Tue Sep 8 afternoon To-Do. Due moved/shown as Sep 10 11:59pm (was Sep 8 on morning board)."
     },
     {
       "id": "desmond-8550730024",
       "title": "U.1.1.4.2 - Practice Mastery Check - Getting to know you Survey",
       "kid": "desmond",
       "course": "INDIVIDUALS AND SOCIETIES 6",
-      "due": "2026-09-08T23:59:00-04:00",
+      "due": "2026-09-10T23:59:00-04:00",
       "status": "upcoming",
-      "score": "-/2",
       "url": "https://app.schoology.com/course/8505187173/assessments/8550730024",
-      "note": "Confirmed Tue Sep 8 morning re-pull after re-auth."
+      "note": "Confirmed Tue Sep 8 afternoon To-Do. Due Sep 10 11:59pm."
     },
     {
       "id": "isaac-8518982370",
@@ -55,7 +71,7 @@
       "due": "2026-09-11T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8518982370/info",
-      "note": "Confirmed Tue Sep 8 morning. Title also references LOCKS 9/25."
+      "note": "Confirmed Tue Sep 8 afternoon To-Do. Title also references LOCKS 9/25."
     },
     {
       "id": "desmond-8518982379",
@@ -65,7 +81,7 @@
       "due": "2026-09-11T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8518982379/info",
-      "note": "Confirmed Tue Sep 8 morning. Due Fri Sep 11 11:59pm; LOCKS 9/25 in title."
+      "note": "Confirmed Tue Sep 8 afternoon To-Do. Due Fri Sep 11 11:59pm; LOCKS 9/25 in title."
     },
     {
       "id": "isaac-task-card-chart-20260903",
@@ -74,7 +90,16 @@
       "course": "LANGUAGE AND LITERATURE 6",
       "due": "2026-09-03",
       "status": "submitted",
-      "note": "Confirmed Tue Sep 8 morning: Submitted (no score). Material not available within Schoology for assignment page."
+      "note": "Confirmed Tue Sep 8 afternoon Recently Completed: Submitted, no score."
+    },
+    {
+      "id": "desmond-science-safety-contract",
+      "title": "Science Safety Contract",
+      "kid": "desmond",
+      "course": "SCIENCES 6: 2nd Hour",
+      "due": "2026-09-10T15:03:00-04:00",
+      "status": "upcoming",
+      "note": "NEW Tue Sep 8 afternoon To-Do. Due Sep 10 3:03pm."
     },
     {
       "id": "desmond-8514863180",
@@ -84,7 +109,17 @@
       "due": "2026-09-10T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8514863180/info",
-      "note": "Confirmed Tue Sep 8 morning re-pull."
+      "note": "Confirmed Tue Sep 8 afternoon To-Do."
+    },
+    {
+      "id": "desmond-quarter1-goal-20260909",
+      "title": "Quarter 1 Goal (9/9) ----- Learn About It, Practice It, Evidence of Learning",
+      "kid": "desmond",
+      "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
+      "due": "2026-09-09T23:59:00-04:00",
+      "status": "completed",
+      "score": "1/1",
+      "note": "NEW Tue Sep 8 afternoon Recently Completed: Assignment submitted/on time, 1/1."
     },
     {
       "id": "desmond-8514862145",
@@ -94,7 +129,7 @@
       "due": "2026-09-30T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8514862145/info",
-      "note": "Confirmed Tue Sep 8 morning re-pull."
+      "note": "Confirmed Tue Sep 8 afternoon To-Do."
     },
     {
       "id": "desmond-8514861949",
@@ -105,7 +140,7 @@
       "status": "completed",
       "score": "1/1",
       "url": "https://app.schoology.com/assignment/8514861949/info",
-      "note": "Confirmed Tue Sep 8 morning: completed 1/1."
+      "note": "Confirmed Tue Sep 8 afternoon: completed 1/1."
     },
     {
       "id": "desmond-8538834462",
@@ -116,7 +151,7 @@
       "status": "completed",
       "score": "1/1",
       "url": "https://app.schoology.com/assignment/8538834462/info",
-      "note": "Confirmed Tue Sep 8 morning: completed 1/1; submission confirmed."
+      "note": "Confirmed Tue Sep 8 afternoon: completed 1/1; submission confirmed."
     }
   ],
   "activities": [
@@ -161,7 +196,7 @@
     {
       "title": "2026 Hillside Cross Country: Section 1",
       "kid": "isaac",
-      "note": "Schoology course previously on Isaac's parent view (course 8401217408). Tue Sep 8 morning re-pull: still not in Courses/Groups. Meet dates stay from Hillside Athletics. No practice times posted.",
+      "note": "Schoology course previously on Isaac's parent view (course 8401217408). Tue Sep 8 afternoon: still not in Courses/Groups for Isaac or Desmond. Meet dates stay from Hillside Athletics. No practice times posted.",
       "source": "Schoology",
       "url": "https://app.schoology.com/course/8401217408"
     },
@@ -180,7 +215,7 @@
       "end": "2026-09-09T17:00:00-04:00",
       "where": "Meads Mill Middle School",
       "kid": "both",
-      "note": "Isaac and Desmond XC. Confirmed live Tue Sep 8 morning on Hillside Athletics.",
+      "note": "Isaac and Desmond XC. Reconfirmed live Tue Sep 8 afternoon on Hillside Athletics.",
       "source": "Hillside Athletics",
       "url": "https://hillside.northvilleschools.org/student-life/athletics"
     },
@@ -190,7 +225,7 @@
       "end": "2026-09-09T17:00:00-04:00",
       "where": "Centennial Middle School",
       "kid": "both",
-      "note": "Still listed canceled on Hillside Athletics (Tue Sep 8 morning). Same window as Meads Mill meet.",
+      "note": "Still listed canceled on Hillside Athletics (Tue Sep 8 afternoon). Same window as Meads Mill meet.",
       "source": "Hillside Athletics",
       "url": "https://hillside.northvilleschools.org/student-life/athletics"
     },
@@ -293,7 +328,7 @@
       "when": "2026-09-08T18:30:00-04:00",
       "end": "2026-09-08T20:30:00-04:00",
       "where": "Old Village School, 405 W. Main St., Northville",
-      "note": "District meeting tonight; not a student event. Confirmed district home Tue Sep 8 morning.",
+      "note": "District meeting tonight; not a student event. Still on board for Tue Sep 8.",
       "source": "NPS district calendar",
       "url": "https://www.northvilleschools.org/about/calendar"
     },
