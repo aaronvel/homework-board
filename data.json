@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T06:45:00-04:00",
+  "updated": "2026-09-08T06:58:00-04:00",
   "kids": [
     {
       "id": "isaac",
@@ -26,6 +26,28 @@
   ],
   "assignments": [
     {
+      "id": "isaac-8550730024",
+      "title": "U.1.1.4.2 - Practice Mastery Check - Getting to know you Survey",
+      "kid": "isaac",
+      "course": "INDIVIDUALS AND SOCIETIES 6",
+      "due": "2026-09-08T23:59:00-04:00",
+      "status": "upcoming",
+      "score": "-/2",
+      "url": "https://app.schoology.com/course/8505187173/assessments/8550730024",
+      "note": "Confirmed Tue Sep 8 morning re-pull after re-auth."
+    },
+    {
+      "id": "desmond-8550730024",
+      "title": "U.1.1.4.2 - Practice Mastery Check - Getting to know you Survey",
+      "kid": "desmond",
+      "course": "INDIVIDUALS AND SOCIETIES 6",
+      "due": "2026-09-08T23:59:00-04:00",
+      "status": "upcoming",
+      "score": "-/2",
+      "url": "https://app.schoology.com/course/8505187173/assessments/8550730024",
+      "note": "Confirmed Tue Sep 8 morning re-pull after re-auth."
+    },
+    {
       "id": "isaac-8518982370",
       "title": "Band Handbook 26-27 LOCKS 9/25 @11:59 PM",
       "kid": "isaac",
@@ -33,7 +55,7 @@
       "due": "2026-09-11T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8518982370/info",
-      "note": "Still upcoming on last confirmed Sep 4 afternoon; Sep 7–8 Schoology login wall — not reconfirmed. Title also references LOCKS 9/25."
+      "note": "Confirmed Tue Sep 8 morning. Title also references LOCKS 9/25."
     },
     {
       "id": "desmond-8518982379",
@@ -43,7 +65,7 @@
       "due": "2026-09-11T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8518982379/info",
-      "note": "Still upcoming on last confirmed Sep 4 afternoon; Sep 7–8 Schoology login wall — not reconfirmed. Due Fri Sep 11 11:59pm; LOCKS 9/25 in title."
+      "note": "Confirmed Tue Sep 8 morning. Due Fri Sep 11 11:59pm; LOCKS 9/25 in title."
     },
     {
       "id": "isaac-task-card-chart-20260903",
@@ -52,7 +74,7 @@
       "course": "LANGUAGE AND LITERATURE 6",
       "due": "2026-09-03",
       "status": "submitted",
-      "note": "Last confirmed Sep 4 afternoon: Submitted (no score). Sep 7–8 Schoology login wall — not reconfirmed. Soft watch."
+      "note": "Confirmed Tue Sep 8 morning: Submitted (no score). Material not available within Schoology for assignment page."
     },
     {
       "id": "desmond-8514863180",
@@ -62,7 +84,7 @@
       "due": "2026-09-10T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8514863180/info",
-      "note": "Still upcoming on last confirmed Sep 4 afternoon; Sep 7–8 Schoology login wall — not reconfirmed."
+      "note": "Confirmed Tue Sep 8 morning re-pull."
     },
     {
       "id": "desmond-8514862145",
@@ -72,7 +94,7 @@
       "due": "2026-09-30T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8514862145/info",
-      "note": "Still upcoming on last confirmed Sep 4 afternoon; Sep 7–8 Schoology login wall — not reconfirmed."
+      "note": "Confirmed Tue Sep 8 morning re-pull."
     },
     {
       "id": "desmond-8514861949",
@@ -81,9 +103,9 @@
       "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
       "due": "2026-09-03T15:00:00-04:00",
       "status": "completed",
-      "score": "1",
+      "score": "1/1",
       "url": "https://app.schoology.com/assignment/8514861949/info",
-      "note": "Still completed score 1 on last confirmed Sep 4 afternoon; Sep 7–8 Schoology login wall — not reconfirmed."
+      "note": "Confirmed Tue Sep 8 morning: completed 1/1."
     },
     {
       "id": "desmond-8538834462",
@@ -92,9 +114,9 @@
       "course": "SCIENCES 6: 2nd Hour",
       "due": "2026-09-03T23:59:00-04:00",
       "status": "completed",
-      "score": "1",
+      "score": "1/1",
       "url": "https://app.schoology.com/assignment/8538834462/info",
-      "note": "Still completed score 1 on last confirmed Sep 4 afternoon; Sep 7–8 Schoology login wall — not reconfirmed. Assignment page previously confirmed submitted on time."
+      "note": "Confirmed Tue Sep 8 morning: completed 1/1; submission confirmed."
     }
   ],
   "activities": [
@@ -139,7 +161,7 @@
     {
       "title": "2026 Hillside Cross Country: Section 1",
       "kid": "isaac",
-      "note": "Schoology course previously on Isaac's parent view (course 8401217408). Sep 7–8: Schoology login wall — could not recheck Courses/Groups. Meet dates stay from Hillside Athletics. No practice times posted.",
+      "note": "Schoology course previously on Isaac's parent view (course 8401217408). Tue Sep 8 morning re-pull: still not in Courses/Groups. Meet dates stay from Hillside Athletics. No practice times posted.",
       "source": "Schoology",
       "url": "https://app.schoology.com/course/8401217408"
     },
