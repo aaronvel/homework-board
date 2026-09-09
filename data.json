@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T06:55:00-04:00",
+  "updated": "2026-09-09T15:50:00-04:00",
   "kids": [
     {
       "id": "isaac",
@@ -32,7 +32,7 @@
       "course": "INDIVIDUALS AND SOCIETIES 6",
       "due": "2026-09-08T23:59:00-04:00",
       "status": "submitted",
-      "note": "Confirmed Tue Sep 8 afternoon: Recently Completed overrides To-Do; Submitted, no score. Wed Sep 9 morning: Schoology LOGIN_WALL after child-dropdown switch (session required re-auth) — not reconfirmed."
+      "note": "Confirmed Wed Sep 9 afternoon Schoology pull (Chrome Person switch; attributed by viewing-as). Recently Completed; Submitted, no score."
     },
     {
       "id": "desmond-u1141-submit-first",
@@ -41,7 +41,7 @@
       "course": "INDIVIDUALS AND SOCIETIES 6",
       "due": "2026-09-08T23:59:00-04:00",
       "status": "submitted",
-      "note": "Confirmed Tue Sep 8 afternoon: Recently Completed overrides To-Do; Submitted, no score. Wed Sep 9 morning: Schoology LOGIN_WALL after child-dropdown switch (session required re-auth) — not reconfirmed."
+      "note": "Confirmed Wed Sep 9 afternoon Schoology pull (Chrome Person switch; attributed by viewing-as). Recently Completed; Submitted, no score."
     },
     {
       "id": "isaac-8550730024",
@@ -51,7 +51,7 @@
       "due": "2026-09-10T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505187173/assessments/8550730024",
-      "note": "Confirmed Tue Sep 8 afternoon To-Do. Due moved/shown as Sep 10 11:59pm (was Sep 8 on morning board). Wed Sep 9 morning: Schoology LOGIN_WALL after child-dropdown switch (session required re-auth) — not reconfirmed."
+      "note": "Confirmed Wed Sep 9 afternoon Schoology pull (Chrome Person switch; attributed by viewing-as). To-Do due Sep 10 11:59pm."
     },
     {
       "id": "desmond-8550730024",
@@ -61,7 +61,7 @@
       "due": "2026-09-10T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505187173/assessments/8550730024",
-      "note": "Confirmed Tue Sep 8 afternoon To-Do. Due Sep 10 11:59pm. Wed Sep 9 morning: Schoology LOGIN_WALL after child-dropdown switch (session required re-auth) — not reconfirmed."
+      "note": "Confirmed Wed Sep 9 afternoon Schoology pull (Chrome Person switch; attributed by viewing-as). To-Do due Sep 10 11:59pm."
     },
     {
       "id": "isaac-8518982370",
@@ -71,7 +71,7 @@
       "due": "2026-09-11T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8518982370/info",
-      "note": "Confirmed Tue Sep 8 afternoon To-Do. Title also references LOCKS 9/25. Wed Sep 9 morning: Schoology LOGIN_WALL after child-dropdown switch (session required re-auth) — not reconfirmed."
+      "note": "Confirmed Wed Sep 9 afternoon Schoology pull (Chrome Person switch; attributed by viewing-as). To-Do due Sep 11 11:59pm; LOCKS 9/25 in title."
     },
     {
       "id": "desmond-8518982379",
@@ -81,7 +81,7 @@
       "due": "2026-09-11T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8518982379/info",
-      "note": "Confirmed Tue Sep 8 afternoon To-Do. Due Fri Sep 11 11:59pm; LOCKS 9/25 in title. Wed Sep 9 morning: Schoology LOGIN_WALL after child-dropdown switch (session required re-auth) — not reconfirmed."
+      "note": "Confirmed Wed Sep 9 afternoon Schoology pull (Chrome Person switch; attributed by viewing-as). To-Do due Sep 11 11:59pm; LOCKS 9/25 in title."
     },
     {
       "id": "isaac-task-card-chart-20260903",
@@ -90,7 +90,7 @@
       "course": "LANGUAGE AND LITERATURE 6",
       "due": "2026-09-03",
       "status": "submitted",
-      "note": "Confirmed Tue Sep 8 afternoon Recently Completed: Submitted, no score. Wed Sep 9 morning: Schoology LOGIN_WALL after child-dropdown switch (session required re-auth) — not reconfirmed."
+      "note": "Confirmed Wed Sep 9 afternoon Schoology pull (Chrome Person switch; attributed by viewing-as). Recently Completed; Submitted, no score."
     },
     {
       "id": "desmond-science-safety-contract",
@@ -99,7 +99,7 @@
       "course": "SCIENCES 6: 2nd Hour",
       "due": "2026-09-10T15:03:00-04:00",
       "status": "upcoming",
-      "note": "NEW Tue Sep 8 afternoon To-Do. Due Sep 10 3:03pm. Wed Sep 9 morning: Schoology LOGIN_WALL after child-dropdown switch (session required re-auth) — not reconfirmed."
+      "note": "Confirmed Wed Sep 9 afternoon Schoology pull (Chrome Person switch; attributed by viewing-as). To-Do due Sep 10 3:03pm."
     },
     {
       "id": "desmond-8514863180",
@@ -109,7 +109,7 @@
       "due": "2026-09-10T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8514863180/info",
-      "note": "Confirmed Tue Sep 8 afternoon To-Do. Wed Sep 9 morning: Schoology LOGIN_WALL after child-dropdown switch (session required re-auth) — not reconfirmed."
+      "note": "Confirmed Wed Sep 9 afternoon Schoology pull (Chrome Person switch; attributed by viewing-as). To-Do due Sep 10 11:59pm."
     },
     {
       "id": "desmond-quarter1-goal-20260909",
@@ -119,7 +119,7 @@
       "due": "2026-09-09T23:59:00-04:00",
       "status": "completed",
       "score": "1/1",
-      "note": "NEW Tue Sep 8 afternoon Recently Completed: Assignment submitted/on time, 1/1. Wed Sep 9 morning: Schoology LOGIN_WALL after child-dropdown switch (session required re-auth) — not reconfirmed."
+      "note": "Confirmed Wed Sep 9 afternoon Schoology pull (Chrome Person switch; attributed by viewing-as). Recently Completed score 1."
     },
     {
       "id": "desmond-8514862145",
@@ -129,7 +129,16 @@
       "due": "2026-09-30T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/assignment/8514862145/info",
-      "note": "Confirmed Tue Sep 8 afternoon To-Do. Wed Sep 9 morning: Schoology LOGIN_WALL after child-dropdown switch (session required re-auth) — not reconfirmed."
+      "note": "Confirmed Wed Sep 9 afternoon Schoology pull (Chrome Person switch; attributed by viewing-as). To-Do due Sep 30 11:59pm."
+    },
+    {
+      "id": "desmond-vocab-anti-counter-20260930",
+      "title": "Vocab anti-/counter-",
+      "kid": "desmond",
+      "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
+      "due": "2026-09-30T23:59:00-04:00",
+      "status": "upcoming",
+      "note": "NEW Wed Sep 9 afternoon To-Do. Due Sep 30 11:59pm. Confirmed Wed Sep 9 afternoon Schoology pull (Chrome Person switch; attributed by viewing-as)."
     },
     {
       "id": "desmond-8514861949",
@@ -140,7 +149,7 @@
       "status": "completed",
       "score": "1/1",
       "url": "https://app.schoology.com/assignment/8514861949/info",
-      "note": "Confirmed Tue Sep 8 afternoon: completed 1/1. Wed Sep 9 morning: Schoology LOGIN_WALL after child-dropdown switch (session required re-auth) — not reconfirmed."
+      "note": "Confirmed Wed Sep 9 afternoon Schoology pull (Chrome Person switch; attributed by viewing-as). Recently Completed score 1."
     },
     {
       "id": "desmond-8538834462",
@@ -151,7 +160,7 @@
       "status": "completed",
       "score": "1/1",
       "url": "https://app.schoology.com/assignment/8538834462/info",
-      "note": "Confirmed Tue Sep 8 afternoon: completed 1/1; submission confirmed. Wed Sep 9 morning: Schoology LOGIN_WALL after child-dropdown switch (session required re-auth) — not reconfirmed."
+      "note": "Confirmed Wed Sep 9 afternoon Schoology pull (Chrome Person switch; attributed by viewing-as). Recently Completed score 1."
     }
   ],
   "activities": [
@@ -196,7 +205,7 @@
     {
       "title": "2026 Hillside Cross Country: Section 1",
       "kid": "isaac",
-      "note": "Schoology course previously on Isaac parent view (course 8401217408). Wed Sep 9 morning LOGIN_WALL — could not recheck Courses/Groups. Meet dates stay from Hillside Athletics. No practice times posted.",
+      "note": "Schoology course previously on Isaac parent view (course 8401217408). Wed Sep 9 afternoon: still absent from both boys Courses/Groups. Meet dates stay from Hillside Athletics. No practice times posted.",
       "source": "Schoology",
       "url": "https://app.schoology.com/course/8401217408"
     },
@@ -205,7 +214,7 @@
       "when": "2026-09-09T18:00:00-04:00",
       "where": "Hillside Middle School",
       "kid": "both",
-      "note": "From Desmond/Isaac Schoology upcoming (last confirmed Tue Sep 8). TODAY Wed Sep 9 6pm. Flag with Band Handbook due Sep 11. Not on public Hillside calendar grid.",
+      "note": "From Isaac+Desmond Schoology upcoming. TODAY Wed Sep 9 6pm. Flag with Band Handbook due Sep 11. Not on public Hillside calendar grid. Confirmed afternoon pull.",
       "source": "Schoology ARTS-BAND 6",
       "url": "https://app.schoology.com/assignment/8518982370"
     },
@@ -215,7 +224,7 @@
       "end": "2026-09-09T17:00:00-04:00",
       "where": "Meads Mill Middle School",
       "kid": "both",
-      "note": "Isaac and Desmond XC. Reconfirmed live Wed Sep 9 morning on Hillside Athletics (today).",
+      "note": "Isaac and Desmond XC. Reconfirmed live Wed Sep 9 afternoon on Hillside Athletics (today 4–5pm).",
       "source": "Hillside Athletics",
       "url": "https://hillside.northvilleschools.org/student-life/athletics"
     },
@@ -225,7 +234,7 @@
       "end": "2026-09-09T17:00:00-04:00",
       "where": "Centennial Middle School",
       "kid": "both",
-      "note": "Still listed canceled on Hillside Athletics (Wed Sep 9 morning). Same window as Meads Mill meet.",
+      "note": "Still listed canceled on Hillside Athletics (Wed Sep 9 afternoon). Same window as Meads Mill meet — location conflict; Meads Mill is the live meet.",
       "source": "Hillside Athletics",
       "url": "https://hillside.northvilleschools.org/student-life/athletics"
     },
@@ -233,7 +242,7 @@
       "title": "All 6th Grade Meet with Administration",
       "when": "2026-09-10",
       "kid": "both",
-      "note": "Desmond Schoology: All 6th Grade Meet with Administration During 7th hour (Sep 10).",
+      "note": "Previously on Desmond Schoology (Sep 10 during 7th hour). Not listed in Wed Sep 9 afternoon upcoming events — leave as prior watch item until reconfirmed.",
       "source": "Schoology",
       "url": "https://app.schoology.com/parent/home"
     },
@@ -241,14 +250,14 @@
       "title": "Bring Instruments to Class",
       "when": "2026-09-10",
       "kid": "isaac",
-      "note": "Isaac Schoology upcoming: Bring Instruments to Class Sep 10. Desmond list showed Sep 11.",
+      "note": "Isaac Schoology upcoming: Bring Instruments to Class Sep 10. Confirmed Wed Sep 9 afternoon.",
       "source": "Schoology ARTS-BAND 6"
     },
     {
       "title": "Bring Instruments to Class",
-      "when": "2026-09-11",
+      "when": "2026-09-10",
       "kid": "desmond",
-      "note": "Desmond Schoology upcoming: Bring Instruments to Class Sep 11. Band Handbook also due Sep 11 11:59pm.",
+      "note": "Desmond Schoology upcoming now shows Bring Instruments to Class Sep 10 (was Sep 11 on earlier pulls). Confirmed Wed Sep 9 afternoon.",
       "source": "Schoology ARTS-BAND 6"
     },
     {
@@ -319,7 +328,7 @@
     },
     {
       "title": "Hillside band: 2 school-owned baritones",
-      "note": "Locked in. Mouthpiece and pencil case still needed. Which 6th grader (Isaac or Desmond) is not set yet. Band Handbook due Sep 11; rental night Sep 9.",
+      "note": "Locked in. Mouthpiece and pencil case still needed. Which 6th grader (Isaac or Desmond) is not set yet. Band Handbook due Sep 11; rental night tonight Sep 9 6pm.",
       "where": "Hillside Middle School",
       "source": "Aaron"
     },
@@ -340,6 +349,30 @@
       "note": "District meeting; not a student event.",
       "source": "NPS district calendar",
       "url": "https://www.northvilleschools.org/about/calendar"
+    },
+    {
+      "title": "Watch Part 1 of Le Petit Nicolas",
+      "when": "2026-09-09",
+      "kid": "both",
+      "note": "NEW Wed Sep 9 afternoon Schoology upcoming for Isaac and Desmond (French). Today.",
+      "source": "Schoology Lang Acq-French 6",
+      "url": "https://app.schoology.com/parent/home"
+    },
+    {
+      "title": "iReady ELA Testing",
+      "when": "2026-09-15",
+      "kid": "desmond",
+      "note": "NEW Wed Sep 9 afternoon from Desmond Schoology upcoming.",
+      "source": "Schoology",
+      "url": "https://app.schoology.com/parent/home"
+    },
+    {
+      "title": "iReady Math Testing",
+      "when": "2026-09-17",
+      "kid": "desmond",
+      "note": "NEW Wed Sep 9 afternoon from Desmond Schoology upcoming.",
+      "source": "Schoology",
+      "url": "https://app.schoology.com/parent/home"
     }
   ]
 }
