@@ -1,1 +1,298 @@
-{"updated":"2026-09-10T15:49:10-04:00","kids":[{"id":"isaac","name":"Isaac","grade":"6th","school":"Hillside Middle School","pickup":"3:03pm"},{"id":"desmond","name":"Desmond","grade":"6th","school":"Hillside Middle School","pickup":"3:03pm"},{"id":"dax","name":"Dax","grade":"3rd","school":"Moraine Elementary","pickup":"3:45pm","pickupHalfDay":"12:15pm"}],"assignments":[{"id":"isaac-u1141-submit-first","title":"U.1.1.4.1 - Practice Mastery Check - Submitting your first assignment","kid":"isaac","course":"INDIVIDUALS AND SOCIETIES 6","due":"2026-09-08T23:59:00-04:00","status":"completed","score":"2","note":"Confirmed Thu Sep 10 afternoon (viewing as Isaac). Recently Completed score 2.","completedAt":"2026-09-08"},{"id":"isaac-8550730024","title":"U.1.1.4.2 - Practice Mastery Check - Getting to know you Survey","kid":"isaac","course":"INDIVIDUALS AND SOCIETIES 6","due":"2026-09-10T23:59:00-04:00","status":"submitted","url":"https://app.schoology.com/course/8505187168/preview/126048205/parent?url=assignment/8550730024","note":"Confirmed Thu Sep 10 afternoon. Recently Completed; submitted, not yet graded.","completedAt":"2026-09-10"},{"id":"isaac-8518982370","title":"Band Handbook 26-27 LOCKS 9/25 @11:59 PM","kid":"isaac","course":"ARTS-BAND 6: 5th Hour","due":"2026-09-11T23:59:00-04:00","status":"completed","score":"8","url":"https://app.schoology.com/course/8505185773/preview/126048205/parent?url=assignment/8518982354","note":"NEW status Thu Sep 10 afternoon: Recently Completed grade 8 (was upcoming this morning).","completedAt":"2026-09-10"},{"id":"isaac-rhythm-packet-20260911","title":"The Basics of Music: Rhythm Packet Locks 9/23 @3:15 PM","kid":"isaac","course":"ARTS-BAND 6: 5th Hour","due":"2026-09-11T23:59:00-04:00","status":"upcoming","note":"NEW Thu Sep 10 afternoon To-Do. Due Fri Sep 11 11:59pm; locks 9/23. Read-only/not available in Schoology; no assignment URL."},{"id":"isaac-vocab-practice-20260910","title":"Vocabulary Practice - 9/10","kid":"isaac","course":"LANGUAGE AND LITERATURE 6","due":"2026-09-10","status":"completed","score":"2","note":"NEW Thu Sep 10 afternoon Recently Completed score 2. Material not available in Schoology.","completedAt":"2026-09-10"},{"id":"isaac-task-card-chart-20260903","title":"Task Card Chart - 9/3","kid":"isaac","course":"LANGUAGE AND LITERATURE 6","due":"2026-09-03","status":"missing","note":"Confirmed Thu Sep 10 afternoon Recently Completed still Absent. Soft watch."},{"id":"desmond-u1141-submit-first","title":"U.1.1.4.1 - Practice Mastery Check - Submitting your first assignment","kid":"desmond","course":"INDIVIDUALS AND SOCIETIES 6","due":"2026-09-08T23:59:00-04:00","status":"completed","score":"2","url":"https://app.schoology.com/course/8505187168/preview/126048204/parent?url=assignment/8555935226","note":"Confirmed Thu Sep 10 afternoon (viewing as Desmond). Recently Completed score 2.","completedAt":"2026-09-08"},{"id":"desmond-8550730024","title":"U.1.1.4.2 - Practice Mastery Check - Getting to know you Survey","kid":"desmond","course":"INDIVIDUALS AND SOCIETIES 6","due":"2026-09-10T23:59:00-04:00","status":"submitted","url":"https://app.schoology.com/course/8505187168/preview/126048204/parent?url=assignment/8550730024","note":"Confirmed Thu Sep 10 afternoon. Recently Completed; submitted, not yet graded.","completedAt":"2026-09-10"},{"id":"desmond-8518982379","title":"Band Handbook 26-27 LOCKS 9/25 @11:59 PM","kid":"desmond","course":"ARTS-BAND 6: 7th Hour","due":"2026-09-11T23:59:00-04:00","status":"completed","score":"8","url":"https://app.schoology.com/course/8505185773/preview/126048204/parent?url=assignment/8518982354","note":"Confirmed Thu Sep 10 afternoon Recently Completed grade 8.","completedAt":"2026-09-10"},{"id":"desmond-rhythm-packet-20260911","title":"The Basics of Music: Rhythm Packet Locks 9/23 @3:15 PM","kid":"desmond","course":"ARTS-BAND 6: 7th Hour","due":"2026-09-11T23:59:00-04:00","status":"upcoming","note":"NEW Thu Sep 10 afternoon To-Do. Due Fri Sep 11 11:59pm; locks 9/23. Read-only/not available in Schoology; no assignment URL."},{"id":"desmond-science-safety-contract","title":"Science Safety Contract","kid":"desmond","course":"SCIENCES 6: 2nd Hour","due":"2026-09-10T15:03:00-04:00","status":"missing","url":"https://app.schoology.com/assignment/8557618588","note":"OVERDUE as of Thu Sep 10 afternoon pull (due earlier today 3:03pm). Soft watch until resolved."},{"id":"desmond-8514863180","title":"Obtain 1st Q Book (Due 9/10) ----- Learn About It, Practice It","kid":"desmond","course":"ACAD RESRC 6: 1st Hour: Hufflepuff","due":"2026-09-10T23:59:00-04:00","status":"completed","score":"1","url":"https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514863180","note":"NEW status Thu Sep 10 afternoon: Recently Completed score 1 (was upcoming this morning).","completedAt":"2026-09-10"},{"id":"desmond-vocab-practice-20260910","title":"Vocabulary Practice","kid":"desmond","course":"LANGUAGE AND LITERATURE 6","due":"2026-09-10T14:59:00-04:00","status":"submitted","url":"https://app.schoology.com/course/8505187334/preview/126048204/parent?url=assignment/8561561635","note":"NEW Thu Sep 10 afternoon. Recently Completed Collected/submitted (was due ~2:59pm).","completedAt":"2026-09-10"},{"id":"desmond-quarter1-goal-20260909","title":"Quarter 1 Goal (9/9) ----- Learn About It, Practice It, Evidence of Learning","kid":"desmond","course":"ACAD RESRC 6: 1st Hour: Hufflepuff","due":"2026-09-09T23:59:00-04:00","status":"completed","score":"1","url":"https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514862230","note":"Confirmed Thu Sep 10 afternoon Recently Completed grade 1.","completedAt":"2026-09-09"},{"id":"desmond-8514862145","title":"Khan Academy (Sep) ----- Learn About It, Practice It, Evidence of Learning","kid":"desmond","course":"ACAD RESRC 6: 1st Hour: Hufflepuff","due":"2026-09-30T23:59:00-04:00","status":"upcoming","url":"https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514862145","note":"Confirmed Thu Sep 10 afternoon To-Do."},{"id":"desmond-vocab-anti-counter-20260930","title":"Vocab: anti- contr- counter- meaning against/opposite (Sep)","kid":"desmond","course":"ACAD RESRC 6: 1st Hour: Hufflepuff","due":"2026-09-30T23:59:00-04:00","status":"upcoming","url":"https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514863392","note":"Confirmed Thu Sep 10 afternoon To-Do."}],"activities":[{"title":"2026 Hillside Cross Country: Section 1","kid":"isaac","note":"Schoology XC course (8401217408) still ABSENT from Isaac and Desmond Courses Thu Sep 10 afternoon. Meet dates from Hillside Athletics. No practice times posted.","source":"Schoology","url":"https://app.schoology.com/course/8401217408"},{"title":"All 6th Grade Meet with Administration","when":"2026-09-10","kid":"both","note":"TODAY Thu Sep 10 during 7th hour (prior Desmond Schoology). Not re-listed on afternoon event rail; leave as today watch item.","source":"Schoology","url":"https://app.schoology.com/parent/home"},{"title":"Bring Instruments to Class","when":"2026-09-10","kid":"isaac","note":"TODAY Thu Sep 10. Confirmed Isaac Schoology upcoming events afternoon.","source":"Schoology ARTS-BAND 6","url":"https://app.schoology.com/course/8505185773/preview/126048205/parent?url=event/8550515666/profile"},{"title":"Bring Instruments to Class","when":"2026-09-10","kid":"desmond","note":"TODAY Thu Sep 10. Confirmed Desmond Schoology upcoming events afternoon.","source":"Schoology ARTS-BAND 6","url":"https://app.schoology.com/course/8505185773/preview/126048204/parent?url=event/8550515666/profile"},{"title":"Virtual 6th Grade Camp Meeting","when":"2026-09-10T18:00:00-04:00","end":"2026-09-10T19:00:00-04:00","where":"Virtual","kid":"both","source":"Hillside calendar","url":"https://hillside.northvilleschools.org/our-school/calendar","note":"TODAY Thu Sep 10 6–7pm ET. Reconfirmed Hillside calendar afternoon. Isaac & Desmond."},{"title":"Cross Country (Coed MS) vs Millennium","when":"2026-09-16T16:00:00-04:00","end":"2026-09-16T17:00:00-04:00","where":"Hillside Middle School","kid":"both","note":"Isaac and Desmond XC. HOME @ Hillside Wed Sep 16 4–5pm. Reconfirmed afternoon. Same evening as Moraine Open House 5:30pm — tight handoff.","source":"Hillside calendar","url":"https://hillside.northvilleschools.org/our-school/calendar"},{"title":"Moraine Elementary Open House","when":"2026-09-16T17:30:00-04:00","end":"2026-09-16T19:00:00-04:00","note":"Wed Sep 16 5:30–7:00pm due to construction. Same evening as XC home meet ending 5pm.","where":"Moraine Elementary","kid":"dax","source":"NPS Back to School Hub","url":"https://www.northvilleschools.org/family-resources/back-to-school-hub"},{"title":"Cross Country (Coed MS) @ Scranton","when":"2026-09-23T16:00:00-04:00","end":"2026-09-23T17:00:00-04:00","where":"Scranton Middle School","kid":"both","note":"Isaac and Desmond XC","source":"Hillside calendar","url":"https://hillside.northvilleschools.org/our-school/calendar"},{"title":"Cross Country (Coed MS) vs Meads Mill","when":"2026-09-30T16:00:00-04:00","end":"2026-09-30T17:00:00-04:00","where":"Hillside Middle School","kid":"both","note":"Isaac and Desmond XC","source":"Hillside calendar","url":"https://hillside.northvilleschools.org/our-school/calendar"},{"title":"Teacher Professional Day - No School","when":"2026-10-05","note":"No school for students (Hillside and Moraine)","source":"Hillside and Moraine calendars","url":"https://hillside.northvilleschools.org/our-school/calendar"},{"title":"6th grade Camp Copneconic","when":"2026-10-21","end":"2026-10-23","where":"Camp Copneconic","kid":"both","note":"Hillside 6th grade trip Oct 21-23. Follow-on to Virtual 6th Grade Camp Meeting Sep 10.","source":"Hillside calendar","url":"https://hillside.northvilleschools.org/our-school/calendar"},{"title":"Hillside band: 2 school-owned baritones","note":"Locked in. Mouthpiece and pencil case still needed. Which 6th grader not set yet. Both Band Handbooks now completed grade 8; Rhythm Packet due Fri Sep 11.","where":"Hillside Middle School","source":"Aaron"},{"title":"Committee of the Whole","when":"2026-09-15T18:30:00-04:00","end":"2026-09-15T20:30:00-04:00","where":"Old Village School, 405 W. Main St., Northville","note":"District meeting; not a student event.","source":"NPS district calendar","url":"https://www.northvilleschools.org/about/calendar"},{"title":"iReady ELA Testing","when":"2026-09-15","kid":"desmond","note":"Confirmed Thu Sep 10 afternoon Desmond Schoology upcoming (SCIENCES 6).","source":"Schoology","url":"https://app.schoology.com/course/8505187889/preview/126048204/parent?url=event/8558488175/profile"},{"title":"iReady Math Testing","when":"2026-09-17","kid":"desmond","note":"Confirmed Thu Sep 10 afternoon Desmond Schoology upcoming (SCIENCES 6).","source":"Schoology","url":"https://app.schoology.com/course/8505187889/preview/126048204/parent?url=event/8558488629/profile"}]}
+{
+  "updated": "2026-09-11T06:56:45-04:00",
+  "kids": [
+    {
+      "id": "isaac",
+      "name": "Isaac",
+      "grade": "6th",
+      "school": "Hillside Middle School",
+      "pickup": "3:03pm"
+    },
+    {
+      "id": "desmond",
+      "name": "Desmond",
+      "grade": "6th",
+      "school": "Hillside Middle School",
+      "pickup": "3:03pm"
+    },
+    {
+      "id": "dax",
+      "name": "Dax",
+      "grade": "3rd",
+      "school": "Moraine Elementary",
+      "pickup": "3:45pm",
+      "pickupHalfDay": "12:15pm"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "isaac-u1141-submit-first",
+      "title": "U.1.1.4.1 - Practice Mastery Check - Submitting your first assignment",
+      "kid": "isaac",
+      "course": "INDIVIDUALS AND SOCIETIES 6",
+      "due": "2026-09-08T23:59:00-04:00",
+      "status": "completed",
+      "score": "2",
+      "note": "Confirmed Thu Sep 10 afternoon (viewing as Isaac). Recently Completed score 2. Isaac Person session LOGIN_WALL Fri Sep 11 morning (Desmond Chrome Person) — status held from Thu Sep 10 afternoon.",
+      "completedAt": "2026-09-08"
+    },
+    {
+      "id": "isaac-8550730024",
+      "title": "U.1.1.4.2 - Practice Mastery Check - Getting to know you Survey",
+      "kid": "isaac",
+      "course": "INDIVIDUALS AND SOCIETIES 6",
+      "due": "2026-09-10T23:59:00-04:00",
+      "status": "submitted",
+      "url": "https://app.schoology.com/course/8505187168/preview/126048205/parent?url=assignment/8550730024",
+      "note": "Confirmed Thu Sep 10 afternoon. Recently Completed; submitted, not yet graded. Isaac Person session LOGIN_WALL Fri Sep 11 morning (Desmond Chrome Person) — status held from Thu Sep 10 afternoon.",
+      "completedAt": "2026-09-10"
+    },
+    {
+      "id": "isaac-8518982370",
+      "title": "Band Handbook 26-27 LOCKS 9/25 @11:59 PM",
+      "kid": "isaac",
+      "course": "ARTS-BAND 6: 5th Hour",
+      "due": "2026-09-11T23:59:00-04:00",
+      "status": "completed",
+      "score": "8",
+      "url": "https://app.schoology.com/course/8505185773/preview/126048205/parent?url=assignment/8518982354",
+      "note": "NEW status Thu Sep 10 afternoon: Recently Completed grade 8 (was upcoming this morning). Isaac Person session LOGIN_WALL Fri Sep 11 morning (Desmond Chrome Person) — status held from Thu Sep 10 afternoon.",
+      "completedAt": "2026-09-10"
+    },
+    {
+      "id": "isaac-rhythm-packet-20260911",
+      "title": "The Basics of Music: Rhythm Packet Locks 9/23 @3:15 PM",
+      "kid": "isaac",
+      "course": "ARTS-BAND 6: 5th Hour",
+      "due": "2026-09-11T23:59:00-04:00",
+      "status": "upcoming",
+      "note": "NEW Thu Sep 10 afternoon To-Do. Due Fri Sep 11 11:59pm; locks 9/23. Read-only/not available in Schoology; no assignment URL."
+    },
+    {
+      "id": "isaac-vocab-practice-20260910",
+      "title": "Vocabulary Practice - 9/10",
+      "kid": "isaac",
+      "course": "LANGUAGE AND LITERATURE 6",
+      "due": "2026-09-10",
+      "status": "completed",
+      "score": "2",
+      "note": "NEW Thu Sep 10 afternoon Recently Completed score 2. Material not available in Schoology. Isaac Person session LOGIN_WALL Fri Sep 11 morning (Desmond Chrome Person) — status held from Thu Sep 10 afternoon.",
+      "completedAt": "2026-09-10"
+    },
+    {
+      "id": "isaac-task-card-chart-20260903",
+      "title": "Task Card Chart - 9/3",
+      "kid": "isaac",
+      "course": "LANGUAGE AND LITERATURE 6",
+      "due": "2026-09-03",
+      "status": "missing",
+      "note": "Confirmed Thu Sep 10 afternoon Recently Completed still Absent. Soft watch. Isaac Person session LOGIN_WALL Fri Sep 11 morning (Desmond Chrome Person) — status held from Thu Sep 10 afternoon."
+    },
+    {
+      "id": "desmond-u1141-submit-first",
+      "title": "U.1.1.4.1 - Practice Mastery Check - Submitting your first assignment",
+      "kid": "desmond",
+      "course": "INDIVIDUALS AND SOCIETIES 6",
+      "due": "2026-09-08T23:59:00-04:00",
+      "status": "completed",
+      "score": "2",
+      "url": "https://app.schoology.com/course/8505187168/preview/126048204/parent?url=assignment/8555935226",
+      "note": "Confirmed Fri Sep 11 morning Recently Completed score 2 (still in rail).",
+      "completedAt": "2026-09-08"
+    },
+    {
+      "id": "desmond-8550730024",
+      "title": "U.1.1.4.2 - Practice Mastery Check - Getting to know you Survey",
+      "kid": "desmond",
+      "course": "INDIVIDUALS AND SOCIETIES 6",
+      "due": "2026-09-10T23:59:00-04:00",
+      "status": "submitted",
+      "url": "https://app.schoology.com/course/8505187168/preview/126048204/parent?url=assignment/8550730024",
+      "note": "Confirmed Fri Sep 11 morning Recently Completed; submitted, not yet graded.",
+      "completedAt": "2026-09-10"
+    },
+    {
+      "id": "desmond-8518982379",
+      "title": "Band Handbook 26-27 LOCKS 9/25 @11:59 PM",
+      "kid": "desmond",
+      "course": "ARTS-BAND 6: 7th Hour",
+      "due": "2026-09-11T23:59:00-04:00",
+      "status": "completed",
+      "score": "8",
+      "url": "https://app.schoology.com/course/8505185773/preview/126048204/parent?url=assignment/8518982354",
+      "note": "Confirmed Fri Sep 11 morning Recently Completed grade 8.",
+      "completedAt": "2026-09-10"
+    },
+    {
+      "id": "desmond-rhythm-packet-20260911",
+      "title": "The Basics of Music: Rhythm Packet Locks 9/23 @3:15 PM",
+      "kid": "desmond",
+      "course": "ARTS-BAND 6: 7th Hour",
+      "due": "2026-09-11T23:59:00-04:00",
+      "status": "upcoming",
+      "note": "Was To-Do Thu Sep 10 afternoon due Fri Sep 11. NOT listed on Fri morning Desmond To-Do/Upcoming/Recently Completed rail — soft watch / verify with kid (locks 9/23). No assignment URL."
+    },
+    {
+      "id": "desmond-science-safety-contract",
+      "title": "Science Safety Contract",
+      "kid": "desmond",
+      "course": "SCIENCES 6: 2nd Hour",
+      "due": "2026-09-10T15:03:00-04:00",
+      "status": "missing",
+      "url": "https://app.schoology.com/assignment/8557618588",
+      "note": "Confirmed Fri Sep 11 morning (viewing as Desmond): still OVERDUE on To-Do rail (due Thu Sep 10 3:03pm). Soft watch."
+    },
+    {
+      "id": "desmond-8514863180",
+      "title": "Obtain 1st Q Book (Due 9/10) ----- Learn About It, Practice It",
+      "kid": "desmond",
+      "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
+      "due": "2026-09-10T23:59:00-04:00",
+      "status": "completed",
+      "score": "1",
+      "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514863180",
+      "note": "Confirmed Fri Sep 11 morning Recently Completed score 1.",
+      "completedAt": "2026-09-10"
+    },
+    {
+      "id": "desmond-vocab-practice-20260910",
+      "title": "Vocabulary Practice",
+      "kid": "desmond",
+      "course": "LANGUAGE AND LITERATURE 6",
+      "due": "2026-09-10T14:59:00-04:00",
+      "status": "submitted",
+      "url": "https://app.schoology.com/course/8505187334/preview/126048204/parent?url=assignment/8561561635",
+      "note": "Confirmed Fri Sep 11 morning Recently Completed Collected/submitted.",
+      "completedAt": "2026-09-10"
+    },
+    {
+      "id": "desmond-quarter1-goal-20260909",
+      "title": "Quarter 1 Goal (9/9) ----- Learn About It, Practice It, Evidence of Learning",
+      "kid": "desmond",
+      "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
+      "due": "2026-09-09T23:59:00-04:00",
+      "status": "completed",
+      "score": "1",
+      "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514862230",
+      "note": "Confirmed Fri Sep 11 morning Recently Completed grade 1.",
+      "completedAt": "2026-09-09"
+    },
+    {
+      "id": "desmond-8514862145",
+      "title": "Khan Academy (Sep) ----- Learn About It, Practice It, Evidence of Learning",
+      "kid": "desmond",
+      "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
+      "due": "2026-09-30T23:59:00-04:00",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514862145",
+      "note": "Confirmed Fri Sep 11 morning To-Do (viewing as Desmond)."
+    },
+    {
+      "id": "desmond-vocab-anti-counter-20260930",
+      "title": "Vocab: anti- contr- counter- meaning against/opposite (Sep)",
+      "kid": "desmond",
+      "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
+      "due": "2026-09-30T23:59:00-04:00",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514863392",
+      "note": "Confirmed Fri Sep 11 morning To-Do (viewing as Desmond)."
+    }
+  ],
+  "activities": [
+    {
+      "title": "2026 Hillside Cross Country: Section 1",
+      "kid": "isaac",
+      "note": "Schoology XC course (8401217408) still ABSENT from Desmond Courses Fri Sep 11 morning (Isaac Person LOGIN_WALL — not rechecked). Meet dates from Hillside Athletics. No practice times posted.",
+      "source": "Schoology",
+      "url": "https://app.schoology.com/course/8401217408"
+    },
+    {
+      "title": "Cross Country (Coed MS) vs Millennium",
+      "when": "2026-09-16T16:00:00-04:00",
+      "end": "2026-09-16T17:00:00-04:00",
+      "where": "Hillside Middle School",
+      "kid": "both",
+      "note": "Isaac and Desmond XC. HOME @ Hillside Wed Sep 16 4–5pm. Reconfirmed afternoon. Same evening as Moraine Open House 5:30pm — tight handoff.",
+      "source": "Hillside calendar",
+      "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
+      "title": "Moraine Elementary Open House",
+      "when": "2026-09-16T17:30:00-04:00",
+      "end": "2026-09-16T19:00:00-04:00",
+      "note": "Wed Sep 16 5:30–7:00pm due to construction. Same evening as XC home meet ending 5pm.",
+      "where": "Moraine Elementary",
+      "kid": "dax",
+      "source": "NPS Back to School Hub",
+      "url": "https://www.northvilleschools.org/family-resources/back-to-school-hub"
+    },
+    {
+      "title": "Cross Country (Coed MS) @ Scranton",
+      "when": "2026-09-23T16:00:00-04:00",
+      "end": "2026-09-23T17:00:00-04:00",
+      "where": "Scranton Middle School",
+      "kid": "both",
+      "note": "Isaac and Desmond XC",
+      "source": "Hillside calendar",
+      "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
+      "title": "Cross Country (Coed MS) vs Meads Mill",
+      "when": "2026-09-30T16:00:00-04:00",
+      "end": "2026-09-30T17:00:00-04:00",
+      "where": "Hillside Middle School",
+      "kid": "both",
+      "note": "Isaac and Desmond XC",
+      "source": "Hillside calendar",
+      "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
+      "title": "Teacher Professional Day - No School",
+      "when": "2026-10-05",
+      "note": "No school for students (Hillside and Moraine)",
+      "source": "Hillside and Moraine calendars",
+      "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
+      "title": "6th grade Camp Copneconic",
+      "when": "2026-10-21",
+      "end": "2026-10-23",
+      "where": "Camp Copneconic",
+      "kid": "both",
+      "note": "Hillside 6th grade trip Oct 21-23. Follow-on to Virtual 6th Grade Camp Meeting Sep 10.",
+      "source": "Hillside calendar",
+      "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
+      "title": "Hillside band: 2 school-owned baritones",
+      "note": "Locked in. Mouthpiece and pencil case still needed. Which 6th grader not set yet. Both Band Handbooks completed grade 8. Rhythm Packet due Fri Sep 11 (Desmond not on morning To-Do rail — soft watch).",
+      "where": "Hillside Middle School",
+      "source": "Aaron"
+    },
+    {
+      "title": "Committee of the Whole",
+      "when": "2026-09-15T18:30:00-04:00",
+      "end": "2026-09-15T20:30:00-04:00",
+      "where": "Old Village School, 405 W. Main St., Northville",
+      "note": "District meeting; not a student event.",
+      "source": "NPS district calendar",
+      "url": "https://www.northvilleschools.org/about/calendar"
+    },
+    {
+      "title": "iReady ELA Testing",
+      "when": "2026-09-15",
+      "kid": "desmond",
+      "note": "Confirmed Thu Sep 10 afternoon Desmond Schoology upcoming (SCIENCES 6).",
+      "source": "Schoology",
+      "url": "https://app.schoology.com/course/8505187889/preview/126048204/parent?url=event/8558488175/profile"
+    },
+    {
+      "title": "iReady Math Testing",
+      "when": "2026-09-17",
+      "kid": "desmond",
+      "note": "Confirmed Thu Sep 10 afternoon Desmond Schoology upcoming (SCIENCES 6).",
+      "source": "Schoology",
+      "url": "https://app.schoology.com/course/8505187889/preview/126048204/parent?url=event/8558488629/profile"
+    }
+  ]
+}
