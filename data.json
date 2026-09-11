@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T06:56:45-04:00",
+  "updated": "2026-09-11T15:55:00-04:00",
   "kids": [
     {
       "id": "isaac",
@@ -26,6 +26,15 @@
   ],
   "assignments": [
     {
+      "id": "isaac-task-card-chart-20260903",
+      "title": "Task Card Chart - 9/3",
+      "kid": "isaac",
+      "course": "LANGUAGE AND LITERATURE 6",
+      "due": "2026-09-03",
+      "status": "missing",
+      "note": "Held from Thu Sep 10 afternoon Recently Completed still Absent. Soft watch. Fri Sep 11 afternoon: both Chrome People still viewing as Desmond \u2014 Isaac not rechecked."
+    },
+    {
       "id": "isaac-u1141-submit-first",
       "title": "U.1.1.4.1 - Practice Mastery Check - Submitting your first assignment",
       "kid": "isaac",
@@ -33,8 +42,19 @@
       "due": "2026-09-08T23:59:00-04:00",
       "status": "completed",
       "score": "2",
-      "note": "Confirmed Thu Sep 10 afternoon (viewing as Isaac). Recently Completed score 2. Isaac Person session LOGIN_WALL Fri Sep 11 morning (Desmond Chrome Person) — status held from Thu Sep 10 afternoon.",
+      "note": "Held from Thu Sep 10 afternoon (Recently Completed score 2). Fri Sep 11 afternoon: both Chrome People still viewing as Desmond \u2014 Isaac not rechecked.",
       "completedAt": "2026-09-08"
+    },
+    {
+      "id": "isaac-vocab-practice-20260910",
+      "title": "Vocabulary Practice - 9/10",
+      "kid": "isaac",
+      "course": "LANGUAGE AND LITERATURE 6",
+      "due": "2026-09-10",
+      "status": "completed",
+      "score": "2",
+      "note": "Held from Thu Sep 10 afternoon (Recently Completed score 2). Fri Sep 11 afternoon: both Chrome People still viewing as Desmond \u2014 Isaac not rechecked.",
+      "completedAt": "2026-09-10"
     },
     {
       "id": "isaac-8550730024",
@@ -44,7 +64,7 @@
       "due": "2026-09-10T23:59:00-04:00",
       "status": "submitted",
       "url": "https://app.schoology.com/course/8505187168/preview/126048205/parent?url=assignment/8550730024",
-      "note": "Confirmed Thu Sep 10 afternoon. Recently Completed; submitted, not yet graded. Isaac Person session LOGIN_WALL Fri Sep 11 morning (Desmond Chrome Person) — status held from Thu Sep 10 afternoon.",
+      "note": "Held from Thu Sep 10 afternoon (submitted). Fri Sep 11 afternoon: both Chrome People still viewing as Desmond \u2014 Isaac not rechecked.",
       "completedAt": "2026-09-10"
     },
     {
@@ -56,7 +76,7 @@
       "status": "completed",
       "score": "8",
       "url": "https://app.schoology.com/course/8505185773/preview/126048205/parent?url=assignment/8518982354",
-      "note": "NEW status Thu Sep 10 afternoon: Recently Completed grade 8 (was upcoming this morning). Isaac Person session LOGIN_WALL Fri Sep 11 morning (Desmond Chrome Person) — status held from Thu Sep 10 afternoon.",
+      "note": "Held from Thu Sep 10 afternoon (Recently Completed grade 8). Fri Sep 11 afternoon: both Chrome People still viewing as Desmond \u2014 Isaac not rechecked.",
       "completedAt": "2026-09-10"
     },
     {
@@ -66,27 +86,7 @@
       "course": "ARTS-BAND 6: 5th Hour",
       "due": "2026-09-11T23:59:00-04:00",
       "status": "upcoming",
-      "note": "NEW Thu Sep 10 afternoon To-Do. Due Fri Sep 11 11:59pm; locks 9/23. Read-only/not available in Schoology; no assignment URL."
-    },
-    {
-      "id": "isaac-vocab-practice-20260910",
-      "title": "Vocabulary Practice - 9/10",
-      "kid": "isaac",
-      "course": "LANGUAGE AND LITERATURE 6",
-      "due": "2026-09-10",
-      "status": "completed",
-      "score": "2",
-      "note": "NEW Thu Sep 10 afternoon Recently Completed score 2. Material not available in Schoology. Isaac Person session LOGIN_WALL Fri Sep 11 morning (Desmond Chrome Person) — status held from Thu Sep 10 afternoon.",
-      "completedAt": "2026-09-10"
-    },
-    {
-      "id": "isaac-task-card-chart-20260903",
-      "title": "Task Card Chart - 9/3",
-      "kid": "isaac",
-      "course": "LANGUAGE AND LITERATURE 6",
-      "due": "2026-09-03",
-      "status": "missing",
-      "note": "Confirmed Thu Sep 10 afternoon Recently Completed still Absent. Soft watch. Isaac Person session LOGIN_WALL Fri Sep 11 morning (Desmond Chrome Person) — status held from Thu Sep 10 afternoon."
+      "note": "Held from Thu Sep 10 afternoon To-Do due Fri Sep 11 11:59pm; locks 9/23. Fri Sep 11 afternoon: both Chrome People still viewing as Desmond \u2014 Isaac not rechecked. Desmond still shows Rhythm Packet due tonight."
     },
     {
       "id": "desmond-u1141-submit-first",
@@ -97,73 +97,8 @@
       "status": "completed",
       "score": "2",
       "url": "https://app.schoology.com/course/8505187168/preview/126048204/parent?url=assignment/8555935226",
-      "note": "Confirmed Fri Sep 11 morning Recently Completed score 2 (still in rail).",
+      "note": "Confirmed Fri Sep 11 afternoon Recently Completed score 2 (viewing as Desmond).",
       "completedAt": "2026-09-08"
-    },
-    {
-      "id": "desmond-8550730024",
-      "title": "U.1.1.4.2 - Practice Mastery Check - Getting to know you Survey",
-      "kid": "desmond",
-      "course": "INDIVIDUALS AND SOCIETIES 6",
-      "due": "2026-09-10T23:59:00-04:00",
-      "status": "submitted",
-      "url": "https://app.schoology.com/course/8505187168/preview/126048204/parent?url=assignment/8550730024",
-      "note": "Confirmed Fri Sep 11 morning Recently Completed; submitted, not yet graded.",
-      "completedAt": "2026-09-10"
-    },
-    {
-      "id": "desmond-8518982379",
-      "title": "Band Handbook 26-27 LOCKS 9/25 @11:59 PM",
-      "kid": "desmond",
-      "course": "ARTS-BAND 6: 7th Hour",
-      "due": "2026-09-11T23:59:00-04:00",
-      "status": "completed",
-      "score": "8",
-      "url": "https://app.schoology.com/course/8505185773/preview/126048204/parent?url=assignment/8518982354",
-      "note": "Confirmed Fri Sep 11 morning Recently Completed grade 8.",
-      "completedAt": "2026-09-10"
-    },
-    {
-      "id": "desmond-rhythm-packet-20260911",
-      "title": "The Basics of Music: Rhythm Packet Locks 9/23 @3:15 PM",
-      "kid": "desmond",
-      "course": "ARTS-BAND 6: 7th Hour",
-      "due": "2026-09-11T23:59:00-04:00",
-      "status": "upcoming",
-      "note": "Was To-Do Thu Sep 10 afternoon due Fri Sep 11. NOT listed on Fri morning Desmond To-Do/Upcoming/Recently Completed rail — soft watch / verify with kid (locks 9/23). No assignment URL."
-    },
-    {
-      "id": "desmond-science-safety-contract",
-      "title": "Science Safety Contract",
-      "kid": "desmond",
-      "course": "SCIENCES 6: 2nd Hour",
-      "due": "2026-09-10T15:03:00-04:00",
-      "status": "missing",
-      "url": "https://app.schoology.com/assignment/8557618588",
-      "note": "Confirmed Fri Sep 11 morning (viewing as Desmond): still OVERDUE on To-Do rail (due Thu Sep 10 3:03pm). Soft watch."
-    },
-    {
-      "id": "desmond-8514863180",
-      "title": "Obtain 1st Q Book (Due 9/10) ----- Learn About It, Practice It",
-      "kid": "desmond",
-      "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
-      "due": "2026-09-10T23:59:00-04:00",
-      "status": "completed",
-      "score": "1",
-      "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514863180",
-      "note": "Confirmed Fri Sep 11 morning Recently Completed score 1.",
-      "completedAt": "2026-09-10"
-    },
-    {
-      "id": "desmond-vocab-practice-20260910",
-      "title": "Vocabulary Practice",
-      "kid": "desmond",
-      "course": "LANGUAGE AND LITERATURE 6",
-      "due": "2026-09-10T14:59:00-04:00",
-      "status": "submitted",
-      "url": "https://app.schoology.com/course/8505187334/preview/126048204/parent?url=assignment/8561561635",
-      "note": "Confirmed Fri Sep 11 morning Recently Completed Collected/submitted.",
-      "completedAt": "2026-09-10"
     },
     {
       "id": "desmond-quarter1-goal-20260909",
@@ -174,8 +109,95 @@
       "status": "completed",
       "score": "1",
       "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514862230",
-      "note": "Confirmed Fri Sep 11 morning Recently Completed grade 1.",
+      "note": "Confirmed Fri Sep 11 afternoon Recently Completed grade 1 (viewing as Desmond).",
       "completedAt": "2026-09-09"
+    },
+    {
+      "id": "desmond-vocab-practice-20260910",
+      "title": "Vocabulary Practice",
+      "kid": "desmond",
+      "course": "LANGUAGE AND LITERATURE 6",
+      "due": "2026-09-10T14:59:00-04:00",
+      "status": "submitted",
+      "url": "https://app.schoology.com/course/8505187334/preview/126048204/parent?url=assignment/8561561635",
+      "note": "Confirmed Fri Sep 11 afternoon Recently Completed checkmark/submitted (viewing as Desmond).",
+      "completedAt": "2026-09-10"
+    },
+    {
+      "id": "desmond-science-safety-contract",
+      "title": "Science Safety Contract",
+      "kid": "desmond",
+      "course": "SCIENCES 6: 2nd Hour",
+      "due": "2026-09-10T15:03:00-04:00",
+      "status": "completed",
+      "url": "https://app.schoology.com/course/8505187889/preview/126048204/parent?url=assignment/8557618588",
+      "note": "NEW completed Fri Sep 11 afternoon (viewing as Desmond): Recently Completed score 1 (was overdue).",
+      "score": "1",
+      "completedAt": "2026-09-11"
+    },
+    {
+      "id": "desmond-8514863180",
+      "title": "Obtain 1st Q Book (Due 9/10) ----- Learn About It, Practice It",
+      "kid": "desmond",
+      "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
+      "due": "2026-09-10T23:59:00-04:00",
+      "status": "completed",
+      "score": "1",
+      "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514863180",
+      "note": "Confirmed Fri Sep 11 afternoon Recently Completed score 1 (viewing as Desmond).",
+      "completedAt": "2026-09-10"
+    },
+    {
+      "id": "desmond-8550730024",
+      "title": "U.1.1.4.2 - Practice Mastery Check - Getting to know you Survey",
+      "kid": "desmond",
+      "course": "INDIVIDUALS AND SOCIETIES 6",
+      "due": "2026-09-10T23:59:00-04:00",
+      "status": "submitted",
+      "url": "https://app.schoology.com/course/8505187168/preview/126048204/parent?url=assignment/8550730024",
+      "note": "Confirmed Fri Sep 11 afternoon Recently Completed; submitted, not yet graded (viewing as Desmond).",
+      "completedAt": "2026-09-10"
+    },
+    {
+      "id": "desmond-lesson2-letters-20260911",
+      "title": "Lesson 2 - Letters",
+      "kid": "desmond",
+      "course": "WORLD LANGUAGE-FRENCH 6",
+      "due": "2026-09-11",
+      "status": "submitted",
+      "url": "https://app.schoology.com/course/8505185403/preview/126048204/parent?url=assignment/8562669034",
+      "note": "NEW Fri Sep 11 afternoon Recently Completed (viewing as Desmond); score not shown yet.",
+      "completedAt": "2026-09-11"
+    },
+    {
+      "id": "desmond-8518982379",
+      "title": "Band Handbook 26-27 LOCKS 9/25 @11:59 PM",
+      "kid": "desmond",
+      "course": "ARTS-BAND 6: 7th Hour",
+      "due": "2026-09-11T23:59:00-04:00",
+      "status": "completed",
+      "score": "8",
+      "url": "https://app.schoology.com/course/8505185773/preview/126048204/parent?url=assignment/8518982354",
+      "note": "Confirmed Fri Sep 11 afternoon Recently Completed grade 8 (viewing as Desmond).",
+      "completedAt": "2026-09-10"
+    },
+    {
+      "id": "desmond-rhythm-packet-20260911",
+      "title": "The Basics of Music: Rhythm Packet Locks 9/23 @3:15 PM",
+      "kid": "desmond",
+      "course": "ARTS-BAND 6: 7th Hour",
+      "due": "2026-09-11T23:59:00-04:00",
+      "status": "upcoming",
+      "note": "Confirmed Fri Sep 11 afternoon To-Do (viewing as Desmond): due tonight Fri Sep 11 11:59pm; locks 9/23. No assignment URL."
+    },
+    {
+      "id": "desmond-note-reading-packet-20260915",
+      "title": "The Basics of Music: Note Reading Packet LOCKS 9/29@3:15 PM",
+      "kid": "desmond",
+      "course": "ARTS-BAND 6: 7th Hour",
+      "due": "2026-09-15T23:59:00-04:00",
+      "status": "upcoming",
+      "note": "NEW Fri Sep 11 afternoon To-Do (viewing as Desmond). Due Tue Sep 15 11:59pm; locks 9/29. No assignment URL."
     },
     {
       "id": "desmond-8514862145",
@@ -185,7 +207,7 @@
       "due": "2026-09-30T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514862145",
-      "note": "Confirmed Fri Sep 11 morning To-Do (viewing as Desmond)."
+      "note": "Confirmed Fri Sep 11 afternoon To-Do (viewing as Desmond)."
     },
     {
       "id": "desmond-vocab-anti-counter-20260930",
@@ -195,14 +217,24 @@
       "due": "2026-09-30T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514863392",
-      "note": "Confirmed Fri Sep 11 morning To-Do (viewing as Desmond)."
+      "note": "Confirmed Fri Sep 11 afternoon To-Do (viewing as Desmond)."
+    },
+    {
+      "id": "desmond-1st-q-book-finish-20261015",
+      "title": "1st quarter book must be finished (10/15) ----- Evidence of Learning",
+      "kid": "desmond",
+      "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
+      "due": "2026-10-15T23:59:00-04:00",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514863196",
+      "note": "NEW Fri Sep 11 afternoon To-Do (viewing as Desmond)."
     }
   ],
   "activities": [
     {
       "title": "2026 Hillside Cross Country: Section 1",
       "kid": "isaac",
-      "note": "Schoology XC course (8401217408) still ABSENT from Desmond Courses Fri Sep 11 morning (Isaac Person LOGIN_WALL — not rechecked). Meet dates from Hillside Athletics. No practice times posted.",
+      "note": "Schoology XC course (8401217408) still ABSENT Fri Sep 11 afternoon (both Chrome People viewing as Desmond). Meet dates from Hillside Athletics. No practice times posted.",
       "source": "Schoology",
       "url": "https://app.schoology.com/course/8401217408"
     },
@@ -212,7 +244,7 @@
       "end": "2026-09-16T17:00:00-04:00",
       "where": "Hillside Middle School",
       "kid": "both",
-      "note": "Isaac and Desmond XC. HOME @ Hillside Wed Sep 16 4–5pm. Reconfirmed afternoon. Same evening as Moraine Open House 5:30pm — tight handoff.",
+      "note": "Isaac and Desmond XC. HOME @ Hillside Wed Sep 16 4\u20135pm. Reconfirmed Fri Sep 11 afternoon athletics. Same evening as Moraine Open House 5:30pm \u2014 tight handoff.",
       "source": "Hillside calendar",
       "url": "https://hillside.northvilleschools.org/our-school/calendar"
     },
@@ -220,7 +252,7 @@
       "title": "Moraine Elementary Open House",
       "when": "2026-09-16T17:30:00-04:00",
       "end": "2026-09-16T19:00:00-04:00",
-      "note": "Wed Sep 16 5:30–7:00pm due to construction. Same evening as XC home meet ending 5pm.",
+      "note": "Wed Sep 16 5:30\u20137:00pm due to construction. Same evening as XC home meet ending 5pm.",
       "where": "Moraine Elementary",
       "kid": "dax",
       "source": "NPS Back to School Hub",
@@ -265,7 +297,7 @@
     },
     {
       "title": "Hillside band: 2 school-owned baritones",
-      "note": "Locked in. Mouthpiece and pencil case still needed. Which 6th grader not set yet. Both Band Handbooks completed grade 8. Rhythm Packet due Fri Sep 11 (Desmond not on morning To-Do rail — soft watch).",
+      "note": "Locked in. Mouthpiece and pencil case still needed. Which 6th grader not set yet. Both Band Handbooks completed grade 8. Desmond Rhythm Packet still due Fri Sep 11 tonight; Note Reading Packet NEW due Tue Sep 15.",
       "where": "Hillside Middle School",
       "source": "Aaron"
     },
@@ -282,7 +314,7 @@
       "title": "iReady ELA Testing",
       "when": "2026-09-15",
       "kid": "desmond",
-      "note": "Confirmed Thu Sep 10 afternoon Desmond Schoology upcoming (SCIENCES 6).",
+      "note": "Confirmed Fri Sep 11 afternoon Desmond Schoology upcoming (SCIENCES 6).",
       "source": "Schoology",
       "url": "https://app.schoology.com/course/8505187889/preview/126048204/parent?url=event/8558488175/profile"
     },
@@ -290,9 +322,17 @@
       "title": "iReady Math Testing",
       "when": "2026-09-17",
       "kid": "desmond",
-      "note": "Confirmed Thu Sep 10 afternoon Desmond Schoology upcoming (SCIENCES 6).",
+      "note": "Confirmed Fri Sep 11 afternoon Desmond Schoology upcoming (SCIENCES 6).",
       "source": "Schoology",
       "url": "https://app.schoology.com/course/8505187889/preview/126048204/parent?url=event/8558488629/profile"
+    },
+    {
+      "title": "PE Extra Credit opportunity (print/sign)",
+      "when": "2026-09-25",
+      "kid": "desmond",
+      "note": "Fri Sep 11 afternoon Schoology PE post (Phil Timm, PHYS ED 6 5B): print Google Doc, parent/guardian sign, turn in during PE by Sep 25. Viewing as Desmond only.",
+      "source": "Schoology",
+      "url": "https://app.schoology.com/course/8505187733/preview/126048204/parent"
     }
   ]
 }
