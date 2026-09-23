@@ -1,1 +1,234 @@
-PLACEHOLDER
+{
+  "updated": "2026-09-23T07:00:00-04:00",
+  "kids": [
+    {
+      "id": "isaac",
+      "name": "Isaac",
+      "grade": "6th",
+      "school": "Hillside Middle School",
+      "pickup": "3:03pm"
+    },
+    {
+      "id": "desmond",
+      "name": "Desmond",
+      "grade": "6th",
+      "school": "Hillside Middle School",
+      "pickup": "3:03pm"
+    },
+    {
+      "id": "dax",
+      "name": "Dax",
+      "grade": "3rd",
+      "school": "Moraine Elementary",
+      "pickup": "3:45pm",
+      "pickupHalfDay": "12:15pm"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "isaac-lesson4-20260916",
+      "title": "Lesson 4 - Off the Grid",
+      "kid": "isaac",
+      "course": "ADVANCED MATHEMATICS 6",
+      "due": "2026-09-16T08:00:00-04:00",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/course/8505185403/preview/126048205/parent?url=assignment/8562669079",
+      "note": "Due date passed (2026-09-16). Wed Sep 23 ~6:55am ET morning watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+    },
+    {
+      "id": "isaac-note-reading-packet-20260915",
+      "title": "The Basics of Music: Note Reading Packet LOCKS 9/29@3:15 PM",
+      "kid": "isaac",
+      "course": "ARTS-BAND 6: 5th Hour",
+      "due": "2026-09-16T23:59:00-04:00",
+      "status": "upcoming",
+      "note": "Due date passed (2026-09-16). Wed Sep 23 ~6:55am ET morning watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+    },
+    {
+      "id": "isaac-practice-journal-w1w2-20260927",
+      "title": "Practice Journal Weeks 1 & 2 LOCKS 10/11@11:59 PM",
+      "kid": "isaac",
+      "course": "ARTS-BAND 6: 5th Hour",
+      "due": "2026-09-27T23:59:00-04:00",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/course/8505185773/preview/126048205/parent?url=assignment/8555538685",
+      "note": "Wed Sep 23 ~6:55am ET morning watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+    },
+    {
+      "id": "isaac-task-card-chart-20260903",
+      "title": "Task Card Chart - 9/3",
+      "kid": "isaac",
+      "course": "LANGUAGE AND LITERATURE 6",
+      "due": "2026-09-03",
+      "status": "missing",
+      "note": "Soft-watch: Schoology Recently Completed showed Absent as of Wed Sep 16 ~6:40am (Isaac Person). Stay until resolved. Do NOT set completedAt. Wed Sep 23 ~6:55am ET morning watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+    },
+    {
+      "id": "desmond-lesson3-parallelograms-20260916",
+      "title": "Lesson 3 - Exploring Parallelograms",
+      "kid": "desmond",
+      "course": "ADVANCED MATHEMATICS 6",
+      "due": "2026-09-16T08:00:00-04:00",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/course/8505185403/preview/126048204/parent?url=assignment/8562669054",
+      "note": "Due date passed (2026-09-16). Wed Sep 23 ~6:55am ET morning watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+    },
+    {
+      "id": "desmond-lesson4-20260916",
+      "title": "Lesson 4 - Off the Grid",
+      "kid": "desmond",
+      "course": "ADVANCED MATHEMATICS 6",
+      "due": "2026-09-16T08:00:00-04:00",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/course/8505185403/preview/126048204/parent?url=assignment/8562669079",
+      "note": "Due date passed (2026-09-16). Wed Sep 23 ~6:55am ET morning watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+    },
+    {
+      "id": "desmond-note-reading-packet-20260915",
+      "title": "The Basics of Music: Note Reading Packet LOCKS 9/29@3:15 PM",
+      "kid": "desmond",
+      "course": "ARTS-BAND 6: 7th Hour",
+      "due": "2026-09-16T23:59:00-04:00",
+      "status": "upcoming",
+      "note": "Due date passed (2026-09-16). Wed Sep 23 ~6:55am ET morning watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+    },
+    {
+      "id": "desmond-practice-journal-w1w2-20260927",
+      "title": "Practice Journal Weeks 1 & 2 LOCKS 10/11@11:59 PM",
+      "kid": "desmond",
+      "course": "ARTS-BAND 6: 7th Hour",
+      "due": "2026-09-27T23:59:00-04:00",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/course/8505185773/preview/126048204/parent?url=assignment/8555538685",
+      "note": "Wed Sep 23 ~6:55am ET morning watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+    },
+    {
+      "id": "desmond-8514862145",
+      "title": "Khan Academy (Sep) ----- Learn About It, Practice It, Evidence of Learning",
+      "kid": "desmond",
+      "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
+      "due": "2026-09-30T23:59:00-04:00",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514862145",
+      "note": "Wed Sep 23 ~6:55am ET morning watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+    },
+    {
+      "id": "desmond-vocab-anti-counter-20260930",
+      "title": "Vocab: anti- contr- counter- meaning against/opposite (Sep)",
+      "kid": "desmond",
+      "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
+      "due": "2026-09-30T23:59:00-04:00",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514863392",
+      "note": "Wed Sep 23 ~6:55am ET morning watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+    },
+    {
+      "id": "desmond-1st-q-book-finish-20261015",
+      "title": "1st quarter book must be finished (10/15) ----- Evidence of Learning",
+      "kid": "desmond",
+      "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
+      "due": "2026-10-15T23:59:00-04:00",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514863196",
+      "note": "Wed Sep 23 ~6:55am ET morning watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+    }
+  ],
+  "activities": [
+    {
+      "title": "Board refresh note - Wed Sep 23 morning",
+      "note": "Hygiene refresh Wed Sep 23 ~7:00am ET. Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - assignment statuses held from Wed Sep 16 morning; no invented missing/completed. Soft-watch Isaac Task Card Chart Absent stays. Dropped past: Tue Sep 22 board note + NPS BOE meeting. Today: XC @ Scranton 4-5pm (Isaac/Desmond, confirmed). Isaac French Day 4 Carnegie. Winchester Picture Day 9am-noon is NOT Hillside/Moraine. CORRECTED: XC Wed Sep 30 vs Meads Mill is at Hillside (home) 4-5pm (was wrongly @ Meads Mill on afternoon board). Upcoming: Teacher PD Oct 5; Camp Copneconic Oct 21-23. Pickups: Hillside 3:03pm; Moraine 3:45pm. ClassDojo SKIPPED_LOGIN_WALL (no separate Dojo handoff). Aaron Homeroom Schoology re-sign needed (clean login destination=parent/home on Isaac + Your Chrome).",
+      "source": "Homeroom",
+      "when": "2026-09-23"
+    },
+    {
+      "title": "2026 Hillside Cross Country: Section 1",
+      "kid": "isaac",
+      "note": "Meet dates: Sep 23 @ Scranton 4-5pm; Sep 30 vs Meads Mill 4-5pm at Hillside (home). Schoology course presence not rechecked (LOGIN_WALL both People).",
+      "source": "Schoology",
+      "url": "https://app.schoology.com/course/8401217408"
+    },
+    {
+      "title": "Cross Country (Coed MS) @ Scranton",
+      "when": "2026-09-23T16:00:00-04:00",
+      "end": "2026-09-23T17:00:00-04:00",
+      "where": "Scranton Middle School",
+      "kid": "both",
+      "note": "Isaac and Desmond XC - Wed Sep 23 4:00-5:00pm ET @ Scranton Middle School (Hillside athletics calendar confirmed Wed Sep 23 morning).",
+      "source": "Hillside calendar",
+      "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
+      "title": "Cross Country (Coed MS) vs Meads Mill (home)",
+      "when": "2026-09-30T16:00:00-04:00",
+      "end": "2026-09-30T17:00:00-04:00",
+      "where": "Hillside Middle School",
+      "kid": "both",
+      "note": "Isaac and Desmond XC - Wed Sep 30 4:00-5:00pm ET at Hillside Middle School (home). Dual-confirmed: Hillside calendar (venue Hillside) + Meads Mill calendar (@ Hillside). Corrects Tue Sep 22 afternoon board which listed @ Meads Mill from title alone.",
+      "source": "Hillside + Meads Mill calendars",
+      "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
+      "title": "Teacher Professional Day - No School",
+      "when": "2026-10-05",
+      "note": "No school for students (Hillside and Moraine). Next districtwide no-school after Sep 17-30 window.",
+      "source": "Hillside and Moraine calendars",
+      "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
+      "title": "6th grade Camp Copneconic",
+      "when": "2026-10-21",
+      "end": "2026-10-23",
+      "where": "Camp Copneconic",
+      "kid": "both",
+      "note": "Hillside 6th grade trip Oct 21-23.",
+      "source": "Hillside calendar",
+      "url": "https://hillside.northvilleschools.org/our-school/calendar"
+    },
+    {
+      "title": "Hillside band: 2 school-owned baritones",
+      "note": "Locked in. Mouthpiece and pencil case still needed. Note Reading Packet due date passed Wed Sep 16 - status held (LOGIN_WALL Fri Sep 18 morning).",
+      "where": "Hillside Middle School",
+      "source": "Aaron"
+    },
+    {
+      "title": "Day 4: Finish Carnegie Learning activities",
+      "when": "2026-09-23",
+      "kid": "isaac",
+      "note": "French Unit 1. Confirmed Isaac Schoology Wed Sep 16 ~6:40am; held (LOGIN_WALL Fri Sep 18 morning).",
+      "source": "Schoology",
+      "url": "https://app.schoology.com/course/8505187257/preview/126048205/parent?url=event/8564233640/profile"
+    },
+    {
+      "title": "Day 5: Review",
+      "when": "2026-09-25",
+      "kid": "isaac",
+      "note": "French Unit 1. Confirmed Isaac Schoology Wed Sep 16 ~6:40am; held (LOGIN_WALL Fri Sep 18 morning).",
+      "source": "Schoology",
+      "url": "https://app.schoology.com/course/8505187257/preview/126048205/parent?url=event/8564240791/profile"
+    },
+    {
+      "title": "Unit 1 Quiz",
+      "when": "2026-09-29",
+      "kid": "isaac",
+      "note": "French Unit 1. Confirmed Isaac Schoology Wed Sep 16 ~6:40am; held (LOGIN_WALL Fri Sep 18 morning).",
+      "source": "Schoology",
+      "url": "https://app.schoology.com/course/8505187257/preview/126048205/parent?url=event/8564245283/profile"
+    },
+    {
+      "title": "PE Extra Credit opportunity (print/sign)",
+      "when": "2026-09-25",
+      "kid": "desmond",
+      "note": "PE post: print/sign by Sep 25. Held from Wed Sep 16 viewing as Desmond. LOGIN_WALL Fri Sep 18 morning. Google Doc https://docs.google.com/document/d/1lKDp2AXBruC8SPGVpG5IZbyAVUJlgppjIKKLdcRxp-c/edit?usp=sharing",
+      "source": "Schoology",
+      "url": "https://app.schoology.com/course/8505187733/preview/126048204/parent"
+    },
+    {
+      "title": "Winchester Elementary Picture Day (not Hillside/Moraine)",
+      "when": "2026-09-23",
+      "note": "Winchester Elementary only, Wed Sep 23 9am-noon (16141 Winchester Dr.). Hillside and Moraine calendars have no Picture Day today \u2014 not for Isaac/Desmond/Dax.",
+      "source": "NPS / Winchester calendar",
+      "url": "https://winchester.northvilleschools.org/"
+    }
+  ],
+  "events": []
+}
