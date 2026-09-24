@@ -1,5 +1,6 @@
 {
-  "updated": "2026-09-24T15:40:00-04:00",
+  "updated": "2026-09-24T15:53:00-04:00",
+  "note": "Assignment statuses last verified Sep 16. Board is switching to Schoology email summaries and school calendars.",
   "kids": [
     {
       "id": "isaac",
@@ -33,7 +34,8 @@
       "due": "2026-09-16T08:00:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185403/preview/126048205/parent?url=assignment/8562669079",
-      "note": "Due date passed (2026-09-16). Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+      "verified": "last verified Sep 16",
+      "note": "Last verified Sep 16. Due date passed (2026-09-16). Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
     },
     {
       "id": "isaac-note-reading-packet-20260915",
@@ -42,7 +44,8 @@
       "course": "ARTS-BAND 6: 5th Hour",
       "due": "2026-09-16T23:59:00-04:00",
       "status": "upcoming",
-      "note": "Due date passed (2026-09-16). Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+      "verified": "last verified Sep 16",
+      "note": "Last verified Sep 16. Due date passed (2026-09-16). Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
     },
     {
       "id": "isaac-practice-journal-w1w2-20260927",
@@ -52,7 +55,8 @@
       "due": "2026-09-27T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048205/parent?url=assignment/8555538685",
-      "note": "Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+      "verified": "last verified Sep 16",
+      "note": "Last verified Sep 16. Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
     },
     {
       "id": "isaac-task-card-chart-20260903",
@@ -61,7 +65,8 @@
       "course": "LANGUAGE AND LITERATURE 6",
       "due": "2026-09-03",
       "status": "missing",
-      "note": "Soft-watch: Schoology Recently Completed showed Absent as of Wed Sep 16 ~6:40am (Isaac Person). Stay until resolved. Do NOT set completedAt. Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+      "verified": "last verified Sep 16",
+      "note": "Last verified Sep 16. Soft-watch: Schoology Recently Completed showed Absent as of Wed Sep 16 ~6:40am (Isaac Person). Stay until resolved. Do NOT set completedAt. Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
     },
     {
       "id": "desmond-lesson3-parallelograms-20260916",
@@ -71,7 +76,8 @@
       "due": "2026-09-16T08:00:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185403/preview/126048204/parent?url=assignment/8562669054",
-      "note": "Due date passed (2026-09-16). Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+      "verified": "last verified Sep 16",
+      "note": "Last verified Sep 16. Due date passed (2026-09-16). Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
     },
     {
       "id": "desmond-lesson4-20260916",
@@ -81,7 +87,8 @@
       "due": "2026-09-16T08:00:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185403/preview/126048204/parent?url=assignment/8562669079",
-      "note": "Due date passed (2026-09-16). Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+      "verified": "last verified Sep 16",
+      "note": "Last verified Sep 16. Due date passed (2026-09-16). Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
     },
     {
       "id": "desmond-note-reading-packet-20260915",
@@ -90,7 +97,8 @@
       "course": "ARTS-BAND 6: 7th Hour",
       "due": "2026-09-16T23:59:00-04:00",
       "status": "upcoming",
-      "note": "Due date passed (2026-09-16). Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+      "verified": "last verified Sep 16",
+      "note": "Last verified Sep 16. Due date passed (2026-09-16). Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
     },
     {
       "id": "desmond-practice-journal-w1w2-20260927",
@@ -100,7 +108,8 @@
       "due": "2026-09-27T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048204/parent?url=assignment/8555538685",
-      "note": "Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+      "verified": "last verified Sep 16",
+      "note": "Last verified Sep 16. Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
     },
     {
       "id": "desmond-8514862145",
@@ -110,7 +119,8 @@
       "due": "2026-09-30T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514862145",
-      "note": "Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+      "verified": "last verified Sep 16",
+      "note": "Last verified Sep 16. Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
     },
     {
       "id": "desmond-vocab-anti-counter-20260930",
@@ -120,7 +130,8 @@
       "due": "2026-09-30T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514863392",
-      "note": "Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+      "verified": "last verified Sep 16",
+      "note": "Last verified Sep 16. Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
     },
     {
       "id": "desmond-1st-q-book-finish-20261015",
@@ -130,7 +141,8 @@
       "due": "2026-10-15T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514863196",
-      "note": "Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
+      "verified": "last verified Sep 16",
+      "note": "Last verified Sep 16. Thu Sep 24 ~3:40pm ET afternoon watch: Schoology LOGIN_WALL both Chrome People (Isaac + Your Chrome/Desmond) - status held from Wed Sep 16; do not invent missing/completed."
     }
   ],
   "activities": [
