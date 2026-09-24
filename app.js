@@ -2,9 +2,20 @@ const state = { data: null, tab: "homework", kid: "all" };
 
 const $ = (id) => document.getElementById(id);
 
+const DATE_ONLY = /^(\d{4})-(\d{2})-(\d{2})$/;
+
+// Date-only values (YYYY-MM-DD) are calendar dates, not instants. new Date() would
+// read them as midnight UTC, which is the previous evening in Detroit. Pin them to
+// noon UTC so they land on the same calendar day in the America/Detroit display zone.
+function parseWhen(iso) {
+  const m = DATE_ONLY.exec(iso);
+  if (m) return new Date(Date.UTC(Number(m[1]), Number(m[2]) - 1, Number(m[3]), 12));
+  return new Date(iso);
+}
+
 function fmtWhen(iso) {
   if (!iso) return "";
-  const d = new Date(iso);
+  const d = parseWhen(iso);
   if (Number.isNaN(d.getTime())) return iso;
   return d.toLocaleString("en-US", {
     timeZone: "America/Detroit",
@@ -52,6 +63,22 @@ function escapeHtml(s) {
 
 function escapeAttr(s) {
   return escapeHtml(s).replace(/'/g, "&#39;");
+}
+
+function renderBoardNote() {
+  let el = $("board-note");
+  const text = state.data.note;
+  if (!text) {
+    if (el) el.remove();
+    return;
+  }
+  if (!el) {
+    el = document.createElement("p");
+    el.id = "board-note";
+    el.className = "board-note";
+    document.querySelector(".top").insertAdjacentElement("afterend", el);
+  }
+  el.textContent = text;
 }
 
 function renderPickup() {
@@ -133,6 +160,7 @@ function renderActivities() {
 function render() {
   const updated = state.data.updated ? fmtWhen(state.data.updated) : "";
   $("updated").textContent = updated ? `Updated ${updated}` : "";
+  renderBoardNote();
   renderPickup();
   renderFilters();
   renderHomework();

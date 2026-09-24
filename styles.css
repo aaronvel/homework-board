@@ -44,6 +44,13 @@ h1 { margin: 0.15rem 0 0; font-size: 2rem; font-weight: 600; }
   font-family: ui-sans-serif, system-ui, sans-serif;
 }
 
+.board-note {
+  margin: -0.5rem 0 1rem;
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+}
+
 .pickup {
   display: flex;
   flex-wrap: wrap;
