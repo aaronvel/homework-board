@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T06:45:00-04:00",
-  "note": "Assignment statuses last verified Sep 16. Board is built from Schoology parent emails (none received for Isaac/Desmond daily Email Summary or Overdue Submissions as of this morning) plus school calendars, FinalForms, ParentSquare, and teacher emails. No browser portal pulls.",
+  "updated": "2026-09-25T15:37:00-04:00",
+  "note": "Assignment statuses last verified Sep 16. Board is built from Schoology parent emails (none received for Isaac/Desmond daily Email Summary or Overdue Submissions as of this afternoon) plus school calendars, FinalForms, ParentSquare, and teacher emails. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -35,7 +35,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185403/preview/126048205/parent?url=assignment/8562669079",
       "verified": "last verified Sep 16",
-      "note": "Last verified Sep 16. Due date passed (2026-09-16). Fri Sep 25 ~6:45am ET morning watch: no Schoology Email Summary or Overdue Submissions for Isaac — status held; do not invent missing/completed."
+      "note": "Last verified Sep 16. Due date passed (2026-09-16). Fri Sep 25 ~3:37pm ET afternoon watch: no Schoology Email Summary or Overdue Submissions for Isaac — status held; do not invent missing/completed."
     },
     {
       "id": "isaac-note-reading-packet-20260915",
@@ -45,7 +45,7 @@
       "due": "2026-09-16T23:59:00-04:00",
       "status": "upcoming",
       "verified": "last verified Sep 16",
-      "note": "Last verified Sep 16. Due date passed (2026-09-16). Fri Sep 25 ~6:45am ET morning watch: no Schoology Email Summary or Overdue Submissions for Isaac — status held; do not invent missing/completed."
+      "note": "Last verified Sep 16. Due date passed (2026-09-16). Fri Sep 25 ~3:37pm ET afternoon watch: no Schoology Email Summary or Overdue Submissions for Isaac — status held; do not invent missing/completed."
     },
     {
       "id": "isaac-practice-journal-w1w2-20260927",
@@ -56,7 +56,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048205/parent?url=assignment/8555538685",
       "verified": "last verified Sep 16",
-      "note": "Last verified Sep 16. Fri Sep 25 ~6:45am ET morning watch: no Schoology Email Summary or Overdue Submissions for Isaac — status held; do not invent missing/completed."
+      "note": "Last verified Sep 16. Fri Sep 25 ~3:37pm ET afternoon watch: no Schoology Email Summary or Overdue Submissions for Isaac — status held; do not invent missing/completed."
     },
     {
       "id": "isaac-task-card-chart-20260903",
@@ -66,7 +66,7 @@
       "due": "2026-09-03",
       "status": "missing",
       "verified": "last verified Sep 16",
-      "note": "Last verified Sep 16. Soft-watch: Schoology Recently Completed showed Absent as of Wed Sep 16 ~6:40am (Isaac Person). Stay until resolved. Do NOT set completedAt. Fri Sep 25 ~6:45am ET morning watch: no Email Summary — status held."
+      "note": "Last verified Sep 16. Soft-watch: Schoology Recently Completed showed Absent as of Wed Sep 16 ~6:40am (Isaac Person). Stay until resolved. Do NOT set completedAt. Fri Sep 25 ~3:37pm ET afternoon watch: no Email Summary — status held."
     },
     {
       "id": "desmond-lesson3-parallelograms-20260916",
@@ -77,7 +77,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185403/preview/126048204/parent?url=assignment/8562669054",
       "verified": "last verified Sep 16",
-      "note": "Last verified Sep 16. Due date passed (2026-09-16). Fri Sep 25 ~6:45am ET morning watch: no Schoology Email Summary or Overdue Submissions for Desmond — status held; do not invent missing/completed."
+      "note": "Last verified Sep 16. Due date passed (2026-09-16). Fri Sep 25 ~3:37pm ET afternoon watch: no Schoology Email Summary or Overdue Submissions for Desmond — status held; do not invent missing/completed."
     },
     {
       "id": "desmond-lesson4-20260916",
@@ -88,7 +88,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185403/preview/126048204/parent?url=assignment/8562669079",
       "verified": "last verified Sep 16",
-      "note": "Last verified Sep 16. Due date passed (2026-09-16). Fri Sep 25 ~6:45am ET morning watch: no Schoology Email Summary or Overdue Submissions for Desmond — status held; do not invent missing/completed."
+      "note": "Last verified Sep 16. Due date passed (2026-09-16). Fri Sep 25 ~3:37pm ET afternoon watch: no Schoology Email Summary or Overdue Submissions for Desmond — status held; do not invent missing/completed."
     },
     {
       "id": "desmond-note-reading-packet-20260915",
@@ -98,7 +98,7 @@
       "due": "2026-09-16T23:59:00-04:00",
       "status": "upcoming",
       "verified": "last verified Sep 16",
-      "note": "Last verified Sep 16. Due date passed (2026-09-16). Fri Sep 25 ~6:45am ET morning watch: no Schoology Email Summary or Overdue Submissions for Desmond — status held; do not invent missing/completed."
+      "note": "Last verified Sep 16. Due date passed (2026-09-16). Fri Sep 25 ~3:37pm ET afternoon watch: no Schoology Email Summary or Overdue Submissions for Desmond — status held; do not invent missing/completed."
     },
     {
       "id": "desmond-practice-journal-w1w2-20260927",
@@ -109,7 +109,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048204/parent?url=assignment/8555538685",
       "verified": "last verified Sep 16",
-      "note": "Last verified Sep 16. Fri Sep 25 ~6:45am ET morning watch: no Schoology Email Summary or Overdue Submissions for Desmond — status held; do not invent missing/completed."
+      "note": "Last verified Sep 16. Fri Sep 25 ~3:37pm ET afternoon watch: no Schoology Email Summary or Overdue Submissions for Desmond — status held; do not invent missing/completed."
     },
     {
       "id": "desmond-8514862145",
@@ -120,7 +120,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514862145",
       "verified": "last verified Sep 16",
-      "note": "Last verified Sep 16. Fri Sep 25 ~6:45am ET morning watch: no Schoology Email Summary or Overdue Submissions for Desmond — status held; do not invent missing/completed."
+      "note": "Last verified Sep 16. Fri Sep 25 ~3:37pm ET afternoon watch: no Schoology Email Summary or Overdue Submissions for Desmond — status held; do not invent missing/completed."
     },
     {
       "id": "desmond-vocab-anti-counter-20260930",
@@ -131,7 +131,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514863392",
       "verified": "last verified Sep 16",
-      "note": "Last verified Sep 16. Fri Sep 25 ~6:45am ET morning watch: no Schoology Email Summary or Overdue Submissions for Desmond — status held; do not invent missing/completed."
+      "note": "Last verified Sep 16. Fri Sep 25 ~3:37pm ET afternoon watch: no Schoology Email Summary or Overdue Submissions for Desmond — status held; do not invent missing/completed."
     },
     {
       "id": "desmond-1st-q-book-finish-20261015",
@@ -142,15 +142,30 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514863196",
       "verified": "last verified Sep 16",
-      "note": "Last verified Sep 16. Fri Sep 25 ~6:45am ET morning watch: no Schoology Email Summary or Overdue Submissions for Desmond — status held; do not invent missing/completed."
+      "note": "Last verified Sep 16. Fri Sep 25 ~3:37pm ET afternoon watch: no Schoology Email Summary or Overdue Submissions for Desmond — status held; do not invent missing/completed."
     }
   ],
   "activities": [
     {
-      "title": "Board refresh note - Fri Sep 25 morning",
-      "note": "Hygiene refresh Fri Sep 25 ~6:45am ET. No Schoology daily Email Summary or Overdue Submissions for Isaac or Desmond since the email-only switch (last Schoology mail was a weekly summary Sep 18 mentioning Dax). Assignment statuses held last verified Sep 16; soft-watch Isaac Task Card Chart Absent stays. Dropped: Thu Sep 24 afternoon board note. Today Fri Sep 25: Isaac French Day 5 Review; Desmond PE Extra Credit print/sign by Sep 25; pickups Hillside 3:03pm / Moraine 3:45pm; no XC today. Upcoming: Isaac French Unit 1 Quiz Sep 29; XC Wed Sep 30 vs Meads Mill at Hillside (home) 4-5pm (dual-confirmed Hillside + Meads Mill calendars); XC Wed Oct 7 vs Novi 4:30-5:30pm at Hillside (Hillside calendar only, held from Sep 24); XC Wed Oct 14 Division Meet 4-5pm LOCATION CONFLICT (Hillside vs Meads Mill venues); Teacher PD Oct 5 no school; Camp Copneconic Oct 21-23. FinalForms Wed Sep 23 Scranton XC: boys won 18-41, girls won 25-30. ParentSquare: Isaac absent notice Sep 23; Band Fundraiser Kick-Off (money — draft-only via Chief). Science September newsletter already on board.",
+      "title": "Board refresh note - Fri Sep 25 afternoon",
+      "note": "Hygiene refresh Fri Sep 25 ~3:37pm ET. Still no Schoology daily Email Summary or Overdue Submissions for Isaac or Desmond (last Schoology mail Sep 18 weekly mentioning Dax). Assignment statuses held last verified Sep 16; soft-watch Isaac Task Card Chart Absent stays. Dropped: Fri Sep 25 morning board note. NEW teacher email: Mrs. Harris 6th Grade Science Update and TGIF (harrisje@northvilleschools.org) ~11:27am ET — Lesson 3.2 Homework due Tue Sep 29; Four Conditions Assessment next week (no exact date; study resources on Schoology). Email does not name which child is in Harris section — do not invent. Lifetouch: Hillside Picture Make-up Day Mon Sep 28 at Hillside (money/orders draft-only via Chief). Today Fri Sep 25: Isaac French Day 5 Review; Desmond PE Extra Credit print/sign by Sep 25; pickups Hillside 3:03pm / Moraine 3:45pm; no XC today. Upcoming: Isaac French Unit 1 Quiz Sep 29; XC Wed Sep 30 vs Meads Mill at Hillside (home) 4-5pm dual-confirmed; XC Wed Oct 7 vs Novi 4:30-5:30pm at Hillside (held); XC Wed Oct 14 Division Meet LOCATION CONFLICT (still flagged); Teacher PD Oct 5 no school; Camp Copneconic Oct 21-23. Pinkelman September newsletter already on board.",
       "source": "Homeroom",
       "when": "2026-09-25"
+    },
+    {
+      "title": "Sixth Grade Science: Harris Friday update (TGIF)",
+      "kid": "both",
+      "when": "2026-09-25",
+      "source": "Mrs. Harris email",
+      "note": "Emailed Fri Sep 25 ~11:27am ET (harrisje@northvilleschools.org). Week: I Spy + four conditions to see an object; box model of one-way mirror; Scientists Connection consensus model; Lesson 3.2 wrap + first practice quiz on four conditions (practice quizzes do not affect grades; score/rubric/feedback on Schoology). Today: remove mirror from box model and test light scenarios. Homework: Lesson 3.2 Homework Assignment due Tuesday Sep 29. Ahead: share box model data; Four Conditions Assessment next week (level 0-8, four is proficient); study resources + reassessment form on Schoology — NO exact assessment date given (do not invent). Parent email does not name Isaac vs Desmond; same unit theme as Pinkelman newsletter. \"Oh Deer!\" count now 12."
+    },
+    {
+      "title": "Hillside Picture Make-up Day",
+      "when": "2026-09-28",
+      "where": "Hillside Middle School",
+      "kid": "both",
+      "source": "Lifetouch email",
+      "note": "Lifetouch emailed Fri Sep 25 ~11:10am ET. When: Mon Sep 28 2026 at Hillside Middle School. Picture Day ID EVTZQN44K. Photo package orders are money — draft-only via Chief (do not purchase or email Lifetouch unasked)."
     },
     {
       "title": "Sixth Grade Science: September newsletter (Ms. Pinkelman)",
@@ -173,7 +188,7 @@
       "end": "2026-09-30T17:00:00-04:00",
       "where": "Hillside Middle School",
       "kid": "both",
-      "note": "Isaac and Desmond XC - Wed Sep 30 4:00-5:00pm ET at Hillside Middle School (home). Dual-confirmed Fri Sep 25 morning: Hillside athletics (venue Hillside) + Meads Mill athletics (@ Hillside).",
+      "note": "Isaac and Desmond XC - Wed Sep 30 4:00-5:00pm ET at Hillside Middle School (home). Dual-confirmed Fri Sep 25 afternoon: Hillside athletics (venue Hillside) + Meads Mill athletics (@ Hillside).",
       "source": "Hillside + Meads Mill calendars",
       "url": "https://hillside.northvilleschools.org/student-life/athletics"
     },
@@ -183,7 +198,7 @@
       "end": "2026-10-07T17:30:00-04:00",
       "where": "Hillside Middle School",
       "kid": "both",
-      "note": "Isaac and Desmond XC - Wed Oct 7 4:30-5:30pm ET at Hillside Middle School. Hillside calendar only (venue Hillside). Not dual-confirmed with Novi. Held from afternoon Sep 24; Oct listings not yet on Meads Mill early-Oct window.",
+      "note": "Isaac and Desmond XC - Wed Oct 7 4:30-5:30pm ET at Hillside Middle School. Held from afternoon Sep 24 (Hillside calendar). Fri Sep 25 afternoon athletics pages still show through early Oct window only; keep held.",
       "source": "Hillside calendar",
       "url": "https://hillside.northvilleschools.org/our-school/calendar"
     },
@@ -193,7 +208,7 @@
       "end": "2026-10-14T17:00:00-04:00",
       "where": "LOCATION CONFLICT — see note",
       "kid": "both",
-      "note": "Isaac and Desmond XC - Wed Oct 14 4:00-5:00pm ET Division Meet. LOCATION CONFLICT: Hillside calendar lists venue Hillside Middle School; Meads Mill calendar lists venue Meads Mill Middle School. Do not invent which is correct. Still unresolved Fri Sep 25 morning.",
+      "note": "Isaac and Desmond XC - Wed Oct 14 4:00-5:00pm ET Division Meet. LOCATION CONFLICT: Hillside calendar lists venue Hillside Middle School; Meads Mill calendar lists venue Meads Mill Middle School. Do not invent which is correct. Still unresolved Fri Sep 25 afternoon (Oct window not yet on athletics early-Oct listings).",
       "source": "Hillside + Meads Mill calendars",
       "url": "https://hillside.northvilleschools.org/our-school/calendar"
     },
@@ -224,7 +239,7 @@
       "title": "Day 5: Review",
       "when": "2026-09-25",
       "kid": "isaac",
-      "note": "French Unit 1. Confirmed Isaac Schoology Wed Sep 16 ~6:40am; held (no Email Summary Fri Sep 25 morning).",
+      "note": "French Unit 1. Confirmed Isaac Schoology Wed Sep 16 ~6:40am; held (no Email Summary Fri Sep 25 afternoon).",
       "source": "Schoology (held)",
       "url": "https://app.schoology.com/course/8505187257/preview/126048205/parent?url=event/8564240791/profile"
     },
@@ -232,7 +247,7 @@
       "title": "Unit 1 Quiz",
       "when": "2026-09-29",
       "kid": "isaac",
-      "note": "French Unit 1. Confirmed Isaac Schoology Wed Sep 16 ~6:40am; held (no Email Summary Fri Sep 25 morning).",
+      "note": "French Unit 1. Confirmed Isaac Schoology Wed Sep 16 ~6:40am; held (no Email Summary Fri Sep 25 afternoon).",
       "source": "Schoology (held)",
       "url": "https://app.schoology.com/course/8505187257/preview/126048205/parent?url=event/8564245283/profile"
     },
@@ -240,7 +255,7 @@
       "title": "PE Extra Credit opportunity (print/sign)",
       "when": "2026-09-25",
       "kid": "desmond",
-      "note": "PE post: print/sign by Sep 25. Held from Wed Sep 16 viewing as Desmond. No Email Summary Fri Sep 25 morning. Google Doc https://docs.google.com/document/d/1lKDp2AXBruC8SPGVpG5IZbyAVUJlgppjIKKLdcRxp-c/edit?usp=sharing",
+      "note": "PE post: print/sign by Sep 25. Held from Wed Sep 16 viewing as Desmond. No Email Summary Fri Sep 25 afternoon. Google Doc https://docs.google.com/document/d/1lKDp2AXBruC8SPGVpG5IZbyAVUJlgppjIKKLdcRxp-c/edit?usp=sharing",
       "source": "Schoology (held)",
       "url": "https://app.schoology.com/course/8505187733/preview/126048204/parent"
     }
