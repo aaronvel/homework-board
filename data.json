@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T15:45:00-04:00",
-  "note": "Mon Oct 12 afternoon (email/calendars only). Still NO daily Schoology Email Summary or Overdue Submissions emails for Isaac/Desmond. Fri Oct 9 Weekly Schoology Summary (10/2-10/9) remains the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
+  "updated": "2026-10-13T06:50:00-04:00",
+  "note": "Tue Oct 13 morning (email/calendars only). Still NO daily Schoology Email Summary or Overdue Submissions emails for Isaac/Desmond. Fri Oct 9 Weekly Schoology Summary (10/2-10/9) remains the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -108,7 +108,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048205/parent?url=assignment/8555538884",
       "verified": "2026-10-09 weekly summary",
-      "note": "DUE TONIGHT Mon Oct 12 11:59pm (Ms. Nugent reminder Fri Oct 9); locks Oct 25. No new Schoology email confirming submit. (Weeks 1 & 2 graded 6/8.)"
+      "note": "Was due Mon Oct 12 11:59pm (Ms. Nugent reminder Fri Oct 9); locks Oct 25. No new Schoology email confirming submit as of Tue Oct 13 morning. (Weeks 1 & 2 graded 6/8.)"
     },
     {
       "id": "isaac-peace-poster-20261027",
@@ -172,7 +172,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048204/parent?url=assignment/8555538884",
       "verified": "2026-10-09 weekly summary",
-      "note": "DUE TONIGHT Mon Oct 12 11:59pm (Ms. Nugent reminder Fri Oct 9); locks Oct 25. No new Schoology email confirming submit. (Weeks 1 & 2 graded 7/8.)"
+      "note": "Was due Mon Oct 12 11:59pm (Ms. Nugent reminder Fri Oct 9); locks Oct 25. No new Schoology email confirming submit as of Tue Oct 13 morning. (Weeks 1 & 2 graded 7/8.)"
     },
     {
       "id": "desmond-1st-q-book-finish-20261015",
@@ -275,10 +275,18 @@
   ],
   "activities": [
     {
-      "title": "Board refresh note - Mon Oct 12 afternoon",
-      "when": "2026-10-12",
+      "title": "Board refresh note - Tue Oct 13 morning",
+      "when": "2026-10-13",
       "source": "Homeroom",
-      "note": "Mon Oct 12 ~3:45pm ET (email/calendars only). Still NO daily Schoology Email Summary or Overdue Submissions emails (FLAG); Fri Oct 9 Weekly remains baseline. NEW since morning: ParentSquare NPS Committee of the Whole Tue Oct 13 6:30pm Old Village School (agenda posted); ParentSquare NHS Athletics Pom Winter Clinic Sat Dec 12 (optional). Hygiene: dropped Isaac Lesson 1 Check and Lesson 3 Check (~5 days after Oct 7 submit). Isaac overdue still 3 (Four Conditions Sep 30, Lesson 11 Face Value Oct 1, Lesson 5 Check Oct 8). Desmond overdue none. Tonight: Practice Journal Wks 3&4 due 11:59pm both boys; XC Parmenter's back ~4:40-4:45. Tomorrow Tue: XC pickup at Cass Benton by 5:00pm; Aral Sea inquiry due Tue night; Committee of the Whole 6:30pm. Oct 14 Division Meet location conflict still unresolved (Hillside cal vs Meads Mill cal vs coach/Highlights Cass Benton)."
+      "note": "Tue Oct 13 ~6:50am ET (email/calendars only). Still NO daily Schoology Email Summary or Overdue Submissions (FLAG); Fri Oct 9 Weekly remains baseline. NEW overnight FinalForms (Coach Bartel): (1) Tue Cass Benton pickup at 5:00pm confirmed + backpacks at Hillside after; (2) Wed varsity-only early sign-out 2:40 (Isaac/Desmond JV, not applicable); (3) Dave Bork last-register day is TODAY — neither kid on the posted list. Isaac overdue still 3 (Four Conditions Sep 30, Lesson 11 Face Value Oct 1, Lesson 5 Check Oct 8) + soft-watch Task Card Chart Absent. Desmond overdue none. Today due: Aral Sea inquiry 11:59pm both; Spirit Week Hat/Sunglasses; Committee of the Whole 6:30pm Old Village. Oct 14 Division Meet location conflict still unresolved (Hillside cal @ Hillside vs Meads Mill cal @ Meads Mill vs coach/Highlights Cass Benton)."
+    },
+    {
+      "title": "FinalForms XC overnight (Cass pickup / varsity Wed / Bork deadline)",
+      "when": "2026-10-13",
+      "kid": "both",
+      "source": "mailman@finalforms.com Mon Oct 12 ~5:59pm, ~6:10pm, ~8:15pm ET (Coach Kurt Bartel)",
+      "url": "https://docs.google.com/document/d/13bjYn3HLwMrZ8meWORpF6_GB9xBDpWiGOMmWKyVx2e8/edit?usp=drivesdk",
+      "note": "Three FinalForms emails Mon night: Pick up at Cass Benton Tue Oct 13 at 5:00pm (run from Hillside, cheer NHS, backpacks at Hillside after). Boys varsity Wed only: 15 varsity boys out of 7th hour at 2:40 with parent office sign-out — Isaac/Desmond not named / not on varsity list. Dave Bork Classic Sat Oct 17: last day to register is Tue Oct 13; list link above; Velthoven not listed. Meet address update: 911 S. Raisinville Rd, Monroe (Fairgrounds parking by Humane Society)."
     },
     {
       "title": "ParentSquare: NPS Committee of the Whole 10/13/26",
@@ -302,23 +310,23 @@
       "kid": "both",
       "source": "ParentSquare Hillside Fri Oct 9 ~3:32pm ET",
       "url": "https://docs.google.com/document/d/1X_s7sJuB7JO7gFpjGKIUsz7B0UsfUoYHTC-1SCKmyOM/edit?usp=sharing",
-      "note": "Spirit Week Oct 12-16: Mon Jersey Day; Tue Hat/Sunglasses; Wed Pink Out; Thu Northville Day (orange & black); Fri Class Color Day (6th grey/white). Pep Rally Fri Oct 16 begins 1:45pm \u2014 early picks after 1:30pm not possible. Northville Civic Concern canned food drive all next week (1st hour). Campus dog Jesper t-shirt design contest due Fri Oct 23 to bartelke@northvilleschools.org. Highlights calendar lists Oct 14 Cross Country Division Meet at Cass Benton (aligns with Coach Bartel; athletics calendars still disagree). Boys basketball tryouts Oct 23 & 26 are 7th/8th only. End of Quarter 1 Oct 30. Camp Copneconic Oct 21-23."
+      "note": "Spirit Week Oct 12-16: Mon Jersey Day; Tue Hat/Sunglasses; Wed Pink Out; Thu Northville Day (orange & black); Fri Class Color Day (6th grey/white). Pep Rally Fri Oct 16 begins 1:45pm — early picks after 1:30pm not possible. Northville Civic Concern canned food drive all next week (1st hour). Campus dog Jesper t-shirt design contest due Fri Oct 23 to bartelke@northvilleschools.org. Highlights calendar lists Oct 14 Cross Country Division Meet at Cass Benton (aligns with Coach Bartel; athletics calendars still disagree). Boys basketball tryouts Oct 23 & 26 are 7th/8th only. End of Quarter 1 Oct 30. Camp Copneconic Oct 21-23."
     },
     {
       "title": "Mrs. Harris Sciences weekly (Isaac)",
       "when": "2026-10-09",
       "kid": "isaac",
       "source": "harrisje@northvilleschools.org Fri Oct 9 ~9:32am ET",
-      "note": "Week recap: light transmit/reflect labs Tue-Wed; Thu revised light models, reading on one-way mirrors, Lesson Check. Today introducing APS conference poster mini-project from Tue data; continues next week. Oh Deer sightings at 38. Informational class update only \u2014 does not name or clear Isaac's overdue Lesson Checks / Four Conditions Review."
+      "note": "Week recap: light transmit/reflect labs Tue-Wed; Thu revised light models, reading on one-way mirrors, Lesson Check. Today introducing APS conference poster mini-project from Tue data; continues next week. Oh Deer sightings at 38. Informational class update only — does not name or clear Isaac's overdue Lesson Checks / Four Conditions Review."
     },
     {
       "title": "Hillside XC Week #7 (final week, Coach Bartel)",
       "when": "2026-10-12",
       "end": "2026-10-17",
       "kid": "both",
-      "source": "FinalForms / Coach Kurt Bartel Sun Oct 11 ~2:00pm ET",
+      "source": "FinalForms / Coach Kurt Bartel Sun Oct 11 ~2:00pm ET; Mon Oct 12 ~5:59pm ET Cass pickup; Mon Oct 12 ~6:10pm ET varsity Wed note",
       "url": "https://docs.google.com/document/d/1BHowrK4aOmQdnVH7UPcoQYSrP07N51k72ZUHT1IaeKk/edit?usp=sharing",
-      "note": "Mon (today): Parmenter's run (bring cash for cider and donuts if wanted); back at school ~4:40-4:45, usual pickup time. Tue: team runs to Cass Benton to cheer NHS vs Novi; PICK UP AT CASS BENTON BY 5:00pm (across from the parking lot or near start/finish), then take them back to Hillside for backpacks (front door open). Wed: league meet at Cass Benton, everyone runs (see conflict item). Thu: non-Bork runners turn in WASHED JERSEY right after school in the gym lobby. Fri: lighter practice for Bork runners, done by 4:15; jersey turn-in for anyone who missed Thu. Lost jersey is $30 to replace (MONEY draft-only via Chief)."
+      "note": "Mon Oct 12: Parmenter's run; back ~4:40-4:45. Tue Oct 13 (TODAY): FinalForms Mon night reminder — pick up at Cass Benton at 5:00pm after team runs from Hillside to cheer NHS vs Novi; then drive back to Hillside main door for backpacks. Athletes who can't run the whole way should take the day off. Wed Oct 14: league/Division Meet (see conflict item); varsity boys only get out 7th hour early at 2:40 with parent office sign-out (Isaac/Desmond are NOT on the 15-boy varsity list — they run Boys JV at 5:00, normal dismissal). Thu: non-Bork runners turn in WASHED JERSEY right after school in gym lobby. Fri: lighter practice for Bork runners, done by 4:15; jersey turn-in for anyone who missed Thu. Lost jersey $30 (MONEY draft-only via Chief)."
     },
     {
       "title": "Cross Country (Coed MS) Division Meet - location conflict",
@@ -326,8 +334,8 @@
       "end": "2026-10-14T17:00:00-04:00",
       "where": "LOCATION CONFLICT - see note",
       "kid": "both",
-      "note": "Wed Oct 14. LOCATION CONFLICT still unresolved by athletics calendars (re-checked Mon Oct 12 afternoon): Hillside athletics calendar 4:00-5:00pm @ Hillside Middle School; Meads Mill athletics calendar 4:00-5:00pm @ Meads Mill Middle School. Coach Bartel XC Week #7 (Sun Oct 11) calls it the League Meet at Cass Benton, and Hillside Highlights 10/9 also says Cass Benton. Everyone runs: Varsity Boys 4:00, Girls Varsity 4:30, Boys JV 5:00, Girls JV 5:30. Isaac and Desmond are NOT on the 15-runner boys varsity list, so they run Boys JV at 5:00. Let the coach know if unable to compete. FLAG until one athletics calendar resolves.",
-      "source": "Hillside + Meads Mill athletics calendars + Coach Bartel Week #6/#7 + Hillside Highlights 10/9"
+      "note": "Wed Oct 14. LOCATION CONFLICT still unresolved by athletics calendars (re-checked Tue Oct 13 morning): Hillside athletics calendar 4:00-5:00pm @ Hillside Middle School; Meads Mill athletics calendar 4:00-5:00pm @ Meads Mill Middle School. Coach Bartel XC Week #7 (Sun Oct 11) and Hillside Highlights 10/9 say Cass Benton. Everyone runs: Varsity Boys 4:00, Girls Varsity 4:30, Boys JV 5:00, Girls JV 5:30. Isaac and Desmond are NOT on the 15-runner boys varsity list, so they run Boys JV at 5:00 (normal dismissal; early 2:40 sign-out is varsity-only). Let the coach know if unable to compete. FLAG until one athletics calendar resolves.",
+      "source": "Hillside + Meads Mill athletics calendars (Tue Oct 13 morning) + Coach Bartel Week #7 + Hillside Highlights 10/9 + FinalForms Mon Oct 12 varsity note"
     },
     {
       "title": "Hillside canned food drive (Northville Civic Concern)",
@@ -341,10 +349,10 @@
       "title": "Dave Bork Classic (registered runners only)",
       "when": "2026-10-17",
       "kid": "both",
-      "source": "FinalForms / Coach Bartel Week #6 and #7",
-      "url": "https://storage.googleapis.com/anet_user_files/meet/xc/272789/Monroe_County_Farigrounds_Maps_(2).pdf",
-      "note": "Sat Oct 17. Boys 12:00, girls 12:30, one race each (no varsity/JV), 3200m. Arrive at least 1 hour early; leave by 11:00 (boys) / 11:30 (girls). Top 50 get awards. List of Hillside runners coming separately; only attend if Isaac/Desmond are on it. Light practice Thu and lighter Fri (done by 4:15) for Bork runners only.",
-      "where": "Monroe County Fairgrounds, 3775 S. Custer Rd, Monroe (~55 min drive)"
+      "source": "FinalForms / Coach Bartel Week #7; Mon Oct 12 ~8:15pm ET Last Meet Last Chance + registration doc",
+      "url": "https://docs.google.com/document/d/13bjYn3HLwMrZ8meWORpF6_GB9xBDpWiGOMmWKyVx2e8/edit?usp=drivesdk",
+      "note": "Sat Oct 17. Boys 12:00, girls 12:30, one race each (no varsity/JV), 3200m. Arrive at least 1 hour early. FinalForms Mon Oct 12 ~8:15pm: TODAY Tue Oct 13 is the last day to register — email coach ASAP if interested. Registration list (as of that email) does NOT include Isaac or Desmond (boys listed: Andresen, Colagiovanni, Corby, Ryker Ducher, Benjamin/Alexander Francis, Kelly, Hunter Lambrix, Park, Riemer, Sivier, Suda, Taylor, Wu). Only attend if they get added. Non-Bork runners turn in washed jersey Thu after school.",
+      "where": "Monroe County Fairgrounds (GPS: 911 S. Raisinville Rd, Monroe, MI 48161; parking by Humane Society; entrance Raisinville Rd / Shelter Lane)"
     },
     {
       "title": "Hillside XC Team Party",
@@ -358,7 +366,7 @@
     {
       "title": "2026 Hillside Cross Country: Section 1",
       "kid": "isaac",
-      "note": "Sat Oct 10 Regional: Hillside boys 4th, girls 5th (results athletic.net meet 275756); Isaac/Desmond were not on the Regional entry lists. Oct 14 league meet location conflict; Oct 17 Dave Bork (list coming); Oct 19 team party (donation paid Oct 10).",
+      "note": "Sat Oct 10 Regional: Hillside boys 4th, girls 5th; Isaac/Desmond not on Regional entry lists. Oct 14 league/Division Meet location still conflicted; Oct 17 Dave Bork (neither kid on registered list as of Mon night — last register day Tue Oct 13); Oct 19 team party (donation paid Oct 10).",
       "url": "https://www.athletic.net/CrossCountry/meet/275756/results/1099241"
     },
     {
