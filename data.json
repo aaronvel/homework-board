@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T06:50:00-04:00",
-  "note": "Thu Oct 15 morning (email/calendars only). Still NO daily Schoology Email Summary or Overdue Submissions emails for Isaac/Desmond. Fri Oct 9 Weekly Schoology Summary (10/2-10/9) remains the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
+  "updated": "2026-10-15T15:45:00-04:00",
+  "note": "Thu Oct 15 afternoon (email/calendars only). Still NO daily Schoology Email Summary or Overdue Submissions emails for Isaac/Desmond. Fri Oct 9 Weekly Schoology Summary (10/2-10/9) remains the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -108,7 +108,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048205/parent?url=assignment/8555538884",
       "verified": "2026-10-09 weekly summary",
-      "note": "Was due Mon Oct 12 11:59pm (Ms. Nugent reminder Fri Oct 9); locks Oct 25. No new Schoology email confirming submit as of Thu Oct 15 morning. (Weeks 1 & 2 graded 6/8.)"
+      "note": "Was due Mon Oct 12 11:59pm (Ms. Nugent reminder Fri Oct 9); locks Oct 25. No new Schoology email confirming submit as of Thu Oct 15 afternoon. (Weeks 1 & 2 graded 6/8.)"
     },
     {
       "id": "isaac-peace-poster-20261027",
@@ -172,7 +172,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048204/parent?url=assignment/8555538884",
       "verified": "2026-10-09 weekly summary",
-      "note": "Was due Mon Oct 12 11:59pm (Ms. Nugent reminder Fri Oct 9); locks Oct 25. No new Schoology email confirming submit as of Thu Oct 15 morning. (Weeks 1 & 2 graded 7/8.)"
+      "note": "Was due Mon Oct 12 11:59pm (Ms. Nugent reminder Fri Oct 9); locks Oct 25. No new Schoology email confirming submit as of Thu Oct 15 afternoon. (Weeks 1 & 2 graded 7/8.)"
     },
     {
       "id": "desmond-1st-q-book-finish-20261015",
@@ -215,7 +215,7 @@
       "due": "2026-10-13T23:59:00-04:00",
       "status": "upcoming",
       "verified": "2026-10-09 weekly summary",
-      "note": "Was due Tue Oct 13 11:59pm per Oct 9 Weekly (external tool). No new Schoology email confirming submit or overdue as of Thu Oct 15 morning; not marked missing or complete."
+      "note": "Was due Tue Oct 13 11:59pm per Oct 9 Weekly (external tool). No new Schoology email confirming submit or overdue as of Thu Oct 15 afternoon; not marked missing or complete."
     },
     {
       "id": "desmond-ias-geo-inquiry-aral-20261013",
@@ -225,7 +225,7 @@
       "due": "2026-10-13T23:59:00-04:00",
       "status": "upcoming",
       "verified": "2026-10-09 weekly summary",
-      "note": "Was due Tue Oct 13 11:59pm per Oct 9 Weekly (external tool). No new Schoology email confirming submit or overdue as of Thu Oct 15 morning; not marked missing or complete."
+      "note": "Was due Tue Oct 13 11:59pm per Oct 9 Weekly (external tool). No new Schoology email confirming submit or overdue as of Thu Oct 15 afternoon; not marked missing or complete."
     },
     {
       "id": "isaac-band-playing-test-p5-20261015",
@@ -236,7 +236,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048205/parent?url=event/8602813658/profile",
       "verified": "2026-10-09 weekly summary",
-      "note": "TODAY/tomorrow: playing test Thu Oct 15 - Fri Oct 16 per Oct 9 Weekly. Mon Oct 12 band: no instruments, bring a pencil. (Down by the Station test scored 26/28.)"
+      "note": "Playing test window Thu Oct 15 - Fri Oct 16 per Oct 9 Weekly. Mon Oct 12 band: no instruments, bring a pencil. (Down by the Station test scored 26/28.) No new Schoology email confirming done as of Thu Oct 15 afternoon."
     },
     {
       "id": "desmond-band-playing-test-p5-20261015",
@@ -247,7 +247,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048204/parent?url=event/8602813658/profile",
       "verified": "2026-10-09 weekly summary",
-      "note": "TODAY/tomorrow: playing test Thu Oct 15 - Fri Oct 16 per Oct 9 Weekly. Mon Oct 12 band: no instruments, bring a pencil. (Down by the Station test scored 28/28.)"
+      "note": "Playing test window Thu Oct 15 - Fri Oct 16 per Oct 9 Weekly. Mon Oct 12 band: no instruments, bring a pencil. (Down by the Station test scored 28/28.) No new Schoology email confirming done as of Thu Oct 15 afternoon."
     },
     {
       "id": "isaac-french-quiz-unit2-20261020",
@@ -263,10 +263,43 @@
   ],
   "activities": [
     {
-      "title": "Board refresh note - Thu Oct 15 morning",
+      "title": "Board refresh note - Thu Oct 15 afternoon",
       "when": "2026-10-15",
       "source": "Homeroom",
-      "note": "Thu Oct 15 ~6:50am ET (email/calendars only). Still NO daily Schoology Email Summary or Overdue Submissions (FLAG); Fri Oct 9 Weekly remains baseline. NEW since Wed afternoon: Coach Bartel says XC season is over for non-Bork runners (Division Meet: Boys JV 1st); jersey turn-in today after school in gym lobby; Mrs. Harris science poster homework due Tue Oct 20 (assessment, no reassessment); Hillside PTSA virtual meeting tonight 6:30pm. Oct 14 Division Meet is over, so its venue-conflict item was retired (Hillside and Meads Mill calendars never changed their listed venues). Isaac overdue still 3 (Four Conditions Sep 30, Lesson 11 Face Value Oct 1, Lesson 5 Check Oct 8) + soft-watch Task Card Chart Absent. Desmond overdue none. Dax none from email."
+      "note": "Thu Oct 15 ~3:45pm ET (email/calendars only). Still NO daily Schoology Email Summary or Overdue Submissions (FLAG); Fri Oct 9 Weekly remains baseline. NEW since morning: ParentSquare Pep Rally Reminder — Fri Oct 16 condensed schedule; early pickup by 1:15pm (before pep rally; tighter than Highlights' 1:30pm note). Moraine Dine to Donate @ Shake Shack TODAY (10am–11pm / email said 11am–10pm in subject; body: 10am–11pm) promo code DONATE / mention Moraine Elementary PTA. FinalForms Mini-Mustang Dash Thu Oct 29 at Cass Benton / Bennett Arboretum for K-5 (optional for Dax; free). Jostens Hillside yearbook $15 savings still ends Fri Oct 16 (Desmond not ordered; money draft-only). Isaac overdue still 3 (Four Conditions Sep 30, Lesson 11 Face Value Oct 1, Lesson 5 Check Oct 8) + soft-watch Task Card Chart Absent. Desmond overdue none. Dax none from email. Oct 14 Division Meet venue-conflict stays retired (meet over)."
+    },
+    {
+      "title": "Hillside Pep Rally Reminder (Fri Oct 16 early pickup by 1:15pm)",
+      "when": "2026-10-16T13:45:00-04:00",
+      "kid": "both",
+      "source": "ParentSquare Hillside Thu Oct 15 ~2:15pm ET",
+      "url": "https://www.parentsquare.com/feeds/92740832",
+      "note": "Fri Oct 16 condensed schedule ending Spirit Week with a pep rally (~1:45pm). Early pickup must be by 1:15pm, before students head to the gym. Applies to Isaac and Desmond."
+    },
+    {
+      "title": "Moraine PTA Dine to Donate @ Shake Shack (TODAY)",
+      "when": "2026-10-15",
+      "kid": "dax",
+      "source": "ParentSquare Moraine Elementary Thu Oct 15 ~1:28pm ET",
+      "url": "https://www.parentsquare.com/feeds/92740408",
+      "where": "Shake Shack, 39300 W 7 Mile Road",
+      "note": "TODAY Thu Oct 15. Subject: 11am–10pm; body: 10am–11pm. Shake Shack donates 25% to Moraine PTA. App/web/kiosk: promo code DONATE. In-store/drive-thru: mention Moraine Elementary PTA Donation Day. Optional."
+    },
+    {
+      "title": "Northville Mini-Mustang Dash (elementary XC) Thu Oct 29",
+      "when": "2026-10-29",
+      "kid": "dax",
+      "source": "mailman@finalforms.com / Coach Kurt Bartel Thu Oct 15 ~7:41am ET",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLScUG-jd8qrn9m6VeMRBbxT-gEp_AMgpVFflUcn8QfnUvAeO1Q/viewform?usp=dialog",
+      "where": "Cass Benton / Bennett Arboretum (Hines Drive)",
+      "note": "Optional free meet for Northville K-5 elementary students (Dax eligible). Register via Google Form or RunNXC.com. Info sheet on FinalForms. Questions: Coach J. Dalton. No fee. Draft-only via Chief if Aaron wants to register."
+    },
+    {
+      "title": "Lifetouch school photo order reminders (Isaac & Desmond) — money draft-only",
+      "when": "2026-10-15",
+      "kid": "both",
+      "source": "lifetouch@m.lifetouch.com Thu Oct 15 ~8:26am ET",
+      "note": "Separate promo emails for Isaac and Desmond saying photos not yet ordered; 20% off $34.99+ with codes in the emails. MONEY draft-only via Chief."
     },
     {
       "title": "Mrs. Harris 6th grade science: Informational Poster due Tue Oct 20",
@@ -310,8 +343,8 @@
     {
       "title": "Jostens yearbook — not yet ordered for Desmond; $15 savings ends Fri Oct 16 (money draft-only)",
       "when": "2026-10-16",
-      "source": "donotreply@e.jostens.com Tue Oct 13 ~6:28pm ET; Wed Oct 14 ~2:54pm ET",
-      "note": "Wed Oct 14 Jostens email: a yearbook has NOT yet been ordered for Desmond; price goes up soon. Tue night promo: save $15 by ordering by Fri Oct 16. Earlier Jostens reminder (Oct 6) named Isaac. MONEY draft-only via Chief if Aaron wants to order.",
+      "source": "donotreply@e.jostens.com Tue Oct 13 ~6:28pm ET; Wed Oct 14 ~2:54pm ET; Thu Oct 15 ~1:50pm ET",
+      "note": "Thu Oct 15 Jostens promo: order a Hillside yearbook before Fri Oct 16 to save $15. Wed Oct 14 email: a yearbook has NOT yet been ordered for Desmond. Earlier Jostens reminder (Oct 6) named Isaac. MONEY draft-only via Chief if Aaron wants to order.",
       "kid": "desmond"
     },
     {
@@ -336,7 +369,7 @@
       "kid": "both",
       "source": "ParentSquare Hillside Fri Oct 9 ~3:32pm ET",
       "url": "https://docs.google.com/document/d/1X_s7sJuB7JO7gFpjGKIUsz7B0UsfUoYHTC-1SCKmyOM/edit?usp=sharing",
-      "note": "Spirit Week Oct 12-16: Mon Jersey Day; Tue Hat/Sunglasses; Wed Pink Out; Thu Northville Day (orange & black); Fri Class Color Day (6th grey/white). Pep Rally Fri Oct 16 begins 1:45pm — early picks after 1:30pm not possible. Northville Civic Concern canned food drive all week (1st hour). Campus dog Jesper t-shirt design contest due Fri Oct 23 to bartelke@northvilleschools.org. Highlights calendar lists Oct 14 Cross Country Division Meet at Cass Benton (aligns with Coach Bartel; athletics calendars still disagree). Boys basketball tryouts Oct 23 & 26 are 7th/8th only. End of Quarter 1 Oct 30. Camp Copneconic Oct 21-23."
+      "note": "Spirit Week Oct 12-16: Mon Jersey Day; Tue Hat/Sunglasses; Wed Pink Out; Thu Northville Day (orange & black); Fri Class Color Day (6th grey/white). Pep Rally Fri Oct 16 begins 1:45pm — early pickup cutoff updated by Thu Oct 15 Pep Rally Reminder to 1:15pm. Northville Civic Concern canned food drive all week (1st hour). Campus dog Jesper t-shirt design contest due Fri Oct 23 to bartelke@northvilleschools.org. Boys basketball tryouts Oct 23 & 26 are 7th/8th only. End of Quarter 1 Oct 30. Camp Copneconic Oct 21-23."
     },
     {
       "title": "Mrs. Harris Sciences weekly (Isaac)",
@@ -425,9 +458,9 @@
       "when": "2026-10-12",
       "end": "2026-10-16",
       "kid": "both",
-      "source": "ParentSquare Hillside Highlights 10/9/26",
+      "source": "ParentSquare Hillside Highlights 10/9/26; Pep Rally Reminder ParentSquare Thu Oct 15 ~2:15pm ET",
       "url": "https://docs.google.com/document/d/1X_s7sJuB7JO7gFpjGKIUsz7B0UsfUoYHTC-1SCKmyOM/edit?usp=sharing",
-      "note": "Oct 12-16 Spirit Week: Mon Jersey Day; Tue Hat/Sunglasses; Wed Pink Out; TODAY Thu Northville Day (orange & black); Fri Class Color Day (6th grey/white). Pep Rally Fri Oct 16 starts 1:45pm; early pickups after 1:30pm will not be possible. Canned food drive all week (see separate item)."
+      "note": "Oct 12-16 Spirit Week: Mon Jersey Day; Tue Hat/Sunglasses; Wed Pink Out; TODAY Thu Northville Day (orange & black); Fri Class Color Day (6th grey/white). Pep Rally Fri Oct 16 starts 1:45pm. ParentSquare Pep Rally Reminder Thu Oct 15 ~2:15pm ET: condensed schedule; early pickup by 1:15pm before students head to the gym (supersedes Highlights' earlier 'after 1:30pm not possible' wording). Canned food drive all week (see separate item)."
     },
     {
       "title": "Moraine Picture Re-take Day",
@@ -476,7 +509,7 @@
       "end": "2026-10-22",
       "kid": "dax",
       "source": "ParentSquare Penguin's Raft Sun Oct 11 ~9:04am ET",
-      "note": "Upcoming: TODAY Thu Oct 15 PTA Dine to Donate at Shake Shack; Thu Oct 22 PTA Family Skating Party; Oct 29 picture re-take; Oct 30 Halloween parade 9:30am; Tue Nov 3 no school. Also: Mini-Mustang Cross Country Meet (details in the newsletter graphics), early pickup ends 3:15pm, electronic I-CHAT form required each year. Optional/money items draft-only via Chief."
+      "note": "Upcoming: TODAY Thu Oct 15 PTA Dine to Donate at Shake Shack (ParentSquare reminder ~1:28pm ET: 39300 W 7 Mile; use promo DONATE on app/web/kiosk or mention Moraine Elementary PTA in-store; subject said 11am–10pm, body said 10am–11pm / 25% back); Thu Oct 22 PTA Family Skating Party; Oct 29 picture re-take; Oct 30 Halloween parade 9:30am; Tue Nov 3 no school. Also: Mini-Mustang Cross Country Meet (see FinalForms Mini-Mustang Dash item), early pickup ends 3:15pm, electronic I-CHAT form required each year. Optional/money items draft-only via Chief."
     }
   ],
   "events": []
