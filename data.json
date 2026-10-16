@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T06:48:00-04:00",
-  "note": "Fri Oct 16 morning (email/calendars only). Still NO daily Schoology Email Summary or Overdue Submissions emails for Isaac/Desmond. Fri Oct 9 Weekly Schoology Summary (10/2-10/9) remains the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
+  "updated": "2026-10-16T15:50:00-04:00",
+  "note": "Fri Oct 16 afternoon (email/calendars only). Still NO daily Schoology Email Summary or Overdue Submissions emails for Isaac/Desmond. Fri Oct 9 Weekly Schoology Summary (10/2-10/9) remains the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -108,7 +108,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048205/parent?url=assignment/8555538884",
       "verified": "2026-10-09 weekly summary",
-      "note": "Was due Mon Oct 12 11:59pm (Ms. Nugent reminder Fri Oct 9); locks Oct 25. No new Schoology email confirming submit as of Fri Oct 16 morning. (Weeks 1 & 2 graded 6/8.)"
+      "note": "Was due Mon Oct 12 11:59pm (Ms. Nugent reminder Fri Oct 9); locks Oct 25. No new Schoology email confirming submit as of Fri Oct 16 afternoon. (Weeks 1 & 2 graded 6/8.)"
     },
     {
       "id": "isaac-peace-poster-20261027",
@@ -172,7 +172,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048204/parent?url=assignment/8555538884",
       "verified": "2026-10-09 weekly summary",
-      "note": "Was due Mon Oct 12 11:59pm (Ms. Nugent reminder Fri Oct 9); locks Oct 25. No new Schoology email confirming submit as of Fri Oct 16 morning. (Weeks 1 & 2 graded 7/8.)"
+      "note": "Was due Mon Oct 12 11:59pm (Ms. Nugent reminder Fri Oct 9); locks Oct 25. No new Schoology email confirming submit as of Fri Oct 16 afternoon. (Weeks 1 & 2 graded 7/8.)"
     },
     {
       "id": "desmond-1st-q-book-finish-20261015",
@@ -215,7 +215,7 @@
       "due": "2026-10-13T23:59:00-04:00",
       "status": "upcoming",
       "verified": "2026-10-09 weekly summary",
-      "note": "Was due Tue Oct 13 11:59pm per Oct 9 Weekly (external tool). No new Schoology email confirming submit or overdue as of Fri Oct 16 morning; not marked missing or complete."
+      "note": "Was due Tue Oct 13 11:59pm per Oct 9 Weekly (external tool). No new Schoology email confirming submit or overdue as of Fri Oct 16 afternoon; not marked missing or complete."
     },
     {
       "id": "desmond-ias-geo-inquiry-aral-20261013",
@@ -225,7 +225,7 @@
       "due": "2026-10-13T23:59:00-04:00",
       "status": "upcoming",
       "verified": "2026-10-09 weekly summary",
-      "note": "Was due Tue Oct 13 11:59pm per Oct 9 Weekly (external tool). No new Schoology email confirming submit or overdue as of Fri Oct 16 morning; not marked missing or complete."
+      "note": "Was due Tue Oct 13 11:59pm per Oct 9 Weekly (external tool). No new Schoology email confirming submit or overdue as of Fri Oct 16 afternoon; not marked missing or complete."
     },
     {
       "id": "isaac-band-playing-test-p5-20261015",
@@ -236,7 +236,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048205/parent?url=event/8602813658/profile",
       "verified": "2026-10-09 weekly summary",
-      "note": "Playing test window Thu Oct 15 - Fri Oct 16 (TODAY) per Oct 9 Weekly. Mon Oct 12 band: no instruments, bring a pencil. (Down by the Station test scored 26/28.) No new Schoology email confirming done as of Fri Oct 16 morning."
+      "note": "Playing test window Thu Oct 15 - Fri Oct 16 per Oct 9 Weekly. Mon Oct 12 band: no instruments, bring a pencil. (Down by the Station test scored 26/28.) No new Schoology email confirming done as of Fri Oct 16 afternoon."
     },
     {
       "id": "desmond-band-playing-test-p5-20261015",
@@ -247,7 +247,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048204/parent?url=event/8602813658/profile",
       "verified": "2026-10-09 weekly summary",
-      "note": "Playing test window Thu Oct 15 - Fri Oct 16 (TODAY) per Oct 9 Weekly. Mon Oct 12 band: no instruments, bring a pencil. (Down by the Station test scored 28/28.) No new Schoology email confirming done as of Fri Oct 16 morning."
+      "note": "Playing test window Thu Oct 15 - Fri Oct 16 per Oct 9 Weekly. Mon Oct 12 band: no instruments, bring a pencil. (Down by the Station test scored 28/28.) No new Schoology email confirming done as of Fri Oct 16 afternoon."
     },
     {
       "id": "isaac-french-quiz-unit2-20261020",
@@ -263,10 +263,35 @@
   ],
   "activities": [
     {
-      "title": "Board refresh note - Fri Oct 16 morning",
+      "title": "Desmond: Detroit Free Press Marathon 5K (Sat Oct 17 8:50am)",
+      "when": "2026-10-17T08:50:00-04:00",
+      "where": "Detroit, MI",
+      "kid": "desmond",
+      "source": "events@enmotive.com Fri Oct 16 ~1:57pm ET (registration confirmation) and ~2:18pm ET (packet pickup reminder)",
+      "url": "https://www.freepmarathon.com/",
+      "note": "Registration complete for Desmond Velthoven, 5K, Sat Oct 17 8:50am EDT, age 11, men's S 5K shirt. Packet pickup at the Kia Health & Fitness Expo: bring the registration QR code (in the email / EnMotive account); a parent or guardian may pick up the race number for a runner under 16 with photo ID. Not a school event."
+    },
+    {
+      "title": "Varsity football game tonight: expectations for middle/elementary students",
+      "when": "2026-10-16",
+      "kid": "both",
+      "source": "ParentSquare Hillside (William Jones, for NHS Principal Koski / AD Samulski) Fri Oct 16 ~8:16am ET; same message via Moraine ~11:45am ET",
+      "url": "https://www.parentsquare.com/feeds/92691519",
+      "note": "For the final home varsity games: parents strongly encouraged to attend with kids; no loitering under the bleachers; no balls in the stadium; middle schoolers carry school ID; Hillside and Meads Mill staff supervising; students misbehaving without a parent will call home to be picked up. Stay in home bleachers or student spectator areas. Applies if Isaac, Desmond or Dax attend. Game time not stated in the email."
+    },
+    {
+      "title": "NPS district safety notice (informational)",
+      "when": "2026-10-16",
+      "kid": "both",
+      "source": "ParentSquare Northville Public Schools (Superintendent Dr. Webber) Fri Oct 16 ~1:03pm ET",
+      "url": "https://www.parentsquare.com/feeds/92892766",
+      "note": "District-wide notice about a former contracted evening custodian (Silver Springs Elementary and Northville High School) arrested in Warren; removed and will not return. District reports no complaints within its schools. Encourages parents to talk with their children and contact the principal, district, or police with any concerns. Neither Hillside nor Moraine named. Informational."
+    },
+    {
+      "title": "Board refresh note - Fri Oct 16 afternoon",
       "when": "2026-10-16",
       "source": "Homeroom",
-      "note": "Fri Oct 16 ~6:48am ET (email/calendars only). Still NO daily Schoology Email Summary or Overdue Submissions (FLAG); Fri Oct 9 Weekly remains baseline. NEW overnight: Mrs. Harris (Isaac science) Thu ~9:11pm ET — poster due date confirmed/extended to Tuesday Oct 20; Fri pep rally shortened schedule / escape room in class; Oh Deer 40. FinalForms Coach Bartel 'Jerseys Part 2' Thu ~8:14pm ET — jersey (and shorts if issued) turn-in continues TODAY Fri in gym lobby after school (bus kids prioritized) or Ziploc with name in office. Jostens Fri ~6:23am ET: LAST DAY to save $15 on yearbook for Isaac (also prior emails: Desmond not ordered). MONEY draft-only. Pep Rally TODAY: condensed schedule, early pickup by 1:15pm before gym (~1:45pm rally); Class Color Day (6th grey/white). FLAG: early pickup by 1:15 vs jersey turn-in 'after school' — if picking up early, may miss lobby turn-in (use office Ziploc drop). Moraine: SEL dog visit TODAY (wear blue); normal 3:45pm. Breakfast menu change ParentSquare Thu (informational). Isaac overdue still 3 (Four Conditions Sep 30, Lesson 11 Face Value Oct 1, Lesson 5 Check Oct 8) + soft-watch Task Card Chart Absent. Desmond overdue none. Dax none from email. Oct 14 Division Meet venue-conflict stays retired (meet over)."
+      "note": "Fri Oct 16 ~3:50pm ET (email/calendars only). Still NO daily Schoology Email Summary or Overdue Submissions (FLAG); Fri Oct 9 Weekly remains baseline. NEW since morning: EnMotive 1:57pm ET, Desmond registered for the Detroit Free Press Marathon 5K Sat Oct 17 8:50am (packet pickup reminder 2:18pm); ParentSquare Hillside/Moraine varsity football game expectations for tonight; NPS district safety notice 1:03pm (informational); Jostens 1:19pm LAST DAY to save $15 on Desmond's yearbook (money, draft-only); Lifetouch photo reminders for Isaac and Desmond (money, draft-only); FinalForms Dave Bork reminder (registered runners only, neither kid listed). Pep Rally, Spirit Week, canned food drive and Moraine SEL dog visit are over and dropped. Isaac overdue still 3 (Four Conditions Sep 30, Lesson 11 Face Value Oct 1, Lesson 5 Check Oct 8) plus soft-watch Task Card Chart Absent. Desmond overdue none. Dax none from email. Oct 14 Division Meet venue conflict stays retired (meet over)."
     },
     {
       "title": "XC jersey turn-in TODAY Fri (gym lobby / office Ziploc)",
@@ -274,15 +299,7 @@
       "kid": "both",
       "source": "mailman@finalforms.com / Coach Kurt Bartel Thu Oct 15 ~8:14pm ET (Jerseys Part 2)",
       "url": "https://northville-mi.finalforms.com/",
-      "note": "TODAY Fri Oct 16: continue jersey turn-in. Bring washed jersey to gym lobby after school (bus riders prioritized to front of line) OR place in a Ziploc with name clearly written and drop in the office. If issued shorts, turn those in too. Coaches want them before Mon Oct 19 party. Lost jersey $30 (MONEY draft-only). FLAG: Pep Rally early pickup by 1:15pm may conflict with lobby-after-school turn-in — use office Ziploc if leaving early."
-    },
-    {
-      "title": "Hillside Pep Rally Reminder (Fri Oct 16 early pickup by 1:15pm)",
-      "when": "2026-10-16T13:45:00-04:00",
-      "kid": "both",
-      "source": "ParentSquare Hillside Thu Oct 15 ~2:15pm ET",
-      "url": "https://www.parentsquare.com/feeds/92740832",
-      "note": "TODAY Fri Oct 16 condensed schedule ending Spirit Week with a pep rally (~1:45pm). Early pickup must be by 1:15pm, before students head to the gym. Applies to Isaac and Desmond. Class Color Day (6th grey/white). FLAG with jersey turn-in after school."
+      "note": "TODAY Fri Oct 16: continue jersey turn-in. Bring washed jersey to gym lobby after school (bus riders prioritized) OR place in a Ziploc with name clearly written and drop in the office. If issued shorts, turn those in too. Coaches want them before Mon Oct 19 party. Lost jersey $30 (MONEY draft-only). No email yet confirming Isaac or Desmond turned theirs in."
     },
     {
       "title": "Northville Mini-Mustang Dash (elementary XC) Thu Oct 29",
@@ -295,10 +312,10 @@
     },
     {
       "title": "Lifetouch school photo order reminders (Isaac & Desmond) — money draft-only",
-      "when": "2026-10-15",
+      "when": "2026-10-16",
       "kid": "both",
-      "source": "lifetouch@m.lifetouch.com Thu Oct 15 ~8:26am ET",
-      "note": "Separate promo emails for Isaac and Desmond saying photos not yet ordered; 20% off $34.99+ with codes in the emails. MONEY draft-only via Chief."
+      "source": "lifetouch@m.lifetouch.com Thu Oct 15 ~8:26am ET; Fri Oct 16 ~8:26am ET",
+      "note": "Promo emails Thu and again Fri for Isaac and Desmond saying photos not yet ordered; 20% off $34.99+ with codes in the emails. MONEY draft-only via Chief."
     },
     {
       "title": "Mrs. Harris 6th grade science: Informational Poster due Tue Oct 20",
@@ -324,17 +341,10 @@
       "note": "Class spent three days turning the Measuring Light Investigation into an Informational Science Poster. Anything not finished by end of class Wed Oct 14, including the Student Self-Reflection, is homework due Tue Oct 20 and counts as an assessment grade. Teacher suggests looking at what your child has finished so far; questions by email or at Seminar/before school. The email did not name which child. Mrs. Harris (Isaac's science teacher) sent her own version Wed night, so this one is likely Desmond's class. Not marked missing or complete."
     },
     {
-      "title": "Moraine: SEL dog visit Fri Oct 16 (wear blue)",
-      "when": "2026-10-16",
-      "kid": "dax",
-      "source": "ParentSquare Moraine Elementary Wed Oct 14 ~3:29pm ET",
-      "note": "TODAY Fri Oct 16: one of the SEL dogs being considered for Moraine visits. Wear the Moraine SEL dog t-shirt (ordered last spring), Moraine spirit wear, or the color blue."
-    },
-    {
       "title": "Jostens yearbook — LAST DAY Fri Oct 16 $15 savings (Isaac + Desmond; money draft-only)",
       "when": "2026-10-16",
-      "source": "donotreply@e.jostens.com Fri Oct 16 ~6:23am ET (Isaac LAST DAY); Wed Oct 14 Desmond not ordered; Thu Oct 15 promo",
-      "note": "TODAY Fri Oct 16 is LAST DAY to save $15 on Hillside yearbook. Fri morning email names Isaac ('Order a copy for Isaac today'). Wed Oct 14 email: a yearbook has NOT yet been ordered for Desmond. Earlier Oct 6 reminder also named Isaac. MONEY draft-only via Chief if Aaron wants to order for either/both.",
+      "source": "donotreply@e.jostens.com Fri Oct 16 ~6:23am ET (Isaac LAST DAY) and ~1:19pm ET (Desmond LAST DAY); Wed Oct 14 Desmond not ordered",
+      "note": "TODAY Fri Oct 16 is the LAST DAY to save $15 on the Hillside yearbook; price goes up tomorrow. Separate last-day emails today name Isaac (6:23am) and Desmond (1:19pm). Wed Oct 14 email said no yearbook ordered yet for Desmond. MONEY draft-only via Chief if Aaron wants to order for either/both.",
       "kid": "both"
     },
     {
@@ -378,20 +388,12 @@
       "note": "Season is OVER for Isaac and Desmond (not registered for Sat Dave Bork). Wed Oct 14 Division Meet: boys varsity 2nd, girls varsity 3rd, BOYS JV 1st, girls JV 2nd; lots of PRs. Times at FSTiming (https://live.fstiming.com/meets/79172). TODAY Fri Oct 16: jersey turn-in continues (FinalForms 'Jerseys Part 2' Thu night) — washed jersey to gym lobby after school (bus prioritized) or Ziploc with name in office; shorts too if issued. Coaches want them in before Monday's party. Practice Fri done 4:15 is Bork runners only. Lost jersey $30 (MONEY draft-only via Chief)."
     },
     {
-      "title": "Hillside canned food drive (Northville Civic Concern)",
-      "when": "2026-10-12",
-      "end": "2026-10-16",
-      "kid": "both",
-      "source": "ParentSquare Patrick Ignagni Sun Oct 11 ~12:04pm ET",
-      "note": "Ends TODAY Fri Oct 16 with Spirit Week. Preferred: canned soup, canned pasta sauce, canned meat (tuna, chili). Donate in students' 1st hour classrooms. Optional."
-    },
-    {
       "title": "Dave Bork Classic (registered runners only)",
       "when": "2026-10-17",
       "kid": "both",
       "source": "FinalForms / Coach Bartel Week #7; Mon Oct 12 ~8:15pm ET Last Meet Last Chance + registration doc",
       "url": "https://docs.google.com/document/d/13bjYn3HLwMrZ8meWORpF6_GB9xBDpWiGOMmWKyVx2e8/edit?usp=drivesdk",
-      "note": "Sat Oct 17. Boys 12:00, girls 12:30, one race each (no varsity/JV), 3200m. Arrive at least 1 hour early. FinalForms Mon Oct 12 ~8:15pm: Tue Oct 13 was the last day to register. Registration list (as of that email) does NOT include Isaac or Desmond (boys listed: Andresen, Colagiovanni, Corby, Ryker Ducher, Benjamin/Alexander Francis, Kelly, Hunter Lambrix, Park, Riemer, Sivier, Suda, Taylor, Wu). No follow-up email adding them; Coach Bartel Wed night says the season ended for non-Bork runners. Non-Bork runners turn in washed jersey Thu Oct 15 (or Fri) after school.",
+      "note": "Sat Oct 17. Boys 12:00, girls 12:30, one race each (no varsity/JV), 3200m. Arrive at least 1 hour early. FinalForms Mon Oct 12 ~8:15pm: Tue Oct 13 was the last day to register. Registration list (as of that email) does NOT include Isaac or Desmond (boys listed: Andresen, Colagiovanni, Corby, Ryker Ducher, Benjamin/Alexander Francis, Kelly, Hunter Lambrix, Park, Riemer, Sivier, Suda, Taylor, Wu). No follow-up email adding them; Coach Bartel Wed night says the season ended for non-Bork runners. Non-Bork runners turn in washed jersey Thu Oct 15 (or Fri) after school. FinalForms Fri Oct 16 ~7:49am reminder (competitors only): venue 3775 S. Custer Road, Monroe, ~55 min drive; leave by 11:00 (boys) / 11:30 (girls); top 50 get awards.",
       "where": "Monroe County Fairgrounds (GPS: 911 S. Raisinville Rd, Monroe, MI 48161; parking by Humane Society; entrance Raisinville Rd / Shelter Lane)"
     },
     {
@@ -442,15 +444,6 @@
       "note": "Hillside 6th grade trip Wed Oct 21 - Fri Oct 23. Ms. Moffett Wed Oct 14: parents must handle BOTH drop-off (Wed Oct 21 morning) and pick-up (Fri Oct 23 afternoon) because luggage is not allowed on the school buses; say goodbyes at home (only chaperones in the gym/gym lobby). Bus lists posted in the cafeteria Wed Oct 14. Medication outside school hours needs the medicine authorization form; meds in original container to the Hillside front office by Mon Oct 19. Pack filled water bottles (camp has well water), label everything, NO electronics or food. Packing list and dietary/allergy form in Money/forms item. MONEY/forms draft-only via Chief.",
       "source": "Hillside calendar + ParentSquare Moffett (Mon Oct 5; Wed Oct 14 ~3:02pm ET 'Camp is One Week Away!')",
       "url": "https://hillside.northvilleschools.org/"
-    },
-    {
-      "title": "Hillside Fall Spirit Week + Pep Rally",
-      "when": "2026-10-12",
-      "end": "2026-10-16",
-      "kid": "both",
-      "source": "ParentSquare Hillside Highlights 10/9/26; Pep Rally Reminder ParentSquare Thu Oct 15 ~2:15pm ET",
-      "url": "https://docs.google.com/document/d/1X_s7sJuB7JO7gFpjGKIUsz7B0UsfUoYHTC-1SCKmyOM/edit?usp=sharing",
-      "note": "Oct 12-16 Spirit Week ends TODAY Fri: Class Color Day (6th grey/white). Pep Rally TODAY starts ~1:45pm. Early pickup by 1:15pm before students head to the gym (ParentSquare Pep Rally Reminder Thu Oct 15). Canned food drive all week ending today."
     },
     {
       "title": "Moraine Picture Re-take Day",
