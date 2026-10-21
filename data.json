@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T15:40:00-04:00",
-  "note": "Tue Oct 20 afternoon (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 16 Weekly Schoology Summary (10/9-10/16) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, ClassDojo/teacher and district emails, and public calendars. No browser portal pulls.",
+  "updated": "2026-10-21T06:45:00-04:00",
+  "note": "Wed Oct 21 morning (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 16 Weekly Schoology Summary (10/9-10/16) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, ClassDojo/teacher and district emails, and public calendars. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -385,20 +385,6 @@
       "note": "Optional free meet for Northville K-5 elementary students (Dax eligible). Register via Google Form or RunNXC.com. Info sheet on FinalForms. Questions: Coach J. Dalton. No fee. Draft-only via Chief if Aaron wants to register."
     },
     {
-      "title": "Mrs. Harris 6th grade science: Informational Poster due Tue Oct 20",
-      "when": "2026-10-20",
-      "kid": "isaac",
-      "source": "harrisje@northvilleschools.org Wed Oct 14 ~9:56pm ET; Thu Oct 15 ~9:11pm ET Update",
-      "note": "Mrs. Harris Thu Oct 15 ~9:11pm ET Update: students worked on posters Mon-Wed; she extended/confirmed the due date to Tuesday Oct 20; encouraging seminar work and/or take home if not done. Wed Oct 14 email: Measuring Light Investigation poster = assessment, NOT eligible for reassessment. Fri Oct 16 class: escape room (shortened schedule for pep rally). Next week: Disney Concert Hall reading, Poster Project self-reflection, Reflection and Transmission Practice Quiz, Lesson 7, Camp Copneconic / stay camp. Oh Deer at 40. Email did not name the child; Mrs. Harris is Isaac's science teacher. Not marked missing or complete."
-    },
-    {
-      "title": "Ms. Pinkelman 6th grade science: Informational Science Poster due Tue Oct 20",
-      "when": "2026-10-20",
-      "kid": "desmond",
-      "source": "pinkelca@northvilleschools.org (Katie Pinkelman) Wed Oct 14 ~9:30am ET",
-      "note": "Class spent three days turning the Measuring Light Investigation into an Informational Science Poster. Anything not finished by end of class Wed Oct 14, including the Student Self-Reflection, is homework due Tue Oct 20 and counts as an assessment grade. Teacher suggests looking at what your child has finished so far; questions by email or at Seminar/before school. Fri Oct 16 Weekly lists Desmond in SCIENCES 6: 2nd Hour, where Ms. Pinkelman posts, so this is Desmond's poster (Isaac has Mrs. Harris)."
-    },
-    {
       "title": "FinalForms: NCAA Parent and Student Information Night (NHS)",
       "when": "2026-11-05T18:00:00-04:00",
       "where": "Northville High School Forum",
@@ -434,14 +420,6 @@
       "source": "ParentSquare Hillside Thu Oct 8 ~1:18pm ET",
       "url": "https://docs.google.com/forms/d/e/1FAIpQLSeQ_DVLxjR-XQWHm4oaCnsbQqPGKRIo2odFdEJ-9oVIEZeE2g/viewform?usp=publish-editor",
       "note": "New social worker Ms. Lia Coval offering small-group and individual SEL support (mental health, friendships, executive functioning, self-esteem). Groups 8-10 week cycles during seminar/lunch/elective. Optional: complete sign-up form if you want Isaac/Desmond to participate. Questions: covalli@northvilleschools.org. Form decision is Aaron's (draft-only via Chief)."
-    },
-    {
-      "title": "Hillside band: Charleston Wrap fundraiser (Ms. Nugent) - sale through Oct 20",
-      "when": "2026-10-20",
-      "kid": "both",
-      "source": "nugentto@northvilleschools.org Wed Sep 30 ~3:13pm ET; ParentSquare Ms. Nugent Wed Oct 7 ~10:07am ET; ParentSquare Fri Oct 9 ~10:27am ET; Ms. Nugent email + ParentSquare Sun Oct 18 ~1:41pm ET (Final Push); Ms. Nugent email Mon Oct 19 ~3:23pm ET (Final chance); Ms. Nugent email Tue Oct 20 ~3:22pm ET (Final few hours, $271 away)",
-      "url": "https://www.registercw.com",
-      "note": "LAST DAY TODAY Tue Oct 20; sale ends at midnight tonight. Ms. Nugent Tue Oct 20 ~3:22pm ET: $271 away from the $4,000 goal (funds band music, solo & ensemble music, small percussion, loaner instruments). Order at https://registercw.com/gateway?organizationMidasId=26107 (Group ID 26107), or donate cash/check payable to Northville Public Schools (office or hand to Ms. Nugent in class). Optional. MONEY draft-only via Chief."
     },
     {
       "title": "Money/forms follow-up (draft-only via Chief)",
@@ -550,14 +528,6 @@
       "note": "Survey window Oct 19-23 (opt-out deadline was Fri Oct 9). Overlaps 6th grade camp Oct 21-23. Informational."
     },
     {
-      "title": "NPS Board of Education meeting",
-      "when": "2026-10-20T18:30:00-04:00",
-      "end": "2026-10-20T20:30:00-04:00",
-      "where": "Ridge Wood Elementary, 49775 Six Mile Rd, Northville",
-      "source": "Northville Public Schools calendar; ParentSquare NPS Mon Oct 19 ~5:41pm ET (10-20-26 Public Agendas)",
-      "note": "Tue Oct 20: Committee of the Whole 5:30pm (Chromebook purchase, 2025-26 audit report, public comment), then regular Board of Education meeting 6:30pm, both at Ridge Wood Elementary. Informational."
-    },
-    {
       "title": "NPS Special Call Meeting of the Board of Education",
       "when": "2026-10-27T18:30:00-04:00",
       "source": "Northville Public Schools calendar (checked Tue Oct 20 morning)",
@@ -572,10 +542,10 @@
       "note": "Informational class newsletter for 6th grade Individuals and Societies. Covers IB grading (assessments out of 8; Quarter 1 on track = 3 or higher on all assessments; practice work on track = 2 or higher), reassessment (encouraged/required below on-track; revise, don't restart), camp Oct 21-23 info links, and the first assessment (Crit A Ownership of Learning IB Portfolio, concluded Oct 6). Upcoming assessments named without dates: Crit A&B Aral Sea Inquiry Investigation (Oct 16 Weekly lists it due Mon Oct 26) and a Plate Tectonics 1-pager (first Physical Geography assessment; no date given). Teacher suggests weekly grade checks together using the student's own Schoology login. Email did not name a child; board lists both Isaac and Desmond in Tumolo IaS Hr. 4."
     },
     {
-      "title": "Board refresh note - Tue Oct 20 afternoon",
-      "when": "2026-10-20",
+      "title": "Board refresh note - Wed Oct 21 morning",
+      "when": "2026-10-21",
       "source": "Homeroom",
-      "note": "Tue Oct 20 ~3:40pm ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 16 Weekly Schoology Summary remains the baseline. Isaac overdue 2 (Four Conditions Review Doc, Lesson 11 Face Value) plus soft-watch Task Card Chart; Desmond overdue 1 (NewsELA Article and Quiz). New since morning: Mr. Tumolo IaS newsletter (Aral Sea and Plate Tectonics assessments ahead) and Ms. Nugent's Charleston Wrap final push ($271 to goal, ends midnight). Tonight: NPS Committee of the Whole 5:30pm and Board of Education 6:30pm at Ridge Wood (informational). Tomorrow Wed Oct 21: 6th grade camp drop-off (parents drive, morning) through Fri Oct 23 pickup; district P/T conference evening. Calendars unchanged since morning. Hygiene: dropped this morning's Student Council meeting."
+      "note": "Wed Oct 21 ~6:45am ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 16 Weekly Schoology Summary remains the baseline. No new school email since yesterday afternoon. Isaac overdue 2 (Four Conditions Review Doc, Lesson 11 Face Value) plus soft-watch Task Card Chart; Desmond overdue 1 (NewsELA Article and Quiz). TODAY: 6th grade camp drop-off this morning (parents drive; Isaac and Desmond at Camp Copneconic through Fri Oct 23 afternoon pickup, so no Hillside 3:03pm pickup today); Dax Moraine pickup 3:45pm; district P/T conference evening. Calendars unchanged. Hygiene: dropped the Charleston Wrap sale (ended Oct 20), the Oct 20 BoE meeting, the Oct 20 science-poster due-date notes, and yesterday's refresh note."
     }
   ],
   "events": []
