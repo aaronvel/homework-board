@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T06:45:00-04:00",
-  "note": "Wed Oct 21 morning (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 16 Weekly Schoology Summary (10/9-10/16) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, ClassDojo/teacher and district emails, and public calendars. No browser portal pulls.",
+  "updated": "2026-10-21T15:45:00-04:00",
+  "note": "Wed Oct 21 afternoon (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 16 Weekly Schoology Summary (10/9-10/16) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, ClassDojo/teacher and district emails, and public calendars. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -365,6 +365,17 @@
       "note": "Tue Oct 20 per Oct 16 Weekly (listed in Isaac's section). Mrs. Harris: assessment, not eligible for reassessment.",
       "verified": "2026-10-16 weekly summary",
       "status": "upcoming"
+    },
+    {
+      "id": "dax-science-quiz-20261022",
+      "title": "Science quiz",
+      "kid": "dax",
+      "course": "3rd Grade Science (Mrs. McMann)",
+      "due": "2026-10-22",
+      "status": "upcoming",
+      "url": "https://play.blooket.com/play?hwId=6ad8ee83cd94419141cd4f0c",
+      "verified": "2026-10-21 teacher email",
+      "note": "Thu Oct 22 per Mrs. McMann's Weekly Update. Review materials may come home; Blooket study link from the email."
     }
   ],
   "activities": [
@@ -542,10 +553,17 @@
       "note": "Informational class newsletter for 6th grade Individuals and Societies. Covers IB grading (assessments out of 8; Quarter 1 on track = 3 or higher on all assessments; practice work on track = 2 or higher), reassessment (encouraged/required below on-track; revise, don't restart), camp Oct 21-23 info links, and the first assessment (Crit A Ownership of Learning IB Portfolio, concluded Oct 6). Upcoming assessments named without dates: Crit A&B Aral Sea Inquiry Investigation (Oct 16 Weekly lists it due Mon Oct 26) and a Plate Tectonics 1-pager (first Physical Geography assessment; no date given). Teacher suggests weekly grade checks together using the student's own Schoology login. Email did not name a child; board lists both Isaac and Desmond in Tumolo IaS Hr. 4."
     },
     {
-      "title": "Board refresh note - Wed Oct 21 morning",
+      "title": "Mrs. McMann 3rd grade Weekly Update (Dax)",
+      "when": "2026-10-21",
+      "kid": "dax",
+      "source": "wallacemi@northvilleschools.org Wed Oct 21 ~1:18pm ET",
+      "note": "Reading: finished Module 1 (What a Character!), began Module 2 Mon; first module assessment done Fri, 3-2-1 scoring sheet coming home (assessments themselves can't go home). Math: Unit 1 Math Test taken today; score sheet to follow. Science: review Tue/Wed, quiz Thu Oct 22 (Blooket study link in the email). Writing: first personal narrative done; samples shared at conferences. Corrections go on a separate sheet stapled to the original. Halloween party Fri Oct 30 right after the parade (~1 hour); costumes OK at school, send a change of clothes; SignUpGenius for materials/volunteers in the email. Planners no longer come home on Fridays (intentional). Family Letter PDF attached."
+    },
+    {
+      "title": "Board refresh note - Wed Oct 21 afternoon",
       "when": "2026-10-21",
       "source": "Homeroom",
-      "note": "Wed Oct 21 ~6:45am ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 16 Weekly Schoology Summary remains the baseline. No new school email since yesterday afternoon. Isaac overdue 2 (Four Conditions Review Doc, Lesson 11 Face Value) plus soft-watch Task Card Chart; Desmond overdue 1 (NewsELA Article and Quiz). TODAY: 6th grade camp drop-off this morning (parents drive; Isaac and Desmond at Camp Copneconic through Fri Oct 23 afternoon pickup, so no Hillside 3:03pm pickup today); Dax Moraine pickup 3:45pm; district P/T conference evening. Calendars unchanged. Hygiene: dropped the Charleston Wrap sale (ended Oct 20), the Oct 20 BoE meeting, the Oct 20 science-poster due-date notes, and yesterday's refresh note."
+      "note": "Wed Oct 21 ~3:45pm ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 16 Weekly Schoology Summary remains the baseline. NEW: Mrs. McMann Weekly Update for Dax (science quiz Thu Oct 22; Unit 1 math test today; Halloween party Fri Oct 30). Isaac overdue 2 (Four Conditions Review Doc, Lesson 11 Face Value) plus soft-watch Task Card Chart; Desmond overdue 1 (NewsELA). Boys at Camp Copneconic through Fri Oct 23 PM parent pickup. Calendars unchanged."
     }
   ],
   "events": []
