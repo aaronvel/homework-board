@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T15:45:00-04:00",
-  "note": "Wed Oct 21 afternoon (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 16 Weekly Schoology Summary (10/9-10/16) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, ClassDojo/teacher and district emails, and public calendars. No browser portal pulls.",
+  "updated": "2026-10-22T06:45:00-04:00",
+  "note": "Thu Oct 22 morning (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 16 Weekly Schoology Summary (10/9-10/16) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, ClassDojo/teacher and district emails, and public calendars. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -492,14 +492,6 @@
       "note": "Tue Nov 3 no school at Moraine per Penguin's Raft."
     },
     {
-      "title": "NPS Parent/Teacher Conferences (evening; full school day)",
-      "when": "2026-10-19",
-      "end": "2026-10-21",
-      "kid": "both",
-      "source": "2026-27 NPS School Calendar (district)",
-      "note": "Mon Oct 19 and Wed Oct 21 evening Parent/Teacher Conferences; full day of school both days. Hillside-specific Nov conference windows are later (Nov 4 in-person / Nov 5 virtual per Hillside site). Informational."
-    },
-    {
       "title": "ParentSquare: Hillside Highlights 10/16/26",
       "when": "2026-10-19",
       "end": "2026-10-30",
@@ -560,10 +552,18 @@
       "note": "Reading: finished Module 1 (What a Character!), began Module 2 Mon; first module assessment done Fri, 3-2-1 scoring sheet coming home (assessments themselves can't go home). Math: Unit 1 Math Test taken today; score sheet to follow. Science: review Tue/Wed, quiz Thu Oct 22 (Blooket study link in the email). Writing: first personal narrative done; samples shared at conferences. Corrections go on a separate sheet stapled to the original. Halloween party Fri Oct 30 right after the parade (~1 hour); costumes OK at school, send a change of clothes; SignUpGenius for materials/volunteers in the email. Planners no longer come home on Fridays (intentional). Family Letter PDF attached."
     },
     {
-      "title": "Board refresh note - Wed Oct 21 afternoon",
+      "title": "NPS 10-21-26 Community FYI (informational)",
       "when": "2026-10-21",
+      "kid": "both",
+      "source": "ParentSquare Northville Public Schools Wed Oct 21 ~4:33pm ET",
+      "url": "https://www.parentsquare.com/feeds/93598274",
+      "note": "District community roundup. Items: NEF Student Grant applications close Fri Oct 23 (student-led projects with a teacher advisor); Robostangs C3 robotics competition at NHS gym Sat Oct 24 8:30am-7pm and Sun Oct 25 8am-3:30pm (open to all); Financial Reality Fair Wed Nov 4 4-5pm at Northville Community Center (ages 13-18 only, so not for the boys yet); Children's Christmas Workshop Sat Dec 5 at Mill Race Village for grades 1-6 ($30/child, registration Fri Nov 6 6-6:30pm members / 6:30pm non-members at 218 W. Dunlap; MONEY draft-only via Chief); Parent Camp Sat Dec 5 at NHS (free); Northville Youth Lacrosse indoor winter league recruiting 6th-8th grade boys (Sunday games at High Velocity, Google Form registration); NHS Arsenic and Old Lace Nov 12-14; Santa 5K Sat Nov 21; Mini-Mustang Dash Thu Oct 29 (already on board for Dax). Informational."
+    },
+    {
+      "title": "Board refresh note - Thu Oct 22 morning",
+      "when": "2026-10-22",
       "source": "Homeroom",
-      "note": "Wed Oct 21 ~3:45pm ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 16 Weekly Schoology Summary remains the baseline. NEW: Mrs. McMann Weekly Update for Dax (science quiz Thu Oct 22; Unit 1 math test today; Halloween party Fri Oct 30). Isaac overdue 2 (Four Conditions Review Doc, Lesson 11 Face Value) plus soft-watch Task Card Chart; Desmond overdue 1 (NewsELA). Boys at Camp Copneconic through Fri Oct 23 PM parent pickup. Calendars unchanged."
+      "note": "Thu Oct 22 ~6:45am ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 16 Weekly Schoology Summary remains the baseline. Only new school mail overnight: NPS 10-21-26 Community FYI (informational). Isaac overdue 2 (Four Conditions Review Doc, Lesson 11 Face Value) plus soft-watch Task Card Chart; Desmond overdue 1 (NewsELA Article and Quiz). TODAY: Isaac and Desmond at Camp Copneconic (no Hillside 3:03pm pickup; parent pickup Fri Oct 23 afternoon); Dax science quiz today, Moraine pickup 3:45pm, optional Moraine PTA Family Skating Party tonight. Calendars unchanged. Hygiene: dropped the P/T conference window (ended Oct 21) and yesterday's refresh note."
     }
   ],
   "events": []
