@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T15:40:00-04:00",
-  "note": "Thu Oct 22 afternoon (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 16 Weekly Schoology Summary (10/9-10/16) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, ClassDojo/teacher and district emails, and public calendars. No browser portal pulls.",
+  "updated": "2026-10-23T06:45:00-04:00",
+  "note": "Fri Oct 23 morning (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 16 Weekly Schoology Summary (10/9-10/16) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, ClassDojo/teacher and district emails, and public calendars. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -516,14 +516,6 @@
       "note": "Upcoming: Thu Oct 22 PTA Family Skating Party; Thu Oct 29 picture re-take and Mini-Mustang Dash (Cass Benton, free, optional); Fri Oct 30 Halloween parade 9:30am; Tue Nov 3 no school. New: parking-lot safety (phones away, crawl speed); literacy report cards may show 'Developing (2)' early in the year (HMH Into Reading); annual Foster Closet donation drive; NEF student grant applications open through Fri Oct 23; Nutrislice meal orders due by 7:00am day-of; electronic I-CHAT form required each year. Optional/money items draft-only via Chief."
     },
     {
-      "title": "Moraine Family Skate Night (Skatin Station)",
-      "when": "2026-10-22T18:00:00-04:00",
-      "kid": "dax",
-      "source": "Penguin's Raft 3rd week of October; Moraine ParentSquare Thu Oct 22 ~2:18pm ET",
-      "note": "TONIGHT Thu Oct 22, 6-8pm at Skatin Station, 8611 Ronda Dr, Canton Township. Optional family event (Moraine reminder posted today).",
-      "url": "https://www.parentsquare.com/feeds/93740201"
-    },
-    {
       "title": "Hillside Wellness Survey (Panorama SEL) window",
       "when": "2026-10-19",
       "end": "2026-10-23",
@@ -568,10 +560,10 @@
       "note": "Hillside Band Program thank-you: fundraiser exceeded goal, raising $4,180.50 for the Hillside band program. Informational; nothing due."
     },
     {
-      "title": "Board refresh note - Thu Oct 22 afternoon",
-      "when": "2026-10-22",
+      "title": "Board refresh note - Fri Oct 23 morning",
+      "when": "2026-10-23",
       "source": "Homeroom",
-      "note": "Thu Oct 22 ~3:40pm ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 16 Weekly Schoology Summary remains the baseline. New school mail today: Moraine ParentSquare Family Skate Night reminder (tonight 6-8pm, Skatin Station, Canton) and Ms. Nugent's Charleston Wrap thank-you ($4,180.50 raised, goal exceeded). Isaac overdue 2 (Four Conditions Review Doc, Lesson 11 Face Value) plus soft-watch Task Card Chart; Desmond overdue 1 (NewsELA Article and Quiz). Boys at Camp Copneconic through Fri Oct 23; parent pickup Fri afternoon. Calendars unchanged."
+      "note": "Fri Oct 23 ~6:45am ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 16 Weekly Schoology Summary remains the baseline. No new school mail overnight (only a Lifetouch promo). Isaac overdue 2 (Four Conditions Review Doc, Lesson 11 Face Value) plus soft-watch Task Card Chart; Desmond overdue 1 (NewsELA Article and Quiz). TODAY: parent pickup of Isaac and Desmond from Camp Copneconic this afternoon (no Hillside 3:03pm pickup); Dax Moraine pickup 3:45pm. Calendars unchanged. Hygiene: dropped last night's Family Skate Night and yesterday's refresh note."
     }
   ],
   "events": []
