@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T06:45:00-04:00",
-  "note": "Fri Oct 23 morning (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 16 Weekly Schoology Summary (10/9-10/16) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, ClassDojo/teacher and district emails, and public calendars. No browser portal pulls.",
+  "updated": "2026-10-23T15:35:00-04:00",
+  "note": "Fri Oct 23 afternoon (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 16 Weekly Schoology Summary (10/9-10/16) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, ClassDojo/teacher and district emails, and public calendars. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -446,8 +446,8 @@
       "end": "2026-10-23",
       "where": "Camp Copneconic",
       "kid": "both",
-      "note": "Hillside 6th grade trip Wed Oct 21 - Fri Oct 23. Ms. Moffett Mon Oct 19 ('Camp is Two Days Away!'): parents must handle BOTH drop-off (Wed Oct 21 morning) and pick-up (Fri Oct 23 afternoon) because luggage is not allowed on the school buses; take photos and say goodbyes at home (only chaperones in the gym/gym lobby). Students should know their bus letter (lists posted in the cafeteria Wed Oct 14). Medication in original container to the Hillside front office by TODAY Mon Oct 19. Pack filled water bottles (camp has well water), label everything, NO electronics or food. Packing list and dietary/allergy form in Money/forms item; drop-off/pick-up details: https://docs.google.com/document/d/1qM3JFetHobyjndfdKsrY-Je5sbjurTLZm49TbhOH7eA/edit?usp=sharing. MONEY/forms draft-only via Chief.",
-      "source": "Hillside calendar + ParentSquare Moffett (Mon Oct 5; Wed Oct 14 ~3:02pm ET 'Camp is One Week Away!'); ParentSquare Moffett Mon Oct 19 ~8:01am ET 'Camp is Two Days Away!'",
+      "note": "Hillside 6th grade trip Wed Oct 21 - Fri Oct 23. FRI OCT 23 UPDATE (ParentSquare Hillside ~10:32am ET): buses left camp ~12:15pm back to Hillside; families were asked not to come to school until the arrival update. ParentSquare Hillside ~12:44pm ET: pick up 6th grade campers at 1:30pm today in the front-of-school drop-off area. Earlier (Ms. Moffett Mon Oct 19): parents handle both drop-off and pick-up because luggage is not allowed on the school buses. Drops from the board after today.",
+      "source": "Hillside calendar + ParentSquare Moffett (Mon Oct 5; Wed Oct 14 ~3:02pm ET 'Camp is One Week Away!'); ParentSquare Moffett Mon Oct 19 ~8:01am ET 'Camp is Two Days Away!'; ParentSquare Hillside Fri Oct 23 ~10:32am ET ('6th Grade Camp Pick Up Today') and ~12:44pm ET ('6th Grade camp Pick up at 1:30 pm')",
       "url": "https://hillside.northvilleschools.org/"
     },
     {
@@ -560,10 +560,10 @@
       "note": "Hillside Band Program thank-you: fundraiser exceeded goal, raising $4,180.50 for the Hillside band program. Informational; nothing due."
     },
     {
-      "title": "Board refresh note - Fri Oct 23 morning",
+      "title": "Board refresh note - Fri Oct 23 afternoon",
       "when": "2026-10-23",
       "source": "Homeroom",
-      "note": "Fri Oct 23 ~6:45am ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 16 Weekly Schoology Summary remains the baseline. No new school mail overnight (only a Lifetouch promo). Isaac overdue 2 (Four Conditions Review Doc, Lesson 11 Face Value) plus soft-watch Task Card Chart; Desmond overdue 1 (NewsELA Article and Quiz). TODAY: parent pickup of Isaac and Desmond from Camp Copneconic this afternoon (no Hillside 3:03pm pickup); Dax Moraine pickup 3:45pm. Calendars unchanged. Hygiene: dropped last night's Family Skate Night and yesterday's refresh note."
+      "note": "Fri Oct 23 ~3:35pm ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 16 Weekly Schoology Summary remains the baseline (the next Weekly may arrive today or tonight). New school mail: two Hillside ParentSquare camp posts (buses left camp ~12:15pm; pickup at Hillside front drop-off 1:30pm today). Isaac overdue 2 (Four Conditions Review Doc, Lesson 11 Face Value) plus soft-watch Task Card Chart; Desmond overdue 1 (NewsELA Article and Quiz). Dax Moraine pickup 3:45pm. No Hillside/Moraine events tonight or Sat Oct 24 on the calendars; district Trunk or Treats tonight are at Silver Springs and Amerman, not Moraine. Calendars unchanged since this morning."
     }
   ],
   "events": []
