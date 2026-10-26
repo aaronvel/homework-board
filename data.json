@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T15:35:00-04:00",
-  "note": "Fri Oct 23 afternoon (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 16 Weekly Schoology Summary (10/9-10/16) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, ClassDojo/teacher and district emails, and public calendars. No browser portal pulls.",
+  "updated": "2026-10-26T06:50:00-04:00",
+  "note": "Mon Oct 26 morning (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 23 Weekly Schoology Summary (10/16-10/23) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -42,10 +42,10 @@
       "kid": "isaac",
       "course": "SCIENCES 6: 5th Hour",
       "due": "2026-09-30T23:59:00-04:00",
-      "status": "missing",
+      "status": "upcoming",
       "url": "https://app.schoology.com/course/8505187890/preview/126048205/parent?url=assignment/8588464271",
-      "verified": "2026-10-16 weekly summary",
-      "note": "Still overdue per Fri Oct 16 Weekly Schoology Summary (16 days overdue as of Oct 16)."
+      "verified": "2026-10-23 weekly summary",
+      "note": "Was overdue in the Oct 9 and Oct 16 Weeklies. Fri Oct 23 Weekly lists it under Sciences with no score and it is NOT in Isaac's Overdue list. Not marked missing or complete."
     },
     {
       "id": "isaac-lesson11-face-value-20261001",
@@ -53,10 +53,10 @@
       "kid": "isaac",
       "course": "ADVANCED MATHEMATICS 6",
       "due": "2026-10-01T08:00:00-04:00",
-      "status": "missing",
+      "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185403/preview/126048205/parent?url=assignment/8562669248",
-      "verified": "2026-10-16 weekly summary",
-      "note": "Still overdue per Fri Oct 16 Weekly Schoology Summary (15 days overdue as of Oct 16). Math course grade C."
+      "verified": "2026-10-23 weekly summary",
+      "note": "Was overdue in the Oct 16 Weekly. Not in Isaac's Fri Oct 23 Weekly Overdue list and not listed with a score. Not marked missing or complete. Math course grade C."
     },
     {
       "id": "isaac-lesson4-20260916",
@@ -80,16 +80,6 @@
       "note": "Listed in Oct 16 Weekly under Tumolo IaS without a score; not in Overdue list. Status not confirmed."
     },
     {
-      "id": "isaac-ib-portfolio-crit-a-20261006",
-      "title": "U.1.1.EoL.Crit.A - Ownership of Learning IB Portfolio",
-      "kid": "isaac",
-      "course": "INDIVIDUALS AND SOCIETIES 6: Tumolo IaS Hr. 4",
-      "due": "2026-10-06T11:50:00-04:00",
-      "status": "upcoming",
-      "verified": "2026-10-09 weekly summary",
-      "note": "Was due Tue Oct 6 11:50am. Listed in Oct 9 Weekly without a score and not in the Overdue list. Not marked missing or complete."
-    },
-    {
       "id": "isaac-pe-extra-credit-20261009",
       "title": "PE extra credit: parent-signed sheet",
       "kid": "isaac",
@@ -100,17 +90,6 @@
       "note": "Optional. Was due Fri Oct 9 (Mr. Timm). No email confirming it was turned in; not marked missing or complete."
     },
     {
-      "id": "isaac-practice-journal-w3w4-20261012",
-      "title": "Practice Journal Weeks 3 & 4 LOCKS 10/25@11:59 PM",
-      "kid": "isaac",
-      "course": "ARTS-BAND 6: 5th Hour",
-      "due": "2026-10-12T23:59:00-04:00",
-      "status": "upcoming",
-      "url": "https://app.schoology.com/course/8505185773/preview/126048205/parent?url=assignment/8555538884",
-      "verified": "2026-10-09 weekly summary",
-      "note": "Was due Mon Oct 12 11:59pm (Ms. Nugent reminder Fri Oct 9); locks Oct 25. No new Schoology email confirming submit as of Mon Oct 19 morning (not listed in the Oct 16 Weekly). (Weeks 1 & 2 graded 6/8.)"
-    },
-    {
       "id": "isaac-peace-poster-20261027",
       "title": "Peace Poster Contest",
       "kid": "isaac",
@@ -118,8 +97,8 @@
       "due": "2026-10-27T23:59:00-04:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505187968/preview/126048205/parent?url=assignment/8573008762",
-      "verified": "2026-10-16 weekly summary",
-      "note": "Due Tue Oct 27 11:59pm per Oct 16 Weekly Summary (Seminar 6)."
+      "verified": "2026-10-23 weekly summary",
+      "note": "Due Tue Oct 27 11:59pm (Seminar 6). Listed in Fri Oct 23 Weekly with no score."
     },
     {
       "id": "desmond-lesson3-parallelograms-20260916",
@@ -154,27 +133,6 @@
       "note": "Listed under Tumolo IaS in Oct 2 Weekly without a score; Desmond Overdue list empty. Status not confirmed."
     },
     {
-      "id": "desmond-ib-portfolio-crit-a-20261006",
-      "title": "U.1.1.EoL.Crit.A - Ownership of Learning IB Portfolio",
-      "kid": "desmond",
-      "course": "INDIVIDUALS AND SOCIETIES 6: Tumolo IaS Hr. 4",
-      "due": "2026-10-06T11:50:00-04:00",
-      "status": "upcoming",
-      "verified": "2026-10-09 weekly summary",
-      "note": "Was due Tue Oct 6 11:50am. Listed in Oct 9 Weekly without a score and not in the Overdue list. Not marked missing or complete."
-    },
-    {
-      "id": "desmond-practice-journal-w3w4-20261012",
-      "title": "Practice Journal Weeks 3 & 4 LOCKS 10/25@11:59 PM",
-      "kid": "desmond",
-      "course": "ARTS-BAND 6: 7th Hour",
-      "due": "2026-10-12T23:59:00-04:00",
-      "status": "upcoming",
-      "url": "https://app.schoology.com/course/8505185773/preview/126048204/parent?url=assignment/8555538884",
-      "verified": "2026-10-09 weekly summary",
-      "note": "Was due Mon Oct 12 11:59pm (Ms. Nugent reminder Fri Oct 9); locks Oct 25. No new Schoology email confirming submit as of Mon Oct 19 morning (not listed in the Oct 16 Weekly). (Weeks 1 & 2 graded 7/8.)"
-    },
-    {
       "id": "desmond-khan-oct-20261030",
       "title": "Khan Academy (Oct - due by 10/30) ----- Learn About It, Practice It, Evidence of Learning",
       "kid": "desmond",
@@ -192,8 +150,8 @@
       "course": "INDIVIDUALS AND SOCIETIES 6: Tumolo IaS Hr. 4",
       "due": "2026-10-13T23:59:00-04:00",
       "status": "upcoming",
-      "verified": "2026-10-09 weekly summary",
-      "note": "Was due Tue Oct 13 11:59pm per Oct 9 Weekly. Not listed for Isaac in the Oct 16 Weekly and not in his Overdue list; not marked missing or complete."
+      "verified": "2026-10-23 weekly summary",
+      "note": "Was due Tue Oct 13 11:59pm. Listed in Fri Oct 23 Weekly without a score and not in the Overdue list; not marked missing or complete."
     },
     {
       "id": "desmond-ias-geo-inquiry-aral-20261013",
@@ -206,54 +164,13 @@
       "note": "Was due Tue Oct 13 11:59pm. Listed in Oct 16 Weekly without a score and not in the Overdue list; not marked missing or complete."
     },
     {
-      "id": "isaac-french-quiz-unit2-20261020",
-      "title": "French Quiz Unit 2",
-      "kid": "isaac",
-      "course": "LANG ACQ-FRENCH 6",
-      "due": "2026-10-20",
-      "status": "upcoming",
-      "url": "https://app.schoology.com/course/8505187257/preview/126048205/parent?url=event/8600704530/profile",
-      "verified": "2026-10-16 weekly summary",
-      "note": "Tue Oct 20 per Oct 16 Weekly. Fri Oct 16 was review day. French course grade B."
-    },
-    {
-      "id": "desmond-newsela-20261016",
-      "title": "NewsELA Article and Quiz",
-      "kid": "desmond",
-      "course": "LANGUAGE AND LITERATURE 6",
-      "due": "2026-10-16T14:59:00-04:00",
-      "status": "missing",
-      "note": "OVERDUE per Fri Oct 16 Weekly Schoology Summary (Desmond Overdue Submissions: 1). Was due Fri Oct 16 2:59pm.",
-      "verified": "2026-10-16 weekly summary"
-    },
-    {
-      "id": "desmond-journal-q1-20261019",
-      "title": "Journal (Quarter 1)",
-      "kid": "desmond",
-      "course": "LANGUAGE AND LITERATURE 6",
-      "due": "2026-10-19T14:59:00-04:00",
-      "note": "Due Mon Oct 19 2:59pm per Oct 16 Weekly.",
-      "verified": "2026-10-16 weekly summary",
-      "status": "upcoming"
-    },
-    {
       "id": "isaac-music-theory-packet-20261016",
       "title": "Lesson 1-5 Packet of Music Theory (Locks 10/26 @3:15 PM)",
       "kid": "isaac",
       "course": "ARTS-BAND 6: 5th Hour",
       "due": "2026-10-16T23:59:00-04:00",
-      "note": "Ms. Nugent Fri Oct 16: if not finished in class Friday it's weekend homework; turn in LATE Mon Oct 19 in class (video tutorial in Schoology). Not in the Overdue list; not marked missing or complete.",
-      "verified": "2026-10-16 weekly summary",
-      "status": "upcoming"
-    },
-    {
-      "id": "isaac-note-reading-2-1-20261016",
-      "title": "Note Reading: Fingers Fill In 2.1 (Locks 10/30 @3:15 PM)",
-      "kid": "isaac",
-      "course": "ARTS-BAND 6: 5th Hour",
-      "due": "2026-10-16T23:59:00-04:00",
-      "note": "Passed out Fri Oct 16. Ms. Nugent: if not finished in class it's weekend homework; turn in LATE Mon Oct 19 in class. Not marked missing or complete.",
-      "verified": "2026-10-16 weekly summary",
+      "note": "Listed in Fri Oct 23 Weekly with no score; not in the Overdue list. Locks TODAY Mon Oct 26 3:15pm. Not marked missing or complete.",
+      "verified": "2026-10-23 weekly summary",
       "status": "upcoming"
     },
     {
@@ -272,8 +189,8 @@
       "kid": "isaac",
       "course": "INDIVIDUALS AND SOCIETIES 6: Tumolo IaS Hr. 4",
       "due": "2026-10-26T23:59:00-04:00",
-      "note": "Due Mon Oct 26 11:59pm (external tool) per Oct 16 Weekly. Class work days: Mon Oct 19 background slide + start evidence slide (final day to request feedback/pre-grading); Tue Oct 20 evidence slide + start reflection.",
-      "verified": "2026-10-16 weekly summary",
+      "note": "Due TODAY Mon Oct 26 11:59pm (external tool) per Oct 16 and Oct 23 Weeklies. Mr. Tumolo (Oct 20, in Oct 23 Weekly): because of camp, the final Quarter 1 reassessment deadline is extended to Wed Oct 28 11:59pm; help available 7th hour Mon-Wed this week or at lunch/before school by request.",
+      "verified": "2026-10-23 weekly summary",
       "status": "upcoming"
     },
     {
@@ -282,8 +199,8 @@
       "kid": "isaac",
       "course": "ARTS-BAND 6: 5th Hour",
       "due": "2026-10-26T23:59:00-04:00",
-      "note": "Due Mon Oct 26 per Oct 16 Weekly.",
-      "verified": "2026-10-16 weekly summary",
+      "note": "Due TODAY Mon Oct 26 11:59pm per Oct 23 Weekly (locks Nov 1). Ms. Nugent (Oct 22): add the free 15 minutes per camp day into the week 6 practice journal along with other practice days.",
+      "verified": "2026-10-23 weekly summary",
       "status": "upcoming"
     },
     {
@@ -292,28 +209,8 @@
       "kid": "isaac",
       "course": "ARTS-BAND 6: 5th Hour",
       "due": "2026-10-29",
-      "note": "Thu Oct 29 per Oct 16 Weekly.",
-      "verified": "2026-10-16 weekly summary",
-      "status": "upcoming"
-    },
-    {
-      "id": "desmond-music-theory-packet-20261016",
-      "title": "Lesson 1-5 Packet of Music Theory (Locks 10/26 @3:15 PM)",
-      "kid": "desmond",
-      "course": "ARTS-BAND 6: 7th Hour",
-      "due": "2026-10-16T23:59:00-04:00",
-      "note": "Ms. Nugent Fri Oct 16: if not finished in class Friday it's weekend homework; turn in LATE Mon Oct 19 in class (video tutorial in Schoology). Not in the Overdue list; not marked missing or complete.",
-      "verified": "2026-10-16 weekly summary",
-      "status": "upcoming"
-    },
-    {
-      "id": "desmond-note-reading-2-1-20261016",
-      "title": "Note Reading: Fingers Fill In 2.1 (Locks 10/30 @3:15 PM)",
-      "kid": "desmond",
-      "course": "ARTS-BAND 6: 7th Hour",
-      "due": "2026-10-16T23:59:00-04:00",
-      "note": "Passed out Fri Oct 16. Ms. Nugent: if not finished in class it's weekend homework; turn in LATE Mon Oct 19 in class. Not marked missing or complete.",
-      "verified": "2026-10-16 weekly summary",
+      "note": "Thu Oct 29 per Oct 16 and Oct 23 Weeklies.",
+      "verified": "2026-10-23 weekly summary",
       "status": "upcoming"
     },
     {
@@ -332,8 +229,8 @@
       "kid": "desmond",
       "course": "INDIVIDUALS AND SOCIETIES 6: Tumolo IaS Hr. 4",
       "due": "2026-10-26T23:59:00-04:00",
-      "note": "Due Mon Oct 26 11:59pm (external tool) per Oct 16 Weekly. Class work days: Mon Oct 19 background slide + start evidence slide (final day to request feedback/pre-grading); Tue Oct 20 evidence slide + start reflection.",
-      "verified": "2026-10-16 weekly summary",
+      "note": "Due TODAY Mon Oct 26 11:59pm (external tool) per Oct 16 and Oct 23 Weeklies. Mr. Tumolo (Oct 20, in Oct 23 Weekly): because of camp, the final Quarter 1 reassessment deadline is extended to Wed Oct 28 11:59pm; help available 7th hour Mon-Wed this week or at lunch/before school by request.",
+      "verified": "2026-10-23 weekly summary",
       "status": "upcoming"
     },
     {
@@ -342,8 +239,8 @@
       "kid": "desmond",
       "course": "ARTS-BAND 6: 7th Hour",
       "due": "2026-10-26T23:59:00-04:00",
-      "note": "Due Mon Oct 26 per Oct 16 Weekly.",
-      "verified": "2026-10-16 weekly summary",
+      "note": "Due TODAY Mon Oct 26 11:59pm per Oct 23 Weekly (locks Nov 1). Ms. Nugent (Oct 22): add the free 15 minutes per camp day into the week 6 practice journal along with other practice days.",
+      "verified": "2026-10-23 weekly summary",
       "status": "upcoming"
     },
     {
@@ -352,8 +249,8 @@
       "kid": "desmond",
       "course": "ARTS-BAND 6: 7th Hour",
       "due": "2026-10-29",
-      "note": "Thu Oct 29 per Oct 16 Weekly.",
-      "verified": "2026-10-16 weekly summary",
+      "note": "Thu Oct 29 per Oct 16 and Oct 23 Weeklies.",
+      "verified": "2026-10-23 weekly summary",
       "status": "upcoming"
     },
     {
@@ -367,15 +264,92 @@
       "status": "upcoming"
     },
     {
-      "id": "dax-science-quiz-20261022",
-      "title": "Science quiz",
-      "kid": "dax",
-      "course": "3rd Grade Science (Mrs. McMann)",
-      "due": "2026-10-22",
-      "status": "upcoming",
-      "url": "https://play.blooket.com/play?hwId=6ad8ee83cd94419141cd4f0c",
-      "verified": "2026-10-21 teacher email",
-      "note": "Thu Oct 22 per Mrs. McMann's Weekly Update. Review materials may come home; Blooket study link from the email."
+      "id": "isaac-lesson6-check-20261019",
+      "title": "Lesson 6 Check",
+      "kid": "isaac",
+      "course": "SCIENCES 6",
+      "due": "2026-10-19T23:59:00-04:00",
+      "status": "missing",
+      "url": "https://app.schoology.com/course/8505187890/preview/126048205/parent?url=assignment/8610094597",
+      "note": "OVERDUE per Fri Oct 23 Weekly Schoology Summary (4 days overdue as of Oct 23). Mrs. Harris says it was done in class Mon Oct 19.",
+      "verified": "2026-10-23 weekly summary"
+    },
+    {
+      "id": "isaac-reflection-transmission-quiz-20261019",
+      "title": "Reflection and Transmission Practice Quiz",
+      "kid": "isaac",
+      "course": "SCIENCES 6",
+      "due": "2026-10-19T23:59:00-04:00",
+      "status": "missing",
+      "url": "https://app.schoology.com/course/8505187890/preview/126048205/parent?url=assignment/8607892512",
+      "note": "OVERDUE per Fri Oct 23 Weekly Schoology Summary (4 days overdue as of Oct 23). Mrs. Harris says it was taken in class Mon Oct 19.",
+      "verified": "2026-10-23 weekly summary"
+    },
+    {
+      "id": "isaac-lesson11-mixing-paint-2-20261021",
+      "title": "Lesson 11: Mixing Paint, Part 2",
+      "kid": "isaac",
+      "course": "ADVANCED MATHEMATICS 6: 3rd Hour",
+      "due": "2026-10-21T08:00:00-04:00",
+      "status": "missing",
+      "url": "https://app.schoology.com/course/8505185403/preview/126048205/parent?url=assignment/8603881466",
+      "note": "OVERDUE per Fri Oct 23 Weekly Schoology Summary (2 days overdue as of Oct 23). Due date fell on the first day of camp.",
+      "verified": "2026-10-23 weekly summary"
+    },
+    {
+      "id": "desmond-lesson11-mixing-paint-2-20261021",
+      "title": "Lesson 11: Mixing Paint, Part 2",
+      "kid": "desmond",
+      "course": "ADVANCED MATHEMATICS 6: 3rd Hour",
+      "due": "2026-10-21T08:00:00-04:00",
+      "status": "missing",
+      "url": "https://app.schoology.com/course/8505185403/preview/126048204/parent?url=assignment/8603881466",
+      "note": "OVERDUE per Fri Oct 23 Weekly Schoology Summary (2 days overdue as of Oct 23). Due date fell on the first day of camp.",
+      "verified": "2026-10-23 weekly summary"
+    },
+    {
+      "id": "desmond-raymonds-run-20261020",
+      "title": "\"Raymond's Run\": Evidence and Reasoning Identification",
+      "kid": "desmond",
+      "course": "LANGUAGE AND LITERATURE 6",
+      "due": "2026-10-20T14:59:00-04:00",
+      "status": "missing",
+      "url": "https://app.schoology.com/course/8505187334/preview/126048204/parent?url=assignment/8615931564",
+      "note": "OVERDUE per Fri Oct 23 Weekly Schoology Summary (3 days overdue as of Oct 23).",
+      "verified": "2026-10-23 weekly summary"
+    },
+    {
+      "id": "isaac-pe-participation-20261030",
+      "title": "10-30 Participation",
+      "kid": "isaac",
+      "course": "PHYSICAL EDUCATION 6 7A",
+      "due": "2026-10-30T23:59:00-04:00",
+      "url": "https://app.schoology.com/course/8505187737/preview/126048205/parent?url=assignment/8620465297",
+      "note": "Fri Oct 30 11:59pm per Oct 23 Weekly.",
+      "verified": "2026-10-23 weekly summary",
+      "status": "upcoming"
+    },
+    {
+      "id": "desmond-pe-participation-20261030",
+      "title": "10-30 Participation",
+      "kid": "desmond",
+      "course": "PHYSICAL EDUCATION 6 5B",
+      "due": "2026-10-30T23:59:00-04:00",
+      "url": "https://app.schoology.com/course/8505187733/preview/126048204/parent?url=assignment/8620465266",
+      "note": "Fri Oct 30 11:59pm per Oct 23 Weekly.",
+      "verified": "2026-10-23 weekly summary",
+      "status": "upcoming"
+    },
+    {
+      "id": "desmond-storytelling-speech-20261102",
+      "title": "Storytelling Speech (11/2) ----- Evidence of Learning",
+      "kid": "desmond",
+      "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
+      "due": "2026-11-02T23:59:00-04:00",
+      "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8614690814",
+      "note": "Mon Nov 2 11:59pm per Oct 23 Weekly. Speech Outline (10/19) scored 1/1.",
+      "verified": "2026-10-23 weekly summary",
+      "status": "upcoming"
     }
   ],
   "activities": [
@@ -412,13 +386,6 @@
       "note": "Optional Sat Dec 12 clinic with NHS Pompon teams: craft, learn a routine, perform at a basketball game Dec 15. Includes poms, t-shirt, craft, snack. Flyer attached on ParentSquare. MONEY/forms draft-only via Chief if Aaron wants to register."
     },
     {
-      "title": "Mrs. Harris Sciences weekly (Isaac)",
-      "when": "2026-10-09",
-      "kid": "isaac",
-      "source": "harrisje@northvilleschools.org Fri Oct 9 ~9:32am ET",
-      "note": "Week recap: light transmit/reflect labs Tue-Wed; Thu revised light models, reading on one-way mirrors, Lesson Check. Today introducing APS conference poster mini-project from Tue data; continues next week. Oh Deer sightings at 38. Informational class update only — does not name or clear Isaac's overdue Lesson Checks / Four Conditions Review."
-    },
-    {
       "title": "2026 Hillside Cross Country: Section 1",
       "kid": "isaac",
       "note": "Season over for Isaac/Desmond after Wed Oct 14 Division Meet (Boys JV took 1st; results at https://live.fstiming.com/meets/79172). Team party was Mon Oct 19 (done). Jersey turn-in was Thu Oct 15/Fri Oct 16.",
@@ -438,17 +405,7 @@
       "kid": "both",
       "source": "ParentSquare (Moffett Mon Oct 5 ~9:07am, earlier Moffett/district posts); ParentSquare Moffett Mon Oct 19 ~8:01am ET (reminder)",
       "url": "https://northvilleschools.revtrak.net/middle-schools/hillside-middle-school/#/fo/2026-6th-Grade-Trip---Camp-Copneconic69",
-      "note": "Camp medication deadline was Mon Oct 19 (form at https://hillside.northvilleschools.org/parents/immunization-medical-forms plus meds in original container to the Hillside front office); no email confirms whether anything was turned in. Camp is Wed Oct 21 - Fri Oct 23. Camp dietary/allergy form: https://docs.google.com/forms/d/e/1FAIpQLSeeygEybXUipP-YjYvrwXpMOw1bwcs_pd5Y_QPCqFkCCe44_g/viewform. Earlier deadlines with no confirmation email seen: Chromebook Protection Plan ($50/device, Oct 1) and Camp Copneconic payment (Oct 2). Packing list: https://docs.google.com/document/d/1ghBC3K_4yP9_9K0u8XMnwzfTLW2TZqco-SrrsYv25Rk/edit?usp=sharing. Contact Kelly Moffett (248) 344-3614. MONEY/forms draft-only via Chief."
-    },
-    {
-      "title": "6th grade Camp Copneconic",
-      "when": "2026-10-21",
-      "end": "2026-10-23",
-      "where": "Camp Copneconic",
-      "kid": "both",
-      "note": "Hillside 6th grade trip Wed Oct 21 - Fri Oct 23. FRI OCT 23 UPDATE (ParentSquare Hillside ~10:32am ET): buses left camp ~12:15pm back to Hillside; families were asked not to come to school until the arrival update. ParentSquare Hillside ~12:44pm ET: pick up 6th grade campers at 1:30pm today in the front-of-school drop-off area. Earlier (Ms. Moffett Mon Oct 19): parents handle both drop-off and pick-up because luggage is not allowed on the school buses. Drops from the board after today.",
-      "source": "Hillside calendar + ParentSquare Moffett (Mon Oct 5; Wed Oct 14 ~3:02pm ET 'Camp is One Week Away!'); ParentSquare Moffett Mon Oct 19 ~8:01am ET 'Camp is Two Days Away!'; ParentSquare Hillside Fri Oct 23 ~10:32am ET ('6th Grade Camp Pick Up Today') and ~12:44pm ET ('6th Grade camp Pick up at 1:30 pm')",
-      "url": "https://hillside.northvilleschools.org/"
+      "note": "Camp is over (Oct 21-23). Earlier deadlines with no confirmation email seen: Chromebook Protection Plan ($50/device, Oct 1) and Camp Copneconic payment (Oct 2); camp medication form deadline was Mon Oct 19. Contact Kelly Moffett (248) 344-3614. MONEY/forms draft-only via Chief."
     },
     {
       "title": "Moraine Picture Re-take Day",
@@ -469,8 +426,8 @@
       "when": "2026-10-30T09:30:00-04:00",
       "where": "Moraine / North Beacon Woods",
       "kid": "dax",
-      "source": "ParentSquare Penguin's Raft Sun Oct 4",
-      "note": "Fri Oct 30, parade 9:30am (weather permitting, no Plan B). Wear costume or put on over clothes; no fake weapons/blood, nothing scary; makeup at home."
+      "source": "ParentSquare Penguin's Raft Sun Oct 4; Penguin's Raft 4th week of October (Sun Oct 25)",
+      "note": "Fri Oct 30, parade through North Beacon Woods 9:30am (weather permitting, no Plan B). Wear costume or put on over clothes; costume must be weather appropriate for recess; no fake weapons/blood, nothing scary; makeup/hairspray at home. Class Halloween party right after the parade (Mrs. McMann; send a change of clothes)."
     },
     {
       "title": "Moraine: Fall 2026 i-Ready Inform results (Dax)",
@@ -492,36 +449,11 @@
       "note": "Tue Nov 3 no school at Moraine per Penguin's Raft."
     },
     {
-      "title": "ParentSquare: Hillside Highlights 10/16/26",
-      "when": "2026-10-19",
-      "end": "2026-10-30",
-      "kid": "both",
-      "source": "ParentSquare Hillside Fri Oct 16 ~4:14pm ET",
-      "url": "https://docs.google.com/document/d/1fYs94br2GhBwwLTOxCXB7TC9WTuTlu3PbiXI6-h1s1c/edit?usp=sharing",
-      "note": "Calendar: Mon Oct 19 boys basketball intramurals (6-8) and volleyball at Novi; Tue Oct 20 Student Council and Model UN; Wed Oct 21 football at Royal Oak, volleyball vs Scranton; Thu Oct 22 boys basketball intramurals; Oct 21-23 6th grade camp; Fri Oct 23 FBLA and Mathcounts; Oct 23 and 26 boys basketball tryouts (Oct 23 overlaps 6th grade camp); Fri Oct 30 end of Quarter 1. Jesper t-shirt design contest due Fri Oct 23 to bartelke@northvilleschools.org. i-Ready Family Report emails expected this week. Daytime drop-offs go on the Student Drop-Off Table inside the main entrance (label with name and grade)."
-    },
-    {
       "title": "Hillside: end of Quarter 1",
       "when": "2026-10-30",
       "kid": "both",
-      "source": "Hillside Highlights 10/16/26; Schoology grading period M26-27Q1 (31 Aug - 30 Oct)",
-      "note": "Fri Oct 30 ends Q1."
-    },
-    {
-      "title": "Moraine Penguin's Raft - 3rd week of October",
-      "when": "2026-10-19",
-      "end": "2026-10-30",
-      "kid": "dax",
-      "source": "ParentSquare Penguin's Raft Sun Oct 18 ~9:04am ET",
-      "note": "Upcoming: Thu Oct 22 PTA Family Skating Party; Thu Oct 29 picture re-take and Mini-Mustang Dash (Cass Benton, free, optional); Fri Oct 30 Halloween parade 9:30am; Tue Nov 3 no school. New: parking-lot safety (phones away, crawl speed); literacy report cards may show 'Developing (2)' early in the year (HMH Into Reading); annual Foster Closet donation drive; NEF student grant applications open through Fri Oct 23; Nutrislice meal orders due by 7:00am day-of; electronic I-CHAT form required each year. Optional/money items draft-only via Chief."
-    },
-    {
-      "title": "Hillside Wellness Survey (Panorama SEL) window",
-      "when": "2026-10-19",
-      "end": "2026-10-23",
-      "kid": "both",
-      "source": "ParentSquare Hillside Mon Oct 5",
-      "note": "Survey window Oct 19-23 (opt-out deadline was Fri Oct 9). Overlaps 6th grade camp Oct 21-23. Informational."
+      "source": "Hillside Highlights 10/16/26; Schoology grading period M26-27Q1 (31 Aug - 30 Oct); Hillside Highlights 10/23/26",
+      "note": "Fri Oct 30 ends Q1. Students may dress for Halloween that day (no weapons, masks, or inflatables). IaS reassessments due Wed Oct 28 11:59pm (Mr. Tumolo)."
     },
     {
       "title": "NPS Special Call Meeting of the Board of Education",
@@ -545,25 +477,41 @@
       "note": "Reading: finished Module 1 (What a Character!), began Module 2 Mon; first module assessment done Fri, 3-2-1 scoring sheet coming home (assessments themselves can't go home). Math: Unit 1 Math Test taken today; score sheet to follow. Science: review Tue/Wed, quiz Thu Oct 22 (Blooket study link in the email). Writing: first personal narrative done; samples shared at conferences. Corrections go on a separate sheet stapled to the original. Halloween party Fri Oct 30 right after the parade (~1 hour); costumes OK at school, send a change of clothes; SignUpGenius for materials/volunteers in the email. Planners no longer come home on Fridays (intentional). Family Letter PDF attached."
     },
     {
-      "title": "NPS 10-21-26 Community FYI (informational)",
-      "when": "2026-10-21",
-      "kid": "both",
-      "source": "ParentSquare Northville Public Schools Wed Oct 21 ~4:33pm ET",
-      "url": "https://www.parentsquare.com/feeds/93598274",
-      "note": "District community roundup. Items: NEF Student Grant applications close Fri Oct 23 (student-led projects with a teacher advisor); Robostangs C3 robotics competition at NHS gym Sat Oct 24 8:30am-7pm and Sun Oct 25 8am-3:30pm (open to all); Financial Reality Fair Wed Nov 4 4-5pm at Northville Community Center (ages 13-18 only, so not for the boys yet); Children's Christmas Workshop Sat Dec 5 at Mill Race Village for grades 1-6 ($30/child, registration Fri Nov 6 6-6:30pm members / 6:30pm non-members at 218 W. Dunlap; MONEY draft-only via Chief); Parent Camp Sat Dec 5 at NHS (free); Northville Youth Lacrosse indoor winter league recruiting 6th-8th grade boys (Sunday games at High Velocity, Google Form registration); NHS Arsenic and Old Lace Nov 12-14; Santa 5K Sat Nov 21; Mini-Mustang Dash Thu Oct 29 (already on board for Dax). Informational."
-    },
-    {
-      "title": "Ms. Nugent: Charleston Wrap fundraiser closed - goal exceeded",
-      "when": "2026-10-22",
-      "kid": "both",
-      "source": "nugentto@northvilleschools.org Thu Oct 22 ~7:13am ET",
-      "note": "Hillside Band Program thank-you: fundraiser exceeded goal, raising $4,180.50 for the Hillside band program. Informational; nothing due."
-    },
-    {
-      "title": "Board refresh note - Fri Oct 23 afternoon",
-      "when": "2026-10-23",
+      "title": "Board refresh note - Mon Oct 26 morning",
+      "when": "2026-10-26",
       "source": "Homeroom",
-      "note": "Fri Oct 23 ~3:35pm ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 16 Weekly Schoology Summary remains the baseline (the next Weekly may arrive today or tonight). New school mail: two Hillside ParentSquare camp posts (buses left camp ~12:15pm; pickup at Hillside front drop-off 1:30pm today). Isaac overdue 2 (Four Conditions Review Doc, Lesson 11 Face Value) plus soft-watch Task Card Chart; Desmond overdue 1 (NewsELA Article and Quiz). Dax Moraine pickup 3:45pm. No Hillside/Moraine events tonight or Sat Oct 24 on the calendars; district Trunk or Treats tonight are at Silver Springs and Amerman, not Moraine. Calendars unchanged since this morning."
+      "note": "Mon Oct 26 ~6:50am ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG). NEW baseline: Fri Oct 23 Weekly Schoology Summary (10/16-10/23, arrived ~4:05pm ET Fri). Isaac overdue 3 (Lesson 6 Check, Reflection and Transmission Practice Quiz, Lesson 11: Mixing Paint Part 2) plus soft-watch Task Card Chart; Four Conditions Review Doc and Lesson 11 Face Value are off his Overdue list (no score shown). Desmond overdue 2 (Raymond's Run Evidence and Reasoning, Lesson 11: Mixing Paint Part 2); NewsELA now scored 8/8 and off the list. Graded/past items dropped per hygiene. Q1 grades in the Weekly: Isaac Band A, French B, Science B-, PE A-, Math C, L&L B; Desmond Band A+, French A+, Science B-, PE B, Math A-, Academic Resource B-. Also new: Hillside Highlights 10/23, Penguin's Raft 4th week, Mrs. Harris science update. Calendars unchanged."
+    },
+    {
+      "title": "ParentSquare: Hillside Highlights 10/23/26",
+      "when": "2026-10-26",
+      "end": "2026-10-30",
+      "kid": "both",
+      "source": "ParentSquare Hillside Fri Oct 23 ~4:13pm ET",
+      "url": "https://docs.google.com/document/d/1cO3ljyF3aRn1xYeOhQeILMrXKQI87U_2ds--cIURjlI/edit?usp=sharing",
+      "note": "Calendar: Mon Oct 26 boys basketball tryouts day 2 (7th/8th grade, 3:15-4:45pm), HOSA club first meeting 3:00-4:15pm, Crescent Club canceled, Rainbow Collective; Tue Oct 27 Model UN; Wed Oct 28 Drama Club; Thu Oct 29 D&D Club; Fri Oct 30 Unified Robotics, Mathcounts, end of Quarter 1, dress for Halloween (no weapons, masks, or inflatables). Unified Peer Links celebration Fri Oct 30 at lunch/recess (donations via SignUpGenius to the office by Wed Oct 28; optional). Youth work permits now through the state's online portal. Yearbook PhotoShare open; yearbook order price rises over the year (money draft-only via Chief)."
+    },
+    {
+      "title": "Moraine Penguin's Raft - 4th week of October",
+      "when": "2026-10-26",
+      "end": "2026-10-30",
+      "kid": "dax",
+      "source": "ParentSquare Penguin's Raft Sun Oct 25 ~9:04am ET",
+      "note": "Upcoming: Thu Oct 29 picture re-take day and Mini-Mustang Dash (Cass Benton, free, optional); Fri Oct 30 Halloween at Moraine (parade 9:30am); Tue Nov 3 NO SCHOOL (Teacher Professional Day); Fri Nov 13 half day, dismissal 12:15pm. This week is Glow Week. Reminders: use the arrival lane, not the North Beacon Woods cul-de-sac; phones away and crawl speed in the lot. Also: Birthday Book Club form attached, Penguin Pledge donations, I-CHAT form required each year, NEF Parent Camp Sat Dec 5 at NHS (free). Optional/money items draft-only via Chief."
+    },
+    {
+      "title": "Moraine: half day (12:15pm dismissal)",
+      "when": "2026-11-13",
+      "kid": "dax",
+      "source": "Penguin's Raft 4th week of October",
+      "note": "Fri Nov 13 half day; Moraine dismissal 12:15pm."
+    },
+    {
+      "title": "Mrs. Harris 6th grade Science update",
+      "when": "2026-10-25",
+      "kid": "isaac",
+      "source": "harrisje@northvilleschools.org Sun Oct 25 ~9:11pm ET",
+      "note": "Mon Oct 19: phenomena photo vote, workbook updates, Lesson 6 Check and Reflection and Transmission Practice Quiz done in class (both show overdue for Isaac in the Oct 23 Weekly). Tue Oct 20: Measuring Light Poster self-reflection, started Lesson 7 (claim and evidence). Wed-Fri camp. This week: poster session with peer feedback, finish the unit, Halloween science. Informational."
     }
   ],
   "events": []
