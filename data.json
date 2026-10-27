@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T15:40:00-04:00",
-  "note": "Mon Oct 26 afternoon (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 23 Weekly Schoology Summary (10/16-10/23) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
+  "updated": "2026-10-27T06:50:00-04:00",
+  "note": "Tue Oct 27 morning (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 23 Weekly Schoology Summary (10/16-10/23) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -98,7 +98,7 @@
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505187968/preview/126048205/parent?url=assignment/8573008762",
       "verified": "2026-10-23 weekly summary",
-      "note": "Due Tue Oct 27 11:59pm (Seminar 6). Listed in Fri Oct 23 Weekly with no score."
+      "note": "Due TODAY Tue Oct 27 11:59pm (Seminar 6). Listed in Fri Oct 23 Weekly with no score."
     },
     {
       "id": "desmond-lesson3-parallelograms-20260916",
@@ -169,7 +169,7 @@
       "kid": "isaac",
       "course": "ARTS-BAND 6: 5th Hour",
       "due": "2026-10-16T23:59:00-04:00",
-      "note": "Listed in Fri Oct 23 Weekly with no score; not in the Overdue list. Locks TODAY Mon Oct 26 3:15pm. Not marked missing or complete.",
+      "note": "Listed in Fri Oct 23 Weekly with no score; not in the Overdue list. Locked Mon Oct 26 3:15pm; no email says submitted or missing. Not marked missing or complete.",
       "verified": "2026-10-23 weekly summary",
       "status": "upcoming"
     },
@@ -189,7 +189,7 @@
       "kid": "isaac",
       "course": "INDIVIDUALS AND SOCIETIES 6: Tumolo IaS Hr. 4",
       "due": "2026-10-26T23:59:00-04:00",
-      "note": "Due TODAY Mon Oct 26 11:59pm (external tool) per Oct 16 and Oct 23 Weeklies. Mr. Tumolo (Oct 20, in Oct 23 Weekly): because of camp, the final Quarter 1 reassessment deadline is extended to Wed Oct 28 11:59pm; help available 7th hour Mon-Wed this week or at lunch/before school by request.",
+      "note": "Was due Mon Oct 26 11:59pm (external tool) per Oct 16 and Oct 23 Weeklies. Mr. Tumolo (Oct 20, in Oct 23 Weekly): because of camp, the final Quarter 1 reassessment deadline is extended to Wed Oct 28 11:59pm; help available 7th hour Mon-Wed this week or at lunch/before school by request. Due date passed Mon Oct 26 11:59pm; no email yet says submitted or missing.",
       "verified": "2026-10-23 weekly summary",
       "status": "upcoming"
     },
@@ -199,7 +199,7 @@
       "kid": "isaac",
       "course": "ARTS-BAND 6: 5th Hour",
       "due": "2026-10-26T23:59:00-04:00",
-      "note": "Due TODAY Mon Oct 26 11:59pm per Oct 23 Weekly (locks Nov 1). Ms. Nugent (Oct 22): add the free 15 minutes per camp day into the week 6 practice journal along with other practice days.",
+      "note": "Was due Mon Oct 26 11:59pm per Oct 23 Weekly (locks Nov 1). Ms. Nugent (Oct 22): add the free 15 minutes per camp day into the week 6 practice journal along with other practice days. Due date passed Mon Oct 26 11:59pm; no email yet says submitted or missing.",
       "verified": "2026-10-23 weekly summary",
       "status": "upcoming"
     },
@@ -229,7 +229,7 @@
       "kid": "desmond",
       "course": "INDIVIDUALS AND SOCIETIES 6: Tumolo IaS Hr. 4",
       "due": "2026-10-26T23:59:00-04:00",
-      "note": "Due TODAY Mon Oct 26 11:59pm (external tool) per Oct 16 and Oct 23 Weeklies. Mr. Tumolo (Oct 20, in Oct 23 Weekly): because of camp, the final Quarter 1 reassessment deadline is extended to Wed Oct 28 11:59pm; help available 7th hour Mon-Wed this week or at lunch/before school by request.",
+      "note": "Was due Mon Oct 26 11:59pm (external tool) per Oct 16 and Oct 23 Weeklies. Mr. Tumolo (Oct 20, in Oct 23 Weekly): because of camp, the final Quarter 1 reassessment deadline is extended to Wed Oct 28 11:59pm; help available 7th hour Mon-Wed this week or at lunch/before school by request. Due date passed Mon Oct 26 11:59pm; no email yet says submitted or missing.",
       "verified": "2026-10-23 weekly summary",
       "status": "upcoming"
     },
@@ -239,7 +239,7 @@
       "kid": "desmond",
       "course": "ARTS-BAND 6: 7th Hour",
       "due": "2026-10-26T23:59:00-04:00",
-      "note": "Due TODAY Mon Oct 26 11:59pm per Oct 23 Weekly (locks Nov 1). Ms. Nugent (Oct 22): add the free 15 minutes per camp day into the week 6 practice journal along with other practice days.",
+      "note": "Was due Mon Oct 26 11:59pm per Oct 23 Weekly (locks Nov 1). Ms. Nugent (Oct 22): add the free 15 minutes per camp day into the week 6 practice journal along with other practice days. Due date passed Mon Oct 26 11:59pm; no email yet says submitted or missing.",
       "verified": "2026-10-23 weekly summary",
       "status": "upcoming"
     },
@@ -508,10 +508,19 @@
       "note": "Mon Oct 19: phenomena photo vote, workbook updates, Lesson 6 Check and Reflection and Transmission Practice Quiz done in class (both show overdue for Isaac in the Oct 23 Weekly). Tue Oct 20: Measuring Light Poster self-reflection, started Lesson 7 (claim and evidence). Wed-Fri camp. This week: poster session with peer feedback, finish the unit, Halloween science. Informational."
     },
     {
-      "title": "Board refresh note - Mon Oct 26 afternoon",
-      "when": "2026-10-26",
+      "title": "Hillside Fall Parent-Teacher Conferences",
+      "when": "2026-11-04T15:30:00-05:00",
+      "end": "2026-11-05",
+      "kid": "both",
+      "source": "ParentSquare Hillside 'Fall Conferences' Mon Oct 26 ~4:07pm ET (Principal William R. Jones)",
+      "url": "https://www.ptcfast.com/schools/Hillside_Middle_School_1",
+      "note": "Wed Nov 4 in person at Hillside 3:30-6:00pm; Thu Nov 5 virtual via Microsoft Teams 12:30-3:00pm and 4:00-6:30pm. Five-minute slots booked through PTC Fast (pick teachers, then follow the emailed link to choose times). Sign-ups close 2 days before the first conference date (about Mon Nov 2). Optional; email teachers instead if no concerns."
+    },
+    {
+      "title": "Board refresh note - Tue Oct 27 morning",
+      "when": "2026-10-27",
       "source": "Homeroom",
-      "note": "Mon Oct 26 ~3:40pm ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 23 Weekly remains the baseline. New school mail: Mrs. McMann Halloween details for Fri Oct 30 (party door 17/34, costumes worn to school, labeled change of clothes) and the NPS agenda for Tue Oct 27 Special Call BoE meeting (Old Village School 6:30pm). Lifetouch Moraine picture make-up promo (Thu Oct 29 already on board). Isaac overdue 3 plus soft-watch Task Card Chart; Desmond overdue 2. Due tonight 11:59pm for both boys: Aral Sea Crit A&B and Practice Journal Weeks 5 & 6. Isaac's Music Theory packet locked 3:15pm today (no email says submitted or missing). Calendars unchanged since this morning."
+      "note": "Tue Oct 27 ~6:50am ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 23 Weekly remains the baseline. New school mail: Hillside ParentSquare Fall Conferences (Nov 4 in person 3:30-6pm, Nov 5 virtual; PTC Fast sign-up). Jostens yearbook promo only otherwise. Isaac overdue 3 plus soft-watch Task Card Chart; Desmond overdue 2. Aral Sea Crit A&B and Practice Journal W5/6 were due last night; no email yet on whether they were turned in. Isaac Peace Poster due tonight 11:59pm. NPS Special Call BoE tonight 6:30pm. Calendars unchanged."
     }
   ],
   "events": []
