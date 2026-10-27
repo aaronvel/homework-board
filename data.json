@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T06:50:00-04:00",
-  "note": "Tue Oct 27 morning (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 23 Weekly Schoology Summary (10/16-10/23) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
+  "updated": "2026-10-27T15:50:00-04:00",
+  "note": "Tue Oct 27 afternoon (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 23 Weekly Schoology Summary (10/16-10/23) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -512,15 +512,31 @@
       "when": "2026-11-04T15:30:00-05:00",
       "end": "2026-11-05",
       "kid": "both",
-      "source": "ParentSquare Hillside 'Fall Conferences' Mon Oct 26 ~4:07pm ET (Principal William R. Jones)",
+      "source": "ParentSquare Hillside 'Fall Conferences' Mon Oct 26 ~4:07pm ET (Principal William R. Jones); Mr. Tumolo email 'IMPORTANT: Student-Led Conferences in Social Studies NEXT Week' Tue Oct 27 ~9:54am ET",
       "url": "https://www.ptcfast.com/schools/Hillside_Middle_School_1",
-      "note": "Wed Nov 4 in person at Hillside 3:30-6:00pm; Thu Nov 5 virtual via Microsoft Teams 12:30-3:00pm and 4:00-6:30pm. Five-minute slots booked through PTC Fast (pick teachers, then follow the emailed link to choose times). Sign-ups close 2 days before the first conference date (about Mon Nov 2). Optional; email teachers instead if no concerns."
+      "note": "Wed Nov 4 in person at Hillside 3:30-6:00pm; Thu Nov 5 virtual via Microsoft Teams 12:30-3:00pm and 4:00-6:30pm. Five-minute slots booked through PTC Fast (pick teachers, then follow the emailed link to choose times). Sign-ups close 2 days before the first conference date (about Mon Nov 2). Optional; email teachers instead if no concerns. UPDATE Tue Oct 27 (Mr. Tumolo): Social Studies conferences with Mr. Tumolo and Mrs. Monk are student-led and in person only; on Thu Nov 5 they are the only teachers in person, in the Raider Corral, and all other teachers are virtual. If you sign up with them, book ONE 10-minute slot and the student is expected to attend and present. Newsletter 2 (special edition) and a PTC handout with 6th grade expectations are linked in that email. The email did not name a child; board lists both boys in Tumolo IaS."
     },
     {
-      "title": "Board refresh note - Tue Oct 27 morning",
+      "title": "Hillside OK2SAY student safety presentation",
+      "when": "2026-11-05",
+      "kid": "both",
+      "source": "ParentSquare Hillside (Kelly Moffett) Tue Oct 27 ~9:04am ET",
+      "url": "https://drive.google.com/file/d/1hjlbqoYrHD4eNDU_GRNS1tO8blWOSGw2/view?usp=sharing",
+      "note": "Presentation on OK2SAY, Michigan's student safety reporting program, for all 6th-8th graders on Thu Nov 5 (during school; no time given). Letter and Parent Guide linked in the post. Informational, no action required."
+    },
+    {
+      "title": "Mrs. Treganowan Language & Literature 6 Quarter 1 update",
+      "when": "2026-10-27",
+      "kid": "both",
+      "source": "treganja@northvilleschools.org Tue Oct 27 ~2:47pm ET",
+      "url": "https://docs.google.com/document/d/1HrztTreye0TgpqDP0zRNsbkj0PhYMmDV_MG4lmNPcpI/edit?tab=t.0",
+      "note": "Email only links a Quarter 1 update Google Doc; Homeroom could not open the doc, so its contents are not on the board. Email did not name a child. Informational."
+    },
+    {
+      "title": "Board refresh note - Tue Oct 27 afternoon",
       "when": "2026-10-27",
       "source": "Homeroom",
-      "note": "Tue Oct 27 ~6:50am ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 23 Weekly remains the baseline. New school mail: Hillside ParentSquare Fall Conferences (Nov 4 in person 3:30-6pm, Nov 5 virtual; PTC Fast sign-up). Jostens yearbook promo only otherwise. Isaac overdue 3 plus soft-watch Task Card Chart; Desmond overdue 2. Aral Sea Crit A&B and Practice Journal W5/6 were due last night; no email yet on whether they were turned in. Isaac Peace Poster due tonight 11:59pm. NPS Special Call BoE tonight 6:30pm. Calendars unchanged."
+      "note": "Tue Oct 27 ~3:50pm ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 23 Weekly remains the baseline. New school mail: Mr. Tumolo student-led Social Studies conferences (in person only, Thu Nov 5, Raider Corral, one 10-min slot, student attends); Hillside ParentSquare OK2SAY presentation for all students Thu Nov 5; Mrs. Treganowan L&L 6 Quarter 1 update (linked doc not readable). Isaac overdue 3 plus soft-watch Task Card Chart; Desmond overdue 2. Aral Sea Crit A&B and Practice Journal W5/6 still have no email status. Isaac Peace Poster due tonight 11:59pm. NPS Special Call BoE tonight 6:30pm. Nothing on school calendars Wed Oct 28. Calendars unchanged."
     }
   ],
   "events": []
