@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T15:50:00-04:00",
-  "note": "Tue Oct 27 afternoon (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 23 Weekly Schoology Summary (10/16-10/23) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
+  "updated": "2026-10-28T06:45:00-04:00",
+  "note": "Wed Oct 28 morning (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 23 Weekly Schoology Summary (10/16-10/23) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -456,12 +456,6 @@
       "note": "Fri Oct 30 ends Q1. Students may dress for Halloween that day (no weapons, masks, or inflatables). IaS reassessments due Wed Oct 28 11:59pm (Mr. Tumolo)."
     },
     {
-      "title": "NPS Special Call Meeting of the Board of Education",
-      "when": "2026-10-27T18:30:00-04:00",
-      "source": "Northville Public Schools calendar (checked Tue Oct 20 morning); ParentSquare public agenda Mon Oct 26",
-      "note": "Tue Oct 27 6:30pm at Old Village School, 405 W. Main St, Northville. Agenda: Oct 20 minutes, communications, Superintendent's update, public comments, closed session. Informational."
-    },
-    {
       "title": "Mr. Tumolo IaS (Social Studies) Newsletter Volume 1",
       "when": "2026-10-20",
       "kid": "both",
@@ -533,10 +527,10 @@
       "note": "Email only links a Quarter 1 update Google Doc; Homeroom could not open the doc, so its contents are not on the board. Email did not name a child. Informational."
     },
     {
-      "title": "Board refresh note - Tue Oct 27 afternoon",
-      "when": "2026-10-27",
+      "title": "Board refresh note - Wed Oct 28 morning",
+      "when": "2026-10-28",
       "source": "Homeroom",
-      "note": "Tue Oct 27 ~3:50pm ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 23 Weekly remains the baseline. New school mail: Mr. Tumolo student-led Social Studies conferences (in person only, Thu Nov 5, Raider Corral, one 10-min slot, student attends); Hillside ParentSquare OK2SAY presentation for all students Thu Nov 5; Mrs. Treganowan L&L 6 Quarter 1 update (linked doc not readable). Isaac overdue 3 plus soft-watch Task Card Chart; Desmond overdue 2. Aral Sea Crit A&B and Practice Journal W5/6 still have no email status. Isaac Peace Poster due tonight 11:59pm. NPS Special Call BoE tonight 6:30pm. Nothing on school calendars Wed Oct 28. Calendars unchanged."
+      "note": "Wed Oct 28 ~6:45am ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 23 Weekly remains the baseline. No new school mail since Tue afternoon. Isaac overdue 3 plus soft-watch Task Card Chart; Desmond overdue 2. Isaac Peace Poster (due Tue Oct 27), Aral Sea Crit A&B and Practice Journal W5/6 (due Oct 26) have no email status. IaS reassessments due tonight 11:59pm. Nothing on school calendars today; calendars unchanged. Dropped the Oct 27 BoE meeting (over)."
     }
   ],
   "events": []
