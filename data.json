@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T06:45:00-04:00",
-  "note": "Thu Oct 29 morning (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 23 Weekly Schoology Summary (10/16-10/23) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
+  "updated": "2026-10-29T15:40:00-04:00",
+  "note": "Thu Oct 29 afternoon (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 23 Weekly Schoology Summary (10/16-10/23) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -544,10 +544,18 @@
       "note": "Class-wide message, not about a specific child: check the Schoology gradebook for the Poster Project grade; 'Missing' means the poster, the Student Self-Reflection, or both were not turned in (extra self-reflection copies available; also in the Schoology agenda). Not eligible for reassessment. Assigned Oct 9, due Oct 26. Sent to the 2nd Hour section; no email says either boy is missing it."
     },
     {
-      "title": "Board refresh note - Thu Oct 29 morning",
+      "title": "Moraine 3rd grade Music Informance (save the date)",
+      "when": "2027-04-20",
+      "where": "Moraine Elementary",
+      "kid": "dax",
+      "source": "kolpakjo@northvilleschools.org (Mr. Kolpak) 'Music Informance Save the Date(s)!!' Thu Oct 29 ~1:18pm ET, attached flyer '2026-27 Moraine Informance STD'",
+      "note": "Save the date: 3rd grade spring music informance on April 20 (Dax's grade). Flyer also lists 1st grade April 6 and 5th grade May 4. No time or location given yet."
+    },
+    {
+      "title": "Board refresh note - Thu Oct 29 afternoon",
       "when": "2026-10-29",
       "source": "Homeroom",
-      "note": "Thu Oct 29 ~6:45am ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 23 Weekly remains the baseline. New since Wed afternoon: NPS Community FYI 10/28 (reconfirms today's Mini-Mustang Dash; Nov 18 6:30pm OverBooked parent talk on anxiety at NHS) and a reply from Hillside AP Kelly Moffett to Aaron's camp feedback. Isaac overdue 3 plus soft-watch Task Card Chart; Desmond overdue 2. Today: Moraine picture re-take, Mini-Mustang Dash, band playing test (both boys). Calendars unchanged."
+      "note": "Thu Oct 29 ~3:40pm ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 23 Weekly remains the baseline. NEW: Mr. Kolpak (Moraine music) save-the-date flyer, 3rd grade informance April 20. Only other school mail was Lifetouch Halloween discount promos (not listed). Isaac overdue 3 plus soft-watch Task Card Chart; Desmond overdue 2. Tomorrow Fri Oct 30: Moraine Halloween parade 9:30am and class party, Hillside end of Quarter 1, 10-30 Participation (both boys), Desmond Khan Academy Oct due (scored 1/1 in the Oct 16 Weekly). Calendars unchanged."
     }
   ],
   "events": []
