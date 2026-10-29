@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T15:40:00-04:00",
-  "note": "Wed Oct 28 afternoon (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 23 Weekly Schoology Summary (10/16-10/23) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
+  "updated": "2026-10-29T06:45:00-04:00",
+  "note": "Thu Oct 29 morning (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 23 Weekly Schoology Summary (10/16-10/23) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -364,10 +364,10 @@
       "title": "Northville Mini-Mustang Dash (elementary XC) Thu Oct 29",
       "when": "2026-10-29",
       "kid": "dax",
-      "source": "mailman@finalforms.com / Coach Kurt Bartel Thu Oct 15 ~7:41am ET",
+      "source": "mailman@finalforms.com / Coach Kurt Bartel Thu Oct 15 ~7:41am ET; NPS ParentSquare 10-28-26 Community FYI (Wed Oct 28 ~4:26pm ET)",
       "url": "https://docs.google.com/forms/d/e/1FAIpQLScUG-jd8qrn9m6VeMRBbxT-gEp_AMgpVFflUcn8QfnUvAeO1Q/viewform?usp=dialog",
       "where": "Cass Benton / Bennett Arboretum (Hines Drive)",
-      "note": "Optional free meet for Northville K-5 elementary students (Dax eligible). Register via Google Form or RunNXC.com. Info sheet on FinalForms. Questions: Coach J. Dalton. No fee. Draft-only via Chief if Aaron wants to register."
+      "note": "Today, Thu Oct 29. Optional free meet for Northville K-5 elementary students (Dax eligible). Register via Google Form or RunNXC.com. No fee. Questions: Coach Tim Dalton (daltonti@northvilleschools.org) or Jack Dalton. Draft-only via Chief if Aaron wants to register."
     },
     {
       "title": "FinalForms: NCAA Parent and Student Information Night (NHS)",
@@ -544,10 +544,10 @@
       "note": "Class-wide message, not about a specific child: check the Schoology gradebook for the Poster Project grade; 'Missing' means the poster, the Student Self-Reflection, or both were not turned in (extra self-reflection copies available; also in the Schoology agenda). Not eligible for reassessment. Assigned Oct 9, due Oct 26. Sent to the 2nd Hour section; no email says either boy is missing it."
     },
     {
-      "title": "Board refresh note - Wed Oct 28 afternoon",
-      "when": "2026-10-28",
+      "title": "Board refresh note - Thu Oct 29 morning",
+      "when": "2026-10-29",
       "source": "Homeroom",
-      "note": "Wed Oct 28 ~3:40pm ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 23 Weekly remains the baseline. NEW: Mrs. McMann 3rd grade conference info and Dax's Nov 18 5:20pm slot; Mrs. Harris Poster Project grades message; Lifetouch confirms Moraine picture make-up day Thu Oct 29; a ClassDojo post from Mrs. McMann (content not in the email). Isaac overdue 3 plus soft-watch Task Card Chart; Desmond overdue 2. Tomorrow: Moraine picture re-take, Mini-Mustang Dash, band playing test (both boys). Calendars unchanged."
+      "note": "Thu Oct 29 ~6:45am ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 23 Weekly remains the baseline. New since Wed afternoon: NPS Community FYI 10/28 (reconfirms today's Mini-Mustang Dash; Nov 18 6:30pm OverBooked parent talk on anxiety at NHS) and a reply from Hillside AP Kelly Moffett to Aaron's camp feedback. Isaac overdue 3 plus soft-watch Task Card Chart; Desmond overdue 2. Today: Moraine picture re-take, Mini-Mustang Dash, band playing test (both boys). Calendars unchanged."
     }
   ],
   "events": []
