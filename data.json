@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T06:45:00-04:00",
-  "note": "Fri Oct 30 morning (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 23 Weekly Schoology Summary (10/16-10/23) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
+  "updated": "2026-10-30T15:40:00-04:00",
+  "note": "Fri Oct 30 afternoon (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails for Isaac/Desmond. Fri Oct 23 Weekly Schoology Summary (10/16-10/23) is the latest email-reported assignment source; items marked 'last verified Sep 16' are held pre-switch statuses. Board also uses FinalForms, ParentSquare, teacher and district emails, and public calendars. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -405,14 +405,6 @@
       "source": "Aaron"
     },
     {
-      "title": "Moraine Halloween parade",
-      "when": "2026-10-30T09:30:00-04:00",
-      "where": "Moraine / North Beacon Woods",
-      "kid": "dax",
-      "source": "ParentSquare Penguin's Raft Sun Oct 4; Penguin's Raft 4th week of October (Sun Oct 25); Mrs. McMann 'Halloween Information' email Mon Oct 26",
-      "note": "Fri Oct 30, parade 9:30am (weather permitting). Class party immediately after, about an hour. Because of construction, parents enter door 17 (back playground) or door 34 (bus loop) for the party, NOT the main office door; office staff sign people in there. Kids wear costumes to school (no time to change before the parade); send a labeled change of clothes, they change after the party. Costume rules (Penguin's Raft): weather appropriate for recess, no fake weapons/blood, nothing scary, makeup/hairspray at home."
-    },
-    {
       "title": "Moraine: Fall 2026 i-Ready Inform results (Dax)",
       "kid": "dax",
       "source": "ireadyreports@northvilleschools.org Tue Oct 6 ~12:20pm ET",
@@ -535,10 +527,18 @@
       "note": "Save the date: 3rd grade spring music informance on April 20 (Dax's grade). Flyer also lists 1st grade April 6 and 5th grade May 4. No time or location given yet."
     },
     {
-      "title": "Board refresh note - Fri Oct 30 morning",
+      "title": "ParentSquare: Hillside Unified Raiders merch sale",
+      "when": "2026-11-17",
+      "kid": "both",
+      "source": "Hillside Middle School ParentSquare 'Unified Merch Sale Now Open' Fri Oct 30 ~8:40am ET",
+      "url": "https://www.customink.com/fundraising/unified-raiders-fundraiser-26-27",
+      "note": "Optional fundraiser for Unified Raiders and Peer Links (t-shirts, sweatshirts). Orders close Nov 17. Put the student's first and last name in the order comment; free bulk delivery to Hillside via school mail, or paid home shipping. MONEY: draft-only via Chief."
+    },
+    {
+      "title": "Board refresh note - Fri Oct 30 afternoon",
       "when": "2026-10-30",
       "source": "Homeroom",
-      "note": "Fri Oct 30 ~6:45am ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 23 Weekly remains the baseline. No new school mail since Thu afternoon (only Lifetouch Halloween promos, not listed). Dropped Thu's Mini-Mustang Dash and Moraine picture re-take (past). Isaac overdue 3 plus soft-watch Task Card Chart; Desmond overdue 2. Today: Moraine Halloween parade 9:30am and class party about an hour later (costumes worn to school, labeled change of clothes), Hillside end of Quarter 1, 10-30 Participation (both boys). Calendars unchanged."
+      "note": "Fri Oct 30 ~3:40pm ET (email/calendars only). Still NO daily Schoology Email Summary or per-item Overdue Submissions emails (FLAG); Fri Oct 23 Weekly remains the baseline. New school mail: Hillside ParentSquare Unified merch sale (orders close Nov 17, added) and an NHS Athletics ParentSquare note that the Northville vs. Woodhaven MHSAA football playoff game is digital GoFan tickets only (high school, FYI, not listed). Dropped this morning's Moraine Halloween parade (over). Isaac overdue 3 plus soft-watch Task Card Chart; Desmond overdue 2. Tonight: 10-30 Participation and Desmond's Khan Academy (marked completed) due 11:59pm; Hillside Quarter 1 ends today. Saturday Oct 31: nothing on the school calendars. Calendars unchanged."
     }
   ],
   "events": []
