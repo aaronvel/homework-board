@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T06:50:00-05:00",
-  "note": "Mon Nov 2 morning. Built from the daily Schoology Email Summary (first one arrived Mon Nov 2 for Isaac, Desmond, and Dax) and the Fri Oct 30 Weekly Summary, plus FinalForms, ParentSquare, teacher and district emails, and public calendars. The emails do not list every upcoming assignment, so only what they report is shown. No browser portal pulls.",
+  "updated": "2026-11-02T15:45:00-05:00",
+  "note": "Mon Nov 2 afternoon. Built from the daily Schoology Email Summary (first one arrived Mon Nov 2 for Isaac, Desmond, and Dax) and the Fri Oct 30 Weekly Summary, plus FinalForms, ParentSquare, teacher and district emails, and public calendars. The emails do not list every upcoming assignment, so only what they report is shown. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -346,8 +346,8 @@
       "title": "Tue Nov 3: Teacher Professional Day - NO SCHOOL (all three kids)",
       "when": "2026-11-03",
       "kid": "all",
-      "source": "Hillside, Moraine, and NPS district calendars; Penguin's Raft Nov 1; Hillside Highlights 10/30/26",
-      "note": "No school Tuesday Nov 3 for Moraine (Dax) and Hillside (Isaac and Desmond). Confirmed on all three school calendars and both newsletters."
+      "source": "Hillside, Moraine, and NPS district calendars; Penguin's Raft Nov 1; Hillside Highlights 10/30/26; NPS ParentSquare reminder Mon Nov 2 ~10:49am ET",
+      "note": "No school Tuesday Nov 3 for Moraine (Dax) and Hillside (Isaac and Desmond). Confirmed on all three school calendars and both newsletters. NPS reminder (Mon Nov 2): no school for students Tue Nov 3 due to Election Day and staff professional development; classes resume on the normal schedule Wed Nov 4."
     },
     {
       "title": "Moraine: half day (12:15pm dismissal)",
@@ -472,10 +472,18 @@
       "note": "This past week: poster session with peer feedback, claim and evidence practice, Lesson 7 Check plus a conference reflection and expectations review (Thu), Halloween science demos (Fri). Next week: light absorption. Informational; no child named."
     },
     {
-      "title": "Board refresh note - Mon Nov 2 morning",
+      "title": "Moraine: Fall Outreach Drive for Oakland County Foster Closet",
+      "when": "2026-11-02",
+      "end": "2026-11-13",
+      "kid": "dax",
+      "source": "Moraine Elementary ParentSquare Mon Nov 2 ~11:18am ET (Moraine Outreach Committee)",
+      "note": "Donation drive runs this week through Fri Nov 13. Items of greatest need are listed in the Penguin's Raft and the flyer sent home last week. Optional."
+    },
+    {
+      "title": "Board refresh note - Mon Nov 2 afternoon",
       "when": "2026-11-02",
       "source": "Homeroom",
-      "note": "Mon Nov 2 ~6:50am ET. FIRST board built from the daily Schoology Email Summary (Nov 2, covering Isaac, Desmond, and Dax) plus the Oct 30 Weekly. All 'last verified Sep 16' held items are gone, along with older past-due items no email currently reports. Overdue now: Isaac none; Desmond 1 (Lesson 14 - Counting Classrooms). Q1 course grades (Oct 30 Weekly): Isaac Band A, French B, Science C-, PE A-, Math C, Language & Literature B. Desmond Band A+, French B, Science B-, PE A-, Math A-, Academic Resource B-. Tue Nov 3 no school at Hillside and Moraine."
+      "note": "Mon Nov 2 ~3:45pm ET (email/calendars only). No new Schoology email since this morning's Daily Summary (next one expected tomorrow morning). New school mail: NPS reminder that there is no school Tue Nov 3 (Election Day and staff PD; back Wed Nov 4), and Moraine's Foster Closet donation drive (through Nov 13, added). Lifetouch picture-order promos for all three kids ignored (money, nothing due). Overdue: Isaac none; Desmond 1 (Lesson 14 - Counting Classrooms). Tonight 11:59pm: Desmond's Storytelling Speech and The Science of Light and Color. Calendars unchanged; no Hillside athletics events listed."
     }
   ],
   "events": []
