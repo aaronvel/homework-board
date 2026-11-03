@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T06:50:00-05:00",
-  "note": "Tue Nov 3 morning. Built from the daily Schoology Email Summary (first one arrived Mon Nov 2 for Isaac, Desmond, and Dax) and the Fri Oct 30 Weekly Summary, plus FinalForms, ParentSquare, teacher and district emails, and public calendars. The emails do not list every upcoming assignment, so only what they report is shown. No browser portal pulls.",
+  "updated": "2026-11-03T15:40:00-05:00",
+  "note": "Tue Nov 3 afternoon. Built from the daily Schoology Email Summary (first one arrived Mon Nov 2 for Isaac, Desmond, and Dax) and the Fri Oct 30 Weekly Summary, plus FinalForms, ParentSquare, teacher and district emails, and public calendars. The emails do not list every upcoming assignment, so only what they report is shown. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -577,10 +577,10 @@
       "note": "Donation drive runs this week through Fri Nov 13. Items of greatest need are listed in the Penguin's Raft and the flyer sent home last week. Optional."
     },
     {
-      "title": "Board refresh note - Tue Nov 3 morning",
+      "title": "Board refresh note - Tue Nov 3 afternoon",
       "when": "2026-11-03",
       "source": "Homeroom",
-      "note": "Tue Nov 3 ~6:50am ET (email/calendars only). Built from the Nov 3 Daily Schoology Summary (6:00am ET; Isaac, Desmond, Dax-empty). Overdue lists: Isaac none; Desmond none, but Lesson 14 - Counting Classrooms now shows 0/1 and stays flagged. Due tonight 11:59pm for both boys: U.0.Crit A IB Portfolio (Student-Led). Added upcoming items the summary lists (Desmond's French mastery checks Nov 5 and Nov 9, Nov 24 Khan and Vocab, both boys' Practice Journal Week 1 by Nov 29). New scores: Isaac Measuring Light Poster 4/8 and IB Portfolio now 5/8; Desmond Reflection and Transmission Assessment A 7/8. No school today for all three kids. Only other new school mail was a Jostens yearbook payment promo (money, not listed). Calendars unchanged."
+      "note": "Tue Nov 3 ~3:40pm ET (email/calendars only). No new Schoology email since the 6:00am ET Nov 3 Daily Summary, so no assignment changes. Overdue lists (per that summary): Isaac none; Desmond none, but Lesson 14 - Counting Classrooms shows 0/1 and stays flagged. Due tonight 11:59pm for both boys: U.0.Crit A IB Portfolio (Student-Led). Tomorrow Wed Nov 4: school resumes; Hillside in-person conferences 3:30-6:00pm; Desmond's Science reassessment event. Only new school mail was the NPS Athletics monthly newsletter via FinalForms (general link, not listed). Calendars unchanged."
     }
   ],
   "events": []
