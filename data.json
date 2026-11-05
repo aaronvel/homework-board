@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T06:50:00-05:00",
-  "note": "Thu Nov 5 morning. Built from the daily Schoology Email Summary (first one arrived Mon Nov 2 for Isaac, Desmond, and Dax) and the Fri Oct 30 Weekly Summary, plus FinalForms, ParentSquare, teacher and district emails, and public calendars. The emails do not list every upcoming assignment, so only what they report is shown. No browser portal pulls.",
+  "updated": "2026-11-05T15:37:00-05:00",
+  "note": "Thu Nov 5 afternoon. Built from the daily Schoology Email Summary (first one arrived Mon Nov 2 for Isaac, Desmond, and Dax) and the Fri Oct 30 Weekly Summary, plus FinalForms, ParentSquare, teacher and district emails, and public calendars. No new Schoology, FinalForms, ParentSquare, or teacher emails since the morning watch. The emails do not list every upcoming assignment, so only what they report is shown. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -220,8 +220,8 @@
       "due": "2026-11-05",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505187256/preview/126048204/parent?url=assignment/8617705454",
-      "verified": "2026-11-05 daily summary",
-      "note": "Today, Thu Nov 5 (half day), per the Nov 3 and Nov 5 Daily Schoology Summary; no time given."
+      "verified": "2026-11-05 afternoon watch (no new email)",
+      "note": "Was due today, Thu Nov 5 (half day), per the Nov 3 and Nov 5 Daily Schoology Summary; no time given. No afternoon Schoology email since morning to confirm a score or overdue status."
     },
     {
       "id": "desmond-french-eg-reading-20261109",
@@ -523,10 +523,10 @@
       "note": "Schoology event 'Day 3: Last day to work on slides in class' on Fri Nov 6 in Isaac's French class. No due date for the slides given."
     },
     {
-      "title": "Board refresh note - Thu Nov 5 morning",
+      "title": "Board refresh note - Thu Nov 5 afternoon",
       "when": "2026-11-05",
       "source": "Homeroom",
-      "note": "Thu Nov 5 ~6:50am ET (email/calendars only). Built from the Nov 5 Daily Schoology Summary (6:00am ET; Isaac, Desmond, Dax-empty). Overdue lists: Isaac none; Desmond none, but Lesson 14 - Counting Classrooms (0/1) stays flagged. New scores: Desmond Exploring Waves Lesson Check 3/3; Isaac Reflection and Transmission Assessment 5.82/8, French capitals 1/1, Unit 2 Practice 1/1. Today: Hillside half day with 11:35am dismissal (now on the calendars), virtual conferences, OK2SAY presentation, Desmond's French listening check. Completed items from Oct 30 dropped after ~5 days. Other new mail: NPS Community FYI (not listed)."
+      "note": "Thu Nov 5 ~3:37pm ET (email/calendars only). No new Schoology Email Summary or Overdue Submissions since the morning Daily Summary (6:00am ET). No FinalForms, ParentSquare, or teacher emails about the kids since morning. Overdue unchanged: Isaac 0; Desmond overdue list empty, Lesson 14 Counting Classrooms still flagged (0/1). Dax: no Schoology. Tonight: Hillside virtual conferences continue 4:00-6:30pm; NCAA Parent Night at NHS Forum 6pm (informational). Tomorrow Fri Nov 6: regular school; camp medication pickup deadline at Hillside office; Isaac French slides last day in class. Calendars unchanged (Hillside/district still show today's half day 11:35am dismissal, already done). Lifetouch holiday sale emails (Isaac/Desmond/Dax) noted draft-only. Athletic calendars: no 6th-grade events tonight/tomorrow."
     }
   ],
   "events": []
