@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T06:45:00-05:00",
-  "note": "Fri Nov 6 morning. Built from the Nov 6 Daily Schoology Email Summary (Isaac, Desmond, Dax-empty) plus FinalForms, ParentSquare, teacher and district emails, and public calendars. No Overdue Submissions emails; no FinalForms, ParentSquare, or teacher emails about the kids since the Thu afternoon watch (only a Jostens yearbook promo, money draft-only via Chief). The emails do not list every upcoming assignment, so only what they report is shown. No browser portal pulls.",
+  "updated": "2026-11-06T15:45:00-05:00",
+  "note": "Fri Nov 6 afternoon. No new Schoology email since the morning Daily Summary (Isaac, Desmond, Dax-empty). No Overdue Submissions. One new ParentSquare from Hillside ~1:27pm ET: Unified Spirit Wear on Sale Now (same Unified Raiders merch sale already on the board; CustomInk orders close Nov 17; money draft-only via Chief). Also Lifetouch 30% OFF promo and NEF Parent Camp Dec 5 promo (money draft-only via Chief). Isaac overdue 0; Desmond overdue list empty, Lesson 14 still flagged (0/1). Calendars unchanged: tonight and Sat Nov 7 have no kid-relevant Hillside/Moraine/NPS/athletics events (7th/8th boys basketball next Mon Nov 9). Today was regular school; camp medication pickup deadline at Hillside office; Isaac French slides last day in class; elementary End of Card Marking 1. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -388,9 +388,9 @@
       "title": "ParentSquare: Hillside Unified Raiders merch sale",
       "when": "2026-11-17",
       "kid": "both",
-      "source": "Hillside Middle School ParentSquare 'Unified Merch Sale Now Open' Fri Oct 30 ~8:40am ET",
+      "source": "Hillside Middle School ParentSquare 'Unified Merch Sale Now Open' Fri Oct 30 ~8:40am ET; reminder ParentSquare 'Unified Spirit Wear on Sale Now' Fri Nov 6 ~1:27pm ET",
       "url": "https://www.customink.com/fundraising/unified-raiders-fundraiser-26-27",
-      "note": "Optional fundraiser for Unified Raiders and Peer Links (t-shirts, sweatshirts). Orders close Nov 17. Put the student's first and last name in the order comment; free bulk delivery to Hillside via school mail, or paid home shipping. MONEY: draft-only via Chief."
+      "note": "Optional fundraiser for Unified Raiders and Peer Links (t-shirts, sweatshirts). Orders close Nov 17. Put the student's first and last name in the order comment; free bulk delivery to Hillside via school mail, or paid home shipping. Fri Nov 6 ParentSquare reminder (feed https://www.parentsquare.com/feeds/95911545). MONEY: draft-only via Chief."
     },
     {
       "title": "Moraine Penguin's Raft - 1st week of November",
@@ -398,7 +398,7 @@
       "end": "2026-11-06",
       "kid": "dax",
       "source": "ParentSquare Penguin's Raft Sun Nov 1 ~9:04am ET (Mr. Reimann)",
-      "note": "Week of Nov 2–6 (ends today). Fri Nov 13 half day, 12:15pm dismissal. Mon–Fri Nov 16–20 Scholastic Book Fair (family shopping Wed Nov 18 4:00–6:45pm and Thu Nov 19 1:00–6:45pm; eWallet optional; volunteers via SignUpGenius). Wed–Fri Nov 18–20 Parent-Teacher Conferences. Thu Nov 19 and Fri Nov 20 HALF DAYS, 12:15pm dismissal. Also: Page Turners book club (grades 2–5), PTA student grants, NEF Parent Camp Sat Dec 5 at NHS, OverBooked anxiety talk Nov 18 6:30pm at NHS, I-CHAT form, arrival lane reminder. Optional/money items draft-only via Chief."
+      "note": "Week of Nov 2–6 (ended today). Fri Nov 13 half day, 12:15pm dismissal. Mon–Fri Nov 16–20 Scholastic Book Fair (family shopping Wed Nov 18 4:00–6:45pm and Thu Nov 19 1:00–6:45pm; eWallet optional; volunteers via SignUpGenius). Wed–Fri Nov 18–20 Parent-Teacher Conferences. Thu Nov 19 and Fri Nov 20 HALF DAYS, 12:15pm dismissal. Also: Page Turners book club (grades 2–5), PTA student grants, NEF Parent Camp Sat Dec 5 at NHS, OverBooked anxiety talk Nov 18 6:30pm at NHS, I-CHAT form, arrival lane reminder. Optional/money items draft-only via Chief."
     },
     {
       "title": "Moraine: Scholastic Book Fair",
@@ -455,7 +455,7 @@
       "when": "2026-11-06",
       "kid": "both",
       "source": "weaverla@northvilleschools.org (Laura Weaver) '6th Grade Camp Medication' Wed Nov 4 ~1:23pm ET",
-      "note": "DEADLINE TODAY Fri Nov 6. Only applies if medication was provided for camp. Parents must pick it up at the Hillside office by Friday; students may not pick it up, and anything left after Friday will be disposed of. Email did not name a child, and no email shows whether medication was sent for either boy."
+      "note": "DEADLINE WAS TODAY Fri Nov 6. Only applies if medication was provided for camp. Parents must pick it up at the Hillside office by Friday; students may not pick it up, and anything left after Friday will be disposed of. Email did not name a child, and no email shows whether medication was sent for either boy."
     },
     {
       "title": "Isaac: French slides, last day in class (Fri Nov 6)",
@@ -475,10 +475,10 @@
       "note": "Fri Nov 6 is End of Card Marking 1 for elementary schools per the district calendar. Regular school day; Moraine pickup still 3:45pm. Informational for Dax."
     },
     {
-      "title": "Board refresh note - Fri Nov 6 morning",
+      "title": "Board refresh note - Fri Nov 6 afternoon",
       "when": "2026-11-06",
       "source": "Homeroom",
-      "note": "Fri Nov 6 ~6:45am ET (email/calendars only). Nov 6 Daily Schoology Summary arrived (Isaac, Desmond, Dax-empty). No Overdue Submissions emails. Isaac overdue 0; new score Character Notes- 11/5 2/2 (Lang & Lit). Desmond overdue list empty; Lesson 14 Counting Classrooms still flagged (0/1). Dropped ~5-day completed Band Practice Journals (Weeks 5–6 and Week 7) and past Nov 5 items (half day, conferences, OK2SAY, NCAA Parent Night). Today: regular school; Hillside pickup 3:03pm, Moraine 3:45pm; camp medication pickup deadline at Hillside office; Isaac French slides last day in class; elementary End of Card Marking 1. Week ahead: Desmond French Reading Mastery Check Mon Nov 9; Moraine half day Fri Nov 13 (12:15pm); Book Fair Nov 16–20; Dax conference Wed Nov 18 5:15–5:30pm; Moraine half days Nov 19–20. Calendars unchanged for today. Athletics: 7th/8th boys basketball only (no 6th-grade events). Jostens yearbook promo in inbox — money draft-only via Chief."
+      "note": "Fri Nov 6 ~3:45pm ET (email/calendars only). No new Schoology email since the morning Daily Summary. No Overdue Submissions. New: Hillside ParentSquare Unified Spirit Wear reminder (~1:27pm ET; same merch sale closing Nov 17). Isaac overdue 0; Desmond overdue list empty; Lesson 14 Counting Classrooms still flagged (0/1). Tonight/Sat Nov 7: no kid-relevant calendar events. Today: regular school (pickup done); camp medication pickup deadline; Isaac French slides last day; elementary End of Card Marking 1. Week ahead: Desmond French Reading Mastery Check Mon Nov 9; Moraine half day Fri Nov 13 (12:15pm); Book Fair Nov 16–20; Dax conference Wed Nov 18 5:15–5:30pm; Moraine half days Nov 19–20. Athletics: 7th/8th boys basketball only (next Mon Nov 9). Lifetouch/Parent Camp promos — money draft-only via Chief. Calendars unchanged."
     }
   ],
   "events": []
