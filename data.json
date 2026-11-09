@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T15:45:00-05:00",
-  "note": "Fri Nov 6 afternoon. No new Schoology email since the morning Daily Summary (Isaac, Desmond, Dax-empty). No Overdue Submissions. One new ParentSquare from Hillside ~1:27pm ET: Unified Spirit Wear on Sale Now (same Unified Raiders merch sale already on the board; CustomInk orders close Nov 17; money draft-only via Chief). Also Lifetouch 30% OFF promo and NEF Parent Camp Dec 5 promo (money draft-only via Chief). Isaac overdue 0; Desmond overdue list empty, Lesson 14 still flagged (0/1). Calendars unchanged: tonight and Sat Nov 7 have no kid-relevant Hillside/Moraine/NPS/athletics events (7th/8th boys basketball next Mon Nov 9). Today was regular school; camp medication pickup deadline at Hillside office; Isaac French slides last day in class; elementary End of Card Marking 1. No browser portal pulls.",
+  "updated": "2026-11-09T06:48:44-05:00",
+  "note": "Mon Nov 9 morning. Built from the Nov 9 Daily Schoology Summary (Isaac, Desmond, Dax-empty), the Moraine Penguin's Raft (Sun Nov 8), plus FinalForms, ParentSquare, teacher and district emails, and public calendars. No Overdue Submissions emails. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -32,20 +32,9 @@
       "kid": "isaac",
       "course": "INDIVIDUALS AND SOCIETIES 6: Tumolo IaS Hr. 4",
       "due": "2026-10-26T23:59:00-04:00",
-      "note": "Was due Mon Oct 26 11:59pm. Listed in the Fri Oct 30 Weekly with no score; not in Isaac's Overdue list. Still not in the Overdue list in the Nov 6 Daily Schoology Summary. Not marked missing or complete.",
-      "verified": "2026-11-06 daily summary",
+      "note": "Was due Mon Oct 26 11:59pm. Listed in the Fri Oct 30 Weekly with no score; not in Isaac's Overdue list. Still not in the Overdue list in the Nov 9 Daily Schoology Summary. Not marked missing or complete.",
+      "verified": "2026-11-09 daily summary",
       "status": "upcoming"
-    },
-    {
-      "id": "isaac-measuring-light-poster-20261020",
-      "title": "Measuring Light Poster Project",
-      "kid": "isaac",
-      "course": "SCIENCES 6",
-      "due": "2026-10-20",
-      "note": "Scored 4/8 per the Nov 3 Daily Schoology Summary (graded since the Oct 30 Weekly). Mrs. Harris: not eligible for reassessment. Stays ~5 days.",
-      "verified": "2026-11-03 daily summary",
-      "status": "completed",
-      "completedAt": "2026-11-02"
     },
     {
       "id": "desmond-aral-crit-ab-20261026",
@@ -53,8 +42,8 @@
       "kid": "desmond",
       "course": "INDIVIDUALS AND SOCIETIES 6: Tumolo IaS Hr. 4",
       "due": "2026-10-26T23:59:00-04:00",
-      "note": "Was due Mon Oct 26 11:59pm. Listed in the Fri Oct 30 Weekly with no score; not in Desmond's Overdue list. Still not in the Overdue list in the Nov 6 Daily Schoology Summary. Not marked missing or complete.",
-      "verified": "2026-11-06 daily summary",
+      "note": "Was due Mon Oct 26 11:59pm. Listed in the Fri Oct 30 Weekly with no score; not in Desmond's Overdue list. Still not in the Overdue list in the Nov 9 Daily Schoology Summary. Not marked missing or complete.",
+      "verified": "2026-11-09 daily summary",
       "status": "upcoming"
     },
     {
@@ -64,21 +53,9 @@
       "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
       "due": "2026-11-02T23:59:00-05:00",
       "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8614690814",
-      "note": "Was due Mon Nov 2 11:59pm. Still not in Desmond's Overdue list in the Nov 6 Daily Schoology Summary and no score shown. Not marked missing or complete.",
-      "verified": "2026-11-06 daily summary",
+      "note": "Was due Mon Nov 2 11:59pm. Still not in Desmond's Overdue list in the Nov 9 Daily Schoology Summary and no score shown. Not marked missing or complete.",
+      "verified": "2026-11-09 daily summary",
       "status": "upcoming"
-    },
-    {
-      "id": "isaac-ib-portfolio-crit-a-20261006",
-      "title": "U.1.1.EoL.Crit.A - Ownership of Learning IB Portfolio",
-      "kid": "isaac",
-      "course": "INDIVIDUALS AND SOCIETIES 6: Tumolo IaS Hr. 4",
-      "due": "2026-10-06",
-      "status": "completed",
-      "completedAt": "2026-11-02",
-      "url": "https://app.schoology.com/course/8505187168/preview/126048205/parent?url=assignment/8587347353",
-      "verified": "2026-11-03 daily summary",
-      "note": "Now scored 5/8 per the Nov 3 Daily Schoology Summary (was 2/8 in the Oct 30 Weekly). Mr. Tumolo posted Nov 2 that he has graded all known reassessments. Stays ~5 days."
     },
     {
       "id": "desmond-lesson14-counting-classrooms-20261030",
@@ -88,8 +65,8 @@
       "due": "2026-10-30T09:00:00-04:00",
       "status": "missing",
       "url": "https://app.schoology.com/course/8505185403/preview/126048204/parent?url=assignment/8603881509",
-      "verified": "2026-11-06 daily summary",
-      "note": "Was OVERDUE in the Nov 2 Daily and Oct 30 Weekly (due Fri Oct 30 9:00am). The Nov 3 Daily showed it graded 0/1; the Nov 4–Nov 6 Daily Schoology Summaries do not list it as overdue and show no new score, so it stays flagged here. (Isaac has 1/1 on the same lesson.)"
+      "verified": "2026-11-09 daily summary",
+      "note": "Was OVERDUE in the Nov 2 Daily and Oct 30 Weekly (due Fri Oct 30 9:00am). The Nov 3 Daily showed it graded 0/1; the Nov 4–Nov 9 Daily Schoology Summaries do not list it as overdue and show no new score, so it stays flagged here. (Isaac has 1/1 on the same lesson.)"
     },
     {
       "id": "desmond-science-light-color-20261102",
@@ -98,8 +75,8 @@
       "course": "SCIENCES 6: 2nd Hour",
       "due": "2026-11-02T23:59:00-05:00",
       "status": "upcoming",
-      "verified": "2026-11-06 daily summary",
-      "note": "Was due Mon Nov 2 11:59pm. Still not in Desmond's Overdue list in the Nov 6 Daily Schoology Summary and no score shown. Not marked missing or complete."
+      "verified": "2026-11-09 daily summary",
+      "note": "Was due Mon Nov 2 11:59pm. Still not in Desmond's Overdue list in the Nov 9 Daily Schoology Summary and no score shown. Not marked missing or complete."
     },
     {
       "id": "isaac-ib-portfolio-student-led-20261103",
@@ -108,19 +85,8 @@
       "course": "INDIVIDUALS AND SOCIETIES 6: Tumolo IaS Hr. 4",
       "due": "2026-11-03T23:59:00-05:00",
       "status": "upcoming",
-      "verified": "2026-11-06 daily summary",
-      "note": "External tool, was due Tue Nov 3 11:59pm. Not in the Overdue list in the Nov 6 Daily Schoology Summary and no score shown yet. Not marked missing or complete."
-    },
-    {
-      "id": "isaac-google-earth-link-20261102",
-      "title": "U.1. - Google Earth LINK",
-      "kid": "isaac",
-      "course": "INDIVIDUALS AND SOCIETIES 6: Tumolo IaS Hr. 4",
-      "status": "completed",
-      "completedAt": "2026-11-02",
-      "url": "https://app.schoology.com/assignment/8632525752",
-      "verified": "2026-11-03 daily summary",
-      "note": "Isaac submitted it Mon Nov 2 ~11:47am per the Nov 3 Daily Schoology Summary."
+      "verified": "2026-11-09 daily summary",
+      "note": "External tool, was due Tue Nov 3 11:59pm. Not in the Overdue list in the Nov 9 Daily Schoology Summary and no score shown yet. Not marked missing or complete."
     },
     {
       "id": "isaac-practice-journal-w1-20261129",
@@ -130,8 +96,8 @@
       "due": "2026-11-29T23:59:00-05:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048205/parent?url=assignment/8620563752",
-      "verified": "2026-11-06 daily summary",
-      "note": "Listed as upcoming in the Nov 6 Daily Schoology Summary."
+      "verified": "2026-11-09 daily summary",
+      "note": "Listed as upcoming in the Nov 9 Daily Schoology Summary."
     },
     {
       "id": "desmond-ib-portfolio-student-led-20261103",
@@ -140,19 +106,8 @@
       "course": "INDIVIDUALS AND SOCIETIES 6: Tumolo IaS Hr. 4",
       "due": "2026-11-03T23:59:00-05:00",
       "status": "upcoming",
-      "verified": "2026-11-06 daily summary",
-      "note": "External tool, was due Tue Nov 3 11:59pm. Not in the Overdue list in the Nov 6 Daily Schoology Summary and no score shown yet. Not marked missing or complete."
-    },
-    {
-      "id": "desmond-google-earth-link-20261102",
-      "title": "U.1. - Google Earth LINK",
-      "kid": "desmond",
-      "course": "INDIVIDUALS AND SOCIETIES 6: Tumolo IaS Hr. 4",
-      "status": "completed",
-      "completedAt": "2026-11-02",
-      "url": "https://app.schoology.com/assignment/8632525752",
-      "verified": "2026-11-03 daily summary",
-      "note": "Desmond submitted it Mon Nov 2 ~11:49am per the Nov 3 Daily Schoology Summary."
+      "verified": "2026-11-09 daily summary",
+      "note": "External tool, was due Tue Nov 3 11:59pm. Not in the Overdue list in the Nov 9 Daily Schoology Summary and no score shown yet. Not marked missing or complete."
     },
     {
       "id": "desmond-practice-journal-w1-20261129",
@@ -162,20 +117,8 @@
       "due": "2026-11-29T23:59:00-05:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048204/parent?url=assignment/8620563752",
-      "verified": "2026-11-06 daily summary",
-      "note": "Listed as upcoming in the Nov 6 Daily Schoology Summary."
-    },
-    {
-      "id": "desmond-q2-goal-q1-reflection-20261102",
-      "title": "Quarter 2 Goal / Qtr 1 Reflection (11/2) ----- Practice It, Evidence of Learning",
-      "kid": "desmond",
-      "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
-      "due": "2026-11-02T23:59:00-05:00",
-      "status": "completed",
-      "completedAt": "2026-11-02",
-      "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514862207",
-      "verified": "2026-11-03 daily summary",
-      "note": "Scored 1/1 per the Nov 3 Daily Schoology Summary."
+      "verified": "2026-11-09 daily summary",
+      "note": "Listed as upcoming in the Nov 9 Daily Schoology Summary."
     },
     {
       "id": "desmond-french-ef-listening-20261105",
@@ -185,8 +128,8 @@
       "due": "2026-11-05",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505187256/preview/126048204/parent?url=assignment/8617705454",
-      "verified": "2026-11-06 daily summary",
-      "note": "Was due Thu Nov 5 (half day) per earlier Daily Summaries; no time given. Still not in Desmond's Overdue list in the Nov 6 Daily Schoology Summary and no score shown. Not marked missing or complete."
+      "verified": "2026-11-09 daily summary",
+      "note": "Was due Thu Nov 5 (half day) per earlier Daily Summaries; no time given. Still not in Desmond's Overdue list in the Nov 9 Daily Schoology Summary and no score shown. Not marked missing or complete."
     },
     {
       "id": "desmond-french-eg-reading-20261109",
@@ -196,8 +139,8 @@
       "due": "2026-11-09",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505187256/preview/126048204/parent?url=assignment/8617706216",
-      "verified": "2026-11-06 daily summary",
-      "note": "Mon Nov 9 per the Nov 6 Daily Schoology Summary; no time given."
+      "verified": "2026-11-09 daily summary",
+      "note": "Due Mon Nov 9 (today) per the Nov 9 Daily Schoology Summary; no time given."
     },
     {
       "id": "desmond-khan-1124",
@@ -207,8 +150,8 @@
       "due": "2026-11-24T23:59:00-05:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514862097",
-      "verified": "2026-11-06 daily summary",
-      "note": "Listed as upcoming in the Nov 6 Daily Schoology Summary."
+      "verified": "2026-11-09 daily summary",
+      "note": "Listed as upcoming in the Nov 9 Daily Schoology Summary."
     },
     {
       "id": "desmond-vocab-re-1124",
@@ -218,8 +161,8 @@
       "due": "2026-11-24T23:59:00-05:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514863355",
-      "verified": "2026-11-06 daily summary",
-      "note": "Listed as upcoming in the Nov 6 Daily Schoology Summary."
+      "verified": "2026-11-09 daily summary",
+      "note": "Listed as upcoming in the Nov 9 Daily Schoology Summary."
     },
     {
       "id": "desmond-light-interactions-poster-20261104",
@@ -286,6 +229,50 @@
       "url": "https://app.schoology.com/course/8505187335/preview/126048205/parent?url=assignment/8638921588",
       "verified": "2026-11-06 daily summary",
       "note": "Scored 2/2 in the Nov 6 Daily Schoology Summary grade list (first seen today). Stays ~5 days."
+    },
+    {
+      "id": "isaac-measurement-conversions-20261110",
+      "title": "More Measurement Conversions",
+      "kid": "isaac",
+      "course": "ADVANCED MATHEMATICS 6: 3rd Hour",
+      "due": "2026-11-10",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/course/8505185403/preview/126048205/parent?url=assignment/8640457803",
+      "verified": "2026-11-09 daily summary",
+      "note": "Due Tue Nov 10 per the Nov 9 Daily Schoology Summary; no time given."
+    },
+    {
+      "id": "desmond-measurement-conversions-20261110",
+      "title": "More Measurement Conversions",
+      "kid": "desmond",
+      "course": "ADVANCED MATHEMATICS 6: 3rd Hour",
+      "due": "2026-11-10",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/course/8505185403/preview/126048204/parent?url=assignment/8640457803",
+      "verified": "2026-11-09 daily summary",
+      "note": "Due Tue Nov 10 per the Nov 9 Daily Schoology Summary; no time given."
+    },
+    {
+      "id": "desmond-obtain-2nd-q-book-20261111",
+      "title": "Obtain 2nd Q book (Due 11/11) ----- Learn About It, Practice",
+      "kid": "desmond",
+      "course": "ACAD RESRC 6: 1st Hour: Hufflepuff",
+      "due": "2026-11-11T23:59:00-05:00",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/course/8505185342/preview/126048204/parent?url=assignment/8514863002",
+      "verified": "2026-11-09 daily summary",
+      "note": "Due Wed Nov 11 11:59pm per the Nov 9 Daily Schoology Summary."
+    },
+    {
+      "id": "desmond-fitness-sheet-20261125",
+      "title": "Fitness Sheet",
+      "kid": "desmond",
+      "course": "PHYSICAL EDUCATION 6: PHYSICAL EDUCATION 6 5B",
+      "due": "2026-11-25T23:59:00-05:00",
+      "status": "upcoming",
+      "url": "https://app.schoology.com/course/8505187733/preview/126048204/parent?url=assignment/8640158614",
+      "verified": "2026-11-09 daily summary",
+      "note": "Listed as upcoming in the Nov 9 Daily Schoology Summary."
     }
   ],
   "activities": [
@@ -393,14 +380,6 @@
       "note": "Optional fundraiser for Unified Raiders and Peer Links (t-shirts, sweatshirts). Orders close Nov 17. Put the student's first and last name in the order comment; free bulk delivery to Hillside via school mail, or paid home shipping. Fri Nov 6 ParentSquare reminder (feed https://www.parentsquare.com/feeds/95911545). MONEY: draft-only via Chief."
     },
     {
-      "title": "Moraine Penguin's Raft - 1st week of November",
-      "when": "2026-11-02",
-      "end": "2026-11-06",
-      "kid": "dax",
-      "source": "ParentSquare Penguin's Raft Sun Nov 1 ~9:04am ET (Mr. Reimann)",
-      "note": "Week of Nov 2–6 (ended today). Fri Nov 13 half day, 12:15pm dismissal. Mon–Fri Nov 16–20 Scholastic Book Fair (family shopping Wed Nov 18 4:00–6:45pm and Thu Nov 19 1:00–6:45pm; eWallet optional; volunteers via SignUpGenius). Wed–Fri Nov 18–20 Parent-Teacher Conferences. Thu Nov 19 and Fri Nov 20 HALF DAYS, 12:15pm dismissal. Also: Page Turners book club (grades 2–5), PTA student grants, NEF Parent Camp Sat Dec 5 at NHS, OverBooked anxiety talk Nov 18 6:30pm at NHS, I-CHAT form, arrival lane reminder. Optional/money items draft-only via Chief."
-    },
-    {
       "title": "Moraine: Scholastic Book Fair",
       "when": "2026-11-16",
       "end": "2026-11-20",
@@ -451,34 +430,25 @@
       "note": "Arrive 5:40pm at the Hillside Band Room in full uniform with instrument and music; seated 5:55pm; concert 6:00pm, done about 6:30pm (take instruments home). Dress: solid white long-sleeve dress shirt or blouse, solid black pants (no jeans or athletic pants), black or dark socks, all-black closed-toe shoes (no white, no Crocs), no hats or large bows. Excused-absence requests must be written and signed or emailed by Thu Nov 19; excused students perform for the teacher Nov 20-24. Email did not name a child; both boys are in Band 6. BAND: any absence request is draft-only via Chief."
     },
     {
-      "title": "Hillside: pick up leftover 6th grade camp medication by Fri Nov 6",
-      "when": "2026-11-06",
-      "kid": "both",
-      "source": "weaverla@northvilleschools.org (Laura Weaver) '6th Grade Camp Medication' Wed Nov 4 ~1:23pm ET",
-      "note": "DEADLINE WAS TODAY Fri Nov 6. Only applies if medication was provided for camp. Parents must pick it up at the Hillside office by Friday; students may not pick it up, and anything left after Friday will be disposed of. Email did not name a child, and no email shows whether medication was sent for either boy."
-    },
-    {
-      "title": "Isaac: French slides, last day in class (Fri Nov 6)",
-      "when": "2026-11-06",
-      "kid": "isaac",
-      "source": "Nov 6 Daily Schoology Summary (LANG ACQ-FRENCH 6 event)",
-      "url": "https://app.schoology.com/course/8505187257/preview/126048205/parent?url=event/8637627849/profile",
-      "note": "Schoology event 'Day 3: Last day to work on slides in class' on Fri Nov 6 in Isaac's French class (still listed in the Nov 6 Daily Summary). No due date for the slides given.",
-      "verified": "2026-11-06 daily summary"
-    },
-    {
-      "title": "NPS: End of Card Marking 1 - Elementary (informational)",
-      "when": "2026-11-06",
+      "title": "Moraine: School Wide Pajama Day (Tue Nov 10)",
+      "when": "2026-11-10",
       "kid": "dax",
-      "source": "2026-27 NPS School Calendar",
-      "url": "https://www.northvilleschools.org/about/calendar",
-      "note": "Fri Nov 6 is End of Card Marking 1 for elementary schools per the district calendar. Regular school day; Moraine pickup still 3:45pm. Informational for Dax."
+      "source": "Moraine Penguin's Raft 2nd week of November, ParentSquare Sun Nov 8 ~9:03am ET",
+      "note": "Pajama Day for the whole school on Tue Nov 10."
     },
     {
-      "title": "Board refresh note - Fri Nov 6 afternoon",
-      "when": "2026-11-06",
+      "title": "Moraine Penguin's Raft - 2nd week of November",
+      "when": "2026-11-09",
+      "end": "2026-11-13",
+      "kid": "dax",
+      "source": "ParentSquare Penguin's Raft Sun Nov 8 ~9:03am ET (Mr. Reimann)",
+      "note": "This week: Mon Nov 9 orsa Branch Day (optional credit union program); Tue Nov 10 Pajama Day; Thu Nov 12 PTA meeting 9:00am in the art room; Wed Nov 11 registration opens for the Winter session of Nuts About Science (money, draft-only via Chief); final week of the PTA Outreach / Foster Closet donation drive (items in by Fri Nov 13); Fri Nov 13 half day, 12:15pm dismissal. Ahead: Book Fair Nov 16-20, conferences Nov 18-20, half days Nov 19-20, NEF Parent Camp Sat Dec 5, OverBooked anxiety talk Nov 18 6:30pm at NHS."
+    },
+    {
+      "title": "Board refresh note - Mon Nov 9 morning",
+      "when": "2026-11-09",
       "source": "Homeroom",
-      "note": "Fri Nov 6 ~3:45pm ET (email/calendars only). No new Schoology email since the morning Daily Summary. No Overdue Submissions. New: Hillside ParentSquare Unified Spirit Wear reminder (~1:27pm ET; same merch sale closing Nov 17). Isaac overdue 0; Desmond overdue list empty; Lesson 14 Counting Classrooms still flagged (0/1). Tonight/Sat Nov 7: no kid-relevant calendar events. Today: regular school (pickup done); camp medication pickup deadline; Isaac French slides last day; elementary End of Card Marking 1. Week ahead: Desmond French Reading Mastery Check Mon Nov 9; Moraine half day Fri Nov 13 (12:15pm); Book Fair Nov 16–20; Dax conference Wed Nov 18 5:15–5:30pm; Moraine half days Nov 19–20. Athletics: 7th/8th boys basketball only (next Mon Nov 9). Lifetouch/Parent Camp promos — money draft-only via Chief. Calendars unchanged."
+      "note": "Mon Nov 9 ~6:55am ET (email/calendars only). Nov 9 Daily Schoology Summary arrived (Isaac, Desmond, Dax-empty). No Overdue Submissions emails. Isaac and Desmond overdue lists empty; Desmond Lesson 14 Counting Classrooms still flagged (0/1). Grades shown: Isaac Band A, Science A-; Desmond Band A+. New upcoming from the summary: More Measurement Conversions (both, Tue Nov 10), Desmond Obtain 2nd Q book (Wed Nov 11 11:59pm), Desmond Fitness Sheet (Nov 25). Today: Desmond French Reading Mastery Check; regular school; Hillside pickup 3:03pm, Moraine 3:45pm. Week ahead: Tue Nov 10 Moraine Pajama Day; Thu Nov 12 Moraine PTA 9am; Fri Nov 13 Moraine half day (12:15pm); Book Fair Nov 16-20; Dax conference Wed Nov 18 5:15-5:30pm. Dropped Nov 2 completed items (~5 days). Calendar pages only partly render event titles; nothing new seen. No browser portal pulls."
     }
   ],
   "events": []
