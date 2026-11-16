@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T06:50:00-05:00",
-  "note": "Mon Nov 16 morning (~6:50am ET). Nov 14, 15 and 16 Daily Schoology Summaries arrived. Isaac's Overdue Submissions is empty on Nov 16 (French Presentation and Slides were overdue on Nov 13-15; completion not confirmed). Desmond overdue list empty; Lesson 14 stays flagged as a soft-watch. Today: Hillside regular day (3:03pm), Moraine regular day (3:45pm) with the Book Fair starting. Tomorrow: Hillside Amplify Math Parent Night 6-7pm; Spirit Wear sale closes. Moraine conferences Wed-Fri with half days Thu-Fri. Calendar items beyond emails come from the NPS and Hillside calendar pages. No browser portal pulls.",
+  "updated": "2026-11-16T15:40:00-05:00",
+  "note": "Mon Nov 16 afternoon (~3:40pm ET). No new Schoology email since the morning Daily Summary. Isaac overdue empty; Desmond overdue empty, Lesson 14 stays flagged as a soft-watch. New: NPS ParentSquare safety update (informational). Tomorrow: Hillside Amplify Math Parent Night 6-7pm; Spirit Wear sale closes. Calendars unchanged. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -531,6 +531,13 @@
     }
   ],
   "activities": [
+    {
+      "title": "NPS district safety update (informational)",
+      "kid": "both",
+      "source": "ParentSquare Northville Public Schools (Superintendent Dr. Webber) Mon Nov 16 ~1:37pm ET",
+      "url": "https://www.parentsquare.com/feeds/97050275",
+      "note": "A Northville resident charged with threatening district administrators is in Oakland County jail; bond conditions include GPS monitoring and a statewide ban from Michigan school properties. He was issued a trespass notice after a concern at a school event last month and never directly interacted with students. Unrelated to the Nov 10 NHS lockdown. Families asked to report suspicious activity to school administration or authorities. Informational."
+    },
     {
       "title": "NPS district safety notice (informational)",
       "kid": "both",
