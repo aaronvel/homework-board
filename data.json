@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T06:50:00-05:00",
-  "note": "Wed Nov 18 morning (~6:50am ET). Nov 18 Daily Schoology Summary arrived. Isaac overdue empty; Desmond overdue 1 (Literary Devices Scavenger Hunt, due Nov 16; he says he turned it in); Lesson 14 stays flagged as a soft-watch. Today: Hillside 3:03pm, Moraine 3:45pm; Dax conference 5:20pm. Thu-Fri Nov 19-20 Moraine half days. Calendars not re-pulled this run. No browser portal pulls.",
+  "updated": "2026-11-18T15:40:00-05:00",
+  "note": "Wed Nov 18 afternoon (~3:40pm ET). No new Schoology email since the morning Daily Summary; Isaac overdue empty, Desmond overdue 1 (Literary Devices Scavenger Hunt; he says he turned it in), Lesson 14 still flagged. New ParentSquare: Hillside PTSA virtual meeting Thu Nov 19 6:30pm. Tonight: Dax conference 5:20pm. Thu-Fri Nov 19-20 Moraine half days. Calendars not re-pulled this run. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -748,6 +748,14 @@
       "when": "2026-11-18",
       "source": "Homeroom",
       "note": "Wed Nov 18 ~6:45am ET. Nov 18 Daily Schoology Summary arrived (Dax-empty, Desmond, Isaac). Isaac overdue empty. Desmond overdue 1: Literary Devices Scavenger Hunt (due Nov 16; Desmond commented he turned it in during class). Lesson 14 stays a soft-watch flag. Today: Hillside 3:03pm, Moraine 3:45pm; Dax conference 5:20pm at Moraine (4-7pm block). Thu-Fri Nov 19-20 Moraine half days (12:15pm). No browser portal pulls."
+    },
+    {
+      "title": "Hillside PTSA meeting (virtual)",
+      "when": "2026-11-19T18:30:00-05:00",
+      "where": "Virtual",
+      "kid": "both",
+      "source": "ParentSquare, William Jones, Hillside Middle School PTSA, Wed Nov 18 ~2:53pm ET",
+      "note": "Hillside PTSA meeting Thu Nov 19 at 6:30pm, held virtually. Optional."
     }
   ],
   "events": []
