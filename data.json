@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T06:45:00-05:00",
-  "note": "Thu Nov 19 morning (~6:45am ET). Nov 19 Daily Schoology Summary arrived. Isaac and Desmond Overdue Submissions empty; Lesson 14 (Desmond) still flagged. Moraine half day today and tomorrow (12:15pm dismissal); Hillside 3:03pm. Hillside PTSA virtual 6:30pm. Band concert Thu Dec 3 6pm; band absence requests due today. No browser portal pulls.",
+  "updated": "2026-11-19T15:35:00-05:00",
+  "note": "Thu Nov 19 afternoon (~3:35pm ET). No new Schoology email since the Nov 19 morning Daily Summary. Isaac and Desmond Overdue Submissions empty; Lesson 14 (Desmond) still flagged. Tomorrow Fri Nov 20: Moraine half day (12:15pm), Hillside 3:03pm, Mid-Unit 3 Quiz, band concert form due. Tonight: Hillside PTSA virtual 6:30pm. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -67,7 +67,7 @@
       "status": "missing",
       "url": "https://app.schoology.com/course/8505185403/preview/126048204/parent?url=assignment/8603881509",
       "verified": "2026-11-12 daily summary",
-      "note": "Was OVERDUE in the Nov 2 Daily and Oct 30 Weekly (due Fri Oct 30 9:00am). The Nov 3 Daily showed it graded 0/1; the Nov 4–Nov 12 Daily Schoology Summaries do not list it as overdue and show no new score, so it stays flagged here. (Isaac has 1/1 on the same lesson.)"
+      "note": "Was OVERDUE in the Nov 2 Daily and Oct 30 Weekly (due Fri Oct 30 9:00am). The Nov 3 Daily showed it graded 0/1; the Nov 4\u2013Nov 12 Daily Schoology Summaries do not list it as overdue and show no new score, so it stays flagged here. (Isaac has 1/1 on the same lesson.)"
     },
     {
       "id": "desmond-science-light-color-20261102",
@@ -720,10 +720,16 @@
       "note": "Hillside PTSA meeting Thu Nov 19 at 6:30pm, held virtually. Optional."
     },
     {
-      "title": "Board refresh note - Thu Nov 19 morning",
+      "title": "Hillside: Learner to Leader service series (informational)",
+      "kid": "both",
+      "source": "ParentSquare Hillside Middle School Thu Nov 19 ~2:13pm ET",
+      "note": "New after-school service series with NHS club members, 60-minute sessions on the second Tuesday of each month. Sign-up details to come."
+    },
+    {
+      "title": "Board refresh note - Thu Nov 19 afternoon",
       "when": "2026-11-19",
       "source": "Homeroom",
-      "note": "Thu Nov 19 ~6:45am ET. Nov 19 Daily Schoology Summary arrived (Dax-empty, Desmond, Isaac). Isaac and Desmond Overdue Submissions both empty (Desmond's Literary Devices Scavenger Hunt now shows 5/8). Lesson 14 stays a soft-watch flag. Today: Hillside dismissal 3:03pm; Moraine HALF DAY, dismissal 12:15pm (also Fri Nov 20). Hillside PTSA virtual 6:30pm (optional). Band absence requests due today per Ms. Nugent. Desmond Absorption Assessment date differs (teacher email Thu Nov 19 vs Schoology event Mon Nov 23). Fri Nov 20: Mid-Unit 3 Quiz, Hillside band concert form due. No new FinalForms/ParentSquare/teacher mail since Nov 18 afternoon. Calendars not re-pulled usefully this run. No browser portal pulls."
+      "note": "Thu Nov 19 ~3:35pm ET. New mail since morning: Hillside ParentSquare Learner to Leader service series (info); NPS Community FYI (Unified Apparel sale through Wed Nov 25 11:59pm; other community events). No new Schoology, FinalForms, or teacher mail. Calendars not re-pulled. No browser portal pulls."
     }
   ],
   "events": []
