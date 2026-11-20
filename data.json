@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T06:50:00-05:00",
-  "note": "Fri Nov 20 morning (~6:50am ET). Nov 20 Daily Schoology Summary arrived. Isaac overdue: Measure Up! (due Nov 19, Sciences). Desmond overdue empty; Lesson 14 still flagged. Today: Moraine half day (12:15pm), Hillside regular 3:03pm, Mid-Unit 3 Quiz, band concert form due. No browser portal pulls.",
+  "updated": "2026-11-20T15:30:00-05:00",
+  "note": "Fri Nov 20 afternoon (~3:30pm ET). No new Schoology email since the morning Daily Summary (Isaac overdue: Measure Up!, due Nov 19; Desmond overdue empty, Lesson 14 still flagged). ParentSquare: Hillside Highlights 11/20 posted (Google Doc link). Dropped completed items past ~5 days. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -90,18 +90,6 @@
       "note": "External tool, was due Tue Nov 3 11:59pm. Not in the Overdue list in the Nov 12 Daily Schoology Summary and no score shown yet. Not marked missing or complete."
     },
     {
-      "id": "isaac-practice-journal-w1-20261129",
-      "title": "Practice Journal Week 1 Locks 11/29 @11:59 PM",
-      "kid": "isaac",
-      "course": "ARTS-BAND 6",
-      "due": "2026-11-29T23:59:00-05:00",
-      "status": "completed",
-      "url": "https://app.schoology.com/course/8505185773/preview/126048205/parent?url=assignment/8620563752",
-      "verified": "2026-11-16 daily summary",
-      "note": "Submission notification in the Nov 16 Daily Schoology Summary: Isaac submitted Nov 15 at 4:14 pm (due Sun Nov 29). Stays ~5 days.",
-      "completedAt": "2026-11-15"
-    },
-    {
       "id": "desmond-ib-portfolio-student-led-20261103",
       "title": "U.0.Crit A - Ownership of Learning IB Portfolio (Student-Led)",
       "kid": "desmond",
@@ -110,18 +98,6 @@
       "status": "upcoming",
       "verified": "2026-11-12 daily summary",
       "note": "External tool, was due Tue Nov 3 11:59pm. Not in the Overdue list in the Nov 12 Daily Schoology Summary and no score shown yet. Not marked missing or complete."
-    },
-    {
-      "id": "desmond-practice-journal-w1-20261129",
-      "title": "Practice Journal Week 1 Locks 11/29 @11:59 PM",
-      "kid": "desmond",
-      "course": "ARTS-BAND 6",
-      "due": "2026-11-29T23:59:00-05:00",
-      "status": "completed",
-      "url": "https://app.schoology.com/course/8505185773/preview/126048204/parent?url=assignment/8620563752",
-      "verified": "2026-11-16 daily summary",
-      "note": "Submission notification in the Nov 16 Daily Schoology Summary: Desmond submitted Nov 15 at 4:12 pm (due Sun Nov 29). Stays ~5 days.",
-      "completedAt": "2026-11-15"
     },
     {
       "id": "desmond-khan-1124",
