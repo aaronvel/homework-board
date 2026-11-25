@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T15:40:00-05:00",
-  "note": "Tue Nov 24 afternoon (~3:40pm ET). No new Schoology email since the morning Daily Summary. Isaac overdue: Measuring Volume Gizmo (due Nov 23). Desmond overdue empty, Lesson 14 still flagged. Tonight: Moraine Dine to Donate 4-7pm; Vocab and Khan lock at midnight. Wed Nov 25 Hillside dismisses 11:35am (ParentSquare), Moraine half day per calendars; Thanksgiving recess Nov 26-27. No browser portal pulls.",
+  "updated": "2026-11-25T06:45:00-05:00",
+  "note": "Wed Nov 25 morning (~6:45am ET). Nov 25 Daily Schoology Summary arrived. Isaac and Desmond Overdue Submissions both empty; Isaac submitted Measuring Volume Gizmo (Nov 24 5:11pm) and Measure Up! (6:23pm); Desmond Lesson 14 still flagged on board. Today HALF DAY: Hillside dismisses 11:35am (office open to 12:15pm), Moraine half day dismissal 12:15pm. Fitness Sheet (Desmond) due tonight 11:59pm. Thanksgiving break Nov 26-27, classes resume Mon Nov 30. No browser portal pulls.",
   "kids": [
     {
       "id": "isaac",
@@ -140,8 +140,8 @@
       "due": "2026-11-25T23:59:00-05:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505187733/preview/126048204/parent?url=assignment/8640158614",
-      "verified": "2026-11-23 daily summary",
-      "note": "Listed as upcoming in the Nov 16 Daily Schoology Summary."
+      "verified": "2026-11-25 daily summary",
+      "note": "Listed as upcoming in the Nov 16 Daily Schoology Summary. Still listed in the Nov 25 summary."
     },
     {
       "id": "isaac-continents-practice-20261111",
@@ -172,17 +172,6 @@
       "status": "upcoming",
       "verified": "2026-11-16 daily summary",
       "note": "Listed as due TODAY Mon Nov 16 11:59pm (external tool) in the Nov 14, 15 and 16 Daily Schoology Summaries; earlier summaries had listed it for Fri Nov 13. No score shown."
-    },
-    {
-      "id": "isaac-mass-weight-space-20261112",
-      "title": "Mass and Weight and Space (external tool)",
-      "kid": "isaac",
-      "course": "SCIENCES 6: 2nd Hour",
-      "due": "2026-11-12T23:59:00-05:00",
-      "status": "completed",
-      "verified": "2026-11-20 daily summary",
-      "note": "Received 3/3 Nov 19 at 9:39 pm per the Nov 20 Daily Schoology Summary. Stays ~5 days.",
-      "completedAt": "2026-11-19"
     },
     {
       "id": "isaac-french-presentation-20261112",
@@ -249,18 +238,6 @@
       "note": "Due Thu Nov 19 11:59pm per the Nov 14-16 Daily Schoology Summaries. Nov 20 Daily Summary still lists it in the grade list with no score; not in Overdue (empty). Completion not confirmed. Nov 24 Daily: Chap. 4-5 Quiz: The Watsons Go to Birmingham shows 3/8."
     },
     {
-      "id": "desmond-literary-devices-20261116",
-      "title": "Literary Devices Scavenger Hunt (TWGTB- 1963)",
-      "kid": "desmond",
-      "course": "LANGUAGE AND LITERATURE 6",
-      "due": "2026-11-16T14:59:00-05:00",
-      "status": "completed",
-      "url": "https://app.schoology.com/course/8505187334/preview/126048204/parent?url=assignment/8650245655",
-      "verified": "2026-11-19 daily summary",
-      "note": "Scored 5/8 per the Nov 19 Daily Schoology Summary grade list; no longer in Desmond's Overdue Submissions (Overdue empty). Stays ~5 days.",
-      "completedAt": "2026-11-19"
-    },
-    {
       "id": "desmond-character-study-20261120",
       "title": "Character Study: TWGTB- 1963",
       "kid": "desmond",
@@ -283,17 +260,6 @@
       "note": "Live presentations Nov 18-20; due Fri Nov 20 11:59pm per the Nov 17 Daily Schoology Summary. Nov 19 Daily Summary grade list shows 6/8 for this item; still listed as due Fri Nov 20 11:59pm."
     },
     {
-      "id": "isaac-measuring-volume-20261118",
-      "title": "Measuring and Calculating Volume (external tool)",
-      "kid": "isaac",
-      "course": "SCIENCES 6: 2nd Hour",
-      "due": "2026-11-18T23:59:00-05:00",
-      "status": "completed",
-      "verified": "2026-11-20 daily summary",
-      "note": "Received 7.37/11 Nov 19 at 9:31 pm (grade list shows 7/11) per the Nov 20 Daily Schoology Summary. Stays ~5 days.",
-      "completedAt": "2026-11-19"
-    },
-    {
       "id": "isaac-practice-journal-w34-20261130",
       "title": "Practice Journal Weeks 3 & 4 Locks 12/13@11:59 PM (Attach from Drive)",
       "kid": "isaac",
@@ -301,8 +267,8 @@
       "due": "2026-11-30T23:59:00-05:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048205/parent?url=assignment/8620564023",
-      "verified": "2026-11-23 daily summary",
-      "note": "Due Mon Nov 30 11:59pm per the Nov 17 Daily Schoology Summary."
+      "verified": "2026-11-25 daily summary",
+      "note": "Due Mon Nov 30 11:59pm per the Nov 17 Daily Schoology Summary. Still listed in the Nov 25 summary."
     },
     {
       "id": "desmond-practice-journal-w34-20261130",
@@ -312,8 +278,8 @@
       "due": "2026-11-30T23:59:00-05:00",
       "status": "upcoming",
       "url": "https://app.schoology.com/course/8505185773/preview/126048204/parent?url=assignment/8620564023",
-      "verified": "2026-11-23 daily summary",
-      "note": "Due Mon Nov 30 11:59pm per the Nov 17 Daily Schoology Summary."
+      "verified": "2026-11-25 daily summary",
+      "note": "Due Mon Nov 30 11:59pm per the Nov 17 Daily Schoology Summary. Still listed in the Nov 25 summary."
     },
     {
       "id": "isaac-music-theory-6-8-1125",
@@ -325,18 +291,6 @@
       "url": "https://app.schoology.com/course/8505185773/preview/126048205/parent?url=assignment/8653376116",
       "verified": "2026-11-20 daily summary",
       "note": "Listed in Isaac's Band grade list in the Nov 18 Daily Schoology Summary (no score shown); title says locks 11/25 11:30am."
-    },
-    {
-      "id": "isaac-division-challenges-20261118",
-      "title": "Lesson 6 & 7: Division Challenges",
-      "kid": "isaac",
-      "course": "ADVANCED MATHEMATICS 6: 3rd Hour",
-      "due": "2026-11-18T09:00:00-05:00",
-      "status": "completed",
-      "url": "https://app.schoology.com/course/8505185403/preview/126048205/parent?url=assignment/8649002969",
-      "verified": "2026-11-19 daily summary",
-      "note": "Submission notification in the Nov 19 Daily Schoology Summary: Isaac submitted Nov 18 at 8:07 am. Stays ~5 days.",
-      "completedAt": "2026-11-18"
     },
     {
       "id": "isaac-plate-tectonics-ku-20261120",
@@ -359,82 +313,16 @@
       "note": "External tool, listed due TODAY Mon Nov 23 11:59pm in the Nov 23 Daily Schoology Summary (earlier listed Nov 20). Not in Overdue. No score shown."
     },
     {
-      "id": "isaac-lesson12-puzzling-areas-20261118",
-      "title": "Lesson 12: Puzzling Areas",
-      "kid": "isaac",
-      "course": "ADVANCED MATHEMATICS 6: 3rd Hour",
-      "status": "completed",
-      "completedAt": "2026-11-18",
-      "url": "https://app.schoology.com/course/8505185403/preview/126048205/parent?url=assignment/8649003017",
-      "verified": "2026-11-19 daily summary",
-      "note": "Submission notification in the Nov 19 Daily Schoology Summary: Isaac submitted Nov 18 at 1:55 pm. Stays ~5 days."
-    },
-    {
-      "id": "desmond-lesson1-check-20261118",
-      "title": "Lesson 1 Check",
-      "kid": "desmond",
-      "course": "SCIENCES 6: 2nd Hour",
-      "status": "completed",
-      "completedAt": "2026-11-18",
-      "url": "https://app.schoology.com/course/8505187889/preview/126048204/parent?url=assignment/8656011177",
-      "verified": "2026-11-19 daily summary",
-      "note": "Desmond submitted Nov 18 at 9:57 am and received 1.5/3 per the Nov 19 Daily Schoology Summary. Stays ~5 days."
-    },
-    {
-      "id": "isaac-watsons-character-study-1118",
-      "title": "Watsons Character Study - 11/18",
-      "kid": "isaac",
-      "course": "LANGUAGE AND LITERATURE 6",
-      "status": "completed",
-      "completedAt": "2026-11-18",
-      "url": "https://app.schoology.com/course/8505187335/preview/126048205/parent?url=assignment/8656347048",
-      "verified": "2026-11-19 daily summary",
-      "note": "Listed in Isaac's Language and Literature grade list in the Nov 19 Daily Schoology Summary; no score shown. Stays ~5 days."
-    },
-    {
       "id": "isaac-measure-up-20261119",
       "title": "Measure Up!",
       "kid": "isaac",
       "course": "SCIENCES 6: 2nd Hour",
       "due": "2026-11-24T23:59:00-05:00",
-      "status": "upcoming",
+      "status": "completed",
       "url": "https://app.schoology.com/course/8505187890/preview/126048205/parent?url=assignment/8657607429",
-      "verified": "2026-11-23 daily summary",
-      "note": "Was OVERDUE in the Nov 20 summary (due Nov 19). The Nov 23 Daily Schoology Summary shows Isaac's Overdue Submissions empty and lists Measure Up! (Sciences 6) as due Tue Nov 24 11:59pm. Completion not confirmed."
-    },
-    {
-      "id": "isaac-measurement-lesson-check-20261119",
-      "title": "Measurement Lesson Check",
-      "kid": "isaac",
-      "course": "SCIENCES 6: 2nd Hour",
-      "due": "2026-11-19T23:59:00-05:00",
-      "status": "completed",
-      "url": "https://app.schoology.com/course/8505187890/preview/126048205/parent?url=assignment/8650263263",
-      "verified": "2026-11-20 daily summary",
-      "note": "Isaac submitted Nov 19 at 9:20 am and received 4/5 per the Nov 20 Daily Schoology Summary. Stays ~5 days.",
-      "completedAt": "2026-11-19"
-    },
-    {
-      "course": "LANG ACQ-FRENCH 6",
-      "status": "completed",
-      "verified": "2026-11-20 daily summary",
-      "id": "desmond-ef-venn-20261119",
-      "title": "EF: Unit 2: Venn Diagram p. 14 (Step #5)",
-      "kid": "desmond",
-      "completedAt": "2026-11-19",
-      "url": "https://app.schoology.com/course/8505187256/preview/126048204/parent?url=assignment/8656038595",
-      "note": "Received 0.5/1 Nov 19 at 4:39 pm per the Nov 20 Daily Schoology Summary. Stays ~5 days."
-    },
-    {
-      "course": "LANG ACQ-FRENCH 6",
-      "status": "completed",
-      "verified": "2026-11-20 daily summary",
-      "id": "desmond-ef-lechart-20261119",
-      "title": "EF: Unit 2: Le, la chart p. 14 (Step #2)",
-      "kid": "desmond",
-      "completedAt": "2026-11-19",
-      "url": "https://app.schoology.com/course/8505187256/preview/126048204/parent?url=assignment/8656038594",
-      "note": "Received 0.5/1 Nov 19 at 4:37 pm per the Nov 20 Daily Schoology Summary. Stays ~5 days."
+      "verified": "2026-11-25 daily summary",
+      "note": "Submission Notification in the Nov 25 Daily Schoology Summary: submitted Nov 24 at 6:23 pm. Stays ~5 days.",
+      "completedAt": "2026-11-24"
     },
     {
       "course": "ADVANCED MATHEMATICS 6: 3rd Hour",
@@ -475,10 +363,11 @@
       "kid": "isaac",
       "course": "SCIENCES 6: 2nd Hour",
       "due": "2026-11-23T23:59:00-05:00",
-      "status": "missing",
+      "status": "completed",
       "url": "https://app.schoology.com/course/8505187890/preview/126048205/parent?url=assignment/8538548770",
-      "verified": "2026-11-24 daily summary",
-      "note": "OVERDUE per the Nov 24 Daily Schoology Summary (Overdue Submissions, 1 day overdue; was due Mon Nov 23 11:59pm)."
+      "verified": "2026-11-25 daily summary",
+      "note": "Was OVERDUE (due Mon Nov 23). Submission Notification in the Nov 25 Daily Schoology Summary: submitted Nov 24 at 5:11 pm. Stays ~5 days.",
+      "completedAt": "2026-11-24"
     },
     {
       "id": "desmond-lesson13-fruit-20261124",
@@ -506,9 +395,154 @@
       "kid": "desmond",
       "course": "LANGUAGE AND LITERATURE 6",
       "due": "2026-11-24T14:59:00-05:00",
+      "status": "completed",
+      "verified": "2026-11-25 daily summary",
+      "note": "Scored 6/8 per the Nov 25 Daily Schoology Summary grade list. Stays ~5 days.",
+      "completedAt": "2026-11-24"
+    },
+    {
+      "id": "isaac-mapping-perspectives-20261201",
+      "title": "U.2.2.4.1-3 - Practice - Mapping Perspectives (external tool)",
+      "kid": "isaac",
+      "course": "INDIVIDUALS AND SOCIETIES 6: Tumolo IaS Hr. 4",
+      "due": "2026-12-01T23:59:00-05:00",
       "status": "upcoming",
-      "verified": "2026-11-24 daily summary",
-      "note": "Due today Tue Nov 24 2:59pm per the Nov 24 Daily Schoology Summary calendar. Not marked complete or missing."
+      "verified": "2026-11-25 daily summary",
+      "note": "Due Tue Dec 1 11:59pm per the Nov 25 Daily Schoology Summary."
+    },
+    {
+      "id": "isaac-dec-concert-assessment-20261203",
+      "title": "December Concert Assessment",
+      "kid": "isaac",
+      "course": "ARTS-BAND 6",
+      "due": "2026-12-03T23:59:00-05:00",
+      "status": "upcoming",
+      "verified": "2026-11-25 daily summary",
+      "note": "Due Thu Dec 3 11:59pm per the Nov 25 Daily Schoology Summary. Band item: draft-only via Chief if action needed."
+    },
+    {
+      "id": "isaac-band-concert-20261203",
+      "title": "Event: Band Concert (6:00 pm)",
+      "kid": "isaac",
+      "course": "ARTS-BAND 6",
+      "due": "2026-12-03T18:00:00-05:00",
+      "status": "upcoming",
+      "verified": "2026-11-25 daily summary",
+      "note": "Thu Dec 3 6:00 pm per the Nov 25 Daily Schoology Summary calendar."
+    },
+    {
+      "id": "isaac-concert-reflection-20261204",
+      "title": "Event: Concert Reflection using Schoology/Chromebook",
+      "kid": "isaac",
+      "course": "ARTS-BAND 6",
+      "due": "2026-12-04",
+      "status": "upcoming",
+      "verified": "2026-11-25 daily summary",
+      "note": "Fri Dec 4 per the Nov 25 Daily Schoology Summary calendar; no time given."
+    },
+    {
+      "id": "desmond-mapping-perspectives-20261201",
+      "title": "U.2.2.4.1-3 - Practice - Mapping Perspectives (external tool)",
+      "kid": "desmond",
+      "course": "INDIVIDUALS AND SOCIETIES 6: Tumolo IaS Hr. 4",
+      "due": "2026-12-01T23:59:00-05:00",
+      "status": "upcoming",
+      "verified": "2026-11-25 daily summary",
+      "note": "Due Tue Dec 1 11:59pm per the Nov 25 Daily Schoology Summary."
+    },
+    {
+      "id": "desmond-dec-concert-assessment-20261203",
+      "title": "December Concert Assessment",
+      "kid": "desmond",
+      "course": "ARTS-BAND 6",
+      "due": "2026-12-03T23:59:00-05:00",
+      "status": "upcoming",
+      "verified": "2026-11-25 daily summary",
+      "note": "Due Thu Dec 3 11:59pm per the Nov 25 Daily Schoology Summary. Band item: draft-only via Chief if action needed."
+    },
+    {
+      "id": "desmond-band-concert-20261203",
+      "title": "Event: Band Concert (6:00 pm)",
+      "kid": "desmond",
+      "course": "ARTS-BAND 6",
+      "due": "2026-12-03T18:00:00-05:00",
+      "status": "upcoming",
+      "verified": "2026-11-25 daily summary",
+      "note": "Thu Dec 3 6:00 pm per the Nov 25 Daily Schoology Summary calendar."
+    },
+    {
+      "id": "desmond-concert-reflection-20261204",
+      "title": "Event: Concert Reflection using Schoology/Chromebook",
+      "kid": "desmond",
+      "course": "ARTS-BAND 6",
+      "due": "2026-12-04",
+      "status": "upcoming",
+      "verified": "2026-11-25 daily summary",
+      "note": "Fri Dec 4 per the Nov 25 Daily Schoology Summary calendar; no time given."
+    },
+    {
+      "id": "desmond-band-vocab-assessment-20261211",
+      "title": "Event: BA1_Band6 Vocabulary Assessment",
+      "kid": "desmond",
+      "course": "ARTS-BAND 6",
+      "due": "2026-12-11",
+      "status": "upcoming",
+      "verified": "2026-11-25 daily summary",
+      "note": "Fri Dec 11 per the Nov 25 Daily Schoology Summary calendar; no time given."
+    },
+    {
+      "id": "isaac-french-quiz-unit3-20261208",
+      "title": "Event: Quiz Unit 3",
+      "kid": "isaac",
+      "course": "LANG ACQ-FRENCH 6",
+      "due": "2026-12-08",
+      "status": "upcoming",
+      "verified": "2026-11-25 daily summary",
+      "note": "Tue Dec 8 per the Nov 25 Daily Schoology Summary calendar; no time given."
+    },
+    {
+      "id": "isaac-midunit3-quiz",
+      "title": "Mid-Unit 3 Quiz (fractions)",
+      "kid": "isaac",
+      "course": "ADVANCED MATHEMATICS 6: 3rd Hour",
+      "due": "2026-11-24",
+      "status": "completed",
+      "verified": "2026-11-25 daily summary",
+      "note": "Scored 3/8 per the Nov 25 Daily Schoology Summary grade list. Stays ~5 days.",
+      "completedAt": "2026-11-24"
+    },
+    {
+      "id": "desmond-midunit3-quiz",
+      "title": "Mid-Unit 3 Quiz (fractions)",
+      "kid": "desmond",
+      "course": "ADVANCED MATHEMATICS 6: 3rd Hour",
+      "due": "2026-11-24",
+      "status": "completed",
+      "verified": "2026-11-25 daily summary",
+      "note": "Scored 7/8 per the Nov 25 Daily Schoology Summary grade list. Stays ~5 days.",
+      "completedAt": "2026-11-24"
+    },
+    {
+      "id": "isaac-figurative-assessment-1124",
+      "title": "Figurative Language Assessment - 11/24",
+      "kid": "isaac",
+      "course": "LANGUAGE AND LITERATURE 6",
+      "due": "2026-11-24",
+      "status": "completed",
+      "verified": "2026-11-25 daily summary",
+      "note": "Grade A- per the Nov 25 Daily Schoology Summary grade list. Stays ~5 days.",
+      "completedAt": "2026-11-24"
+    },
+    {
+      "id": "desmond-figurative-sort-1124",
+      "title": "Figurative Language Sort",
+      "kid": "desmond",
+      "course": "LANGUAGE AND LITERATURE 6",
+      "due": "2026-11-24",
+      "status": "completed",
+      "verified": "2026-11-25 daily summary",
+      "note": "Scored 8/8 Nov 24 at 9:36 am per the Nov 25 Daily Schoology Summary. Stays ~5 days.",
+      "completedAt": "2026-11-24"
     }
   ],
   "activities": [
